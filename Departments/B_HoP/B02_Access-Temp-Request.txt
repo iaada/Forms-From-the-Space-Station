@@ -1,0 +1,50 @@
+# B-02 Temporary Access Request Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Temporary Access Request Form[/head]
+█ ▀█     █     [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]  [italic][color=#aaaaaa]B-02[/color][/italic]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]The subject of this form requests [color=#1b67a5]below[/color] ID level access.[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Do you represent the needs or interests of a department?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
+      [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
+                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]   ▪  ▪  ▪[/color]
+
+[bold]Access:[/bold]
+[bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical  [bold][color=#aaaaaa]O[/color][/bold] Chemistry  [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Atmos
+[bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Cargo  [bold][color=#aaaaaa]O[/color][/bold] Salvage  [bold][color=#aaaaaa]O[/color][/bold] Security  [bold][color=#aaaaaa]O[/color][/bold] Armory
+[bold][color=#aaaaaa]O[/color][/bold] Command  [bold][color=#aaaaaa]O[/color][/bold] Maintence  [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]  ■  [/color]
+                                                                       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Access expires upon:[/bold]     [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
+                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Purpose of Request:[/bold]
+[italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
+       ■
+[/color]
+
+[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#1b67a5]Escort Request:[/color][/head]
+[italic]An individual will act as escort and access for the subject.[/italic]
+
+[bold]Requested Escort:[/bold]         [color=blue]   ■   [/color]
+                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#1b67a5]Temporary ID Request:[/color][/head]
+[italic]A temporary ID will be provided as access.
+[color=#1b67a5]Loss of ID may result in arrest, demotion, or contract termination.[/color][/italic]
+
+
+[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#1b67a5]Alternative Means:[/color][/head]
+[italic]Up to and including removal of walls and airlocks.
+[color=#1b67a5]An approved [color=#f39f27]E-01 (Building Permit)[/color] must be provided.[/color][/italic]
+
+
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the head of a department (where valid), the Head of Personnel, or the Captain. In the case of multiple departments, seek multiple stamps.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Those who abuse granted permission may be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

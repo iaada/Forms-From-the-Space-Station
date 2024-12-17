@@ -1,0 +1,10 @@
+# Public Service Announcement
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Public Service Announcement[/head]
+█ ▀█     █        From the desk of NAME
+                       Subject: [color=blue] SUBJECT [/color]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[color=blue]
+BODY
+
+
+[/color]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color][color=blue]
+Sincerely, NAME.

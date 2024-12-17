@@ -1,0 +1,32 @@
+# Forensic Crime Report
+[color=#cb0000]▄▄▄    ▄
+█▄▄    █      [head=3]Forensic Crime Report[/head]
+▄▄█    █       [bold]Station Investigator NAME[/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]Crime Comitted:[/bold]         [color=blue]   ■   [/color]
+                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Crime Location:[/bold]         [color=blue]   ■   [/color]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Responding officer(s):[/bold]
+[color=blue] ├  ■ [/color]
+
+[bold]Evidence on scene:[/bold][color=blue]
+       ■
+[/color]
+
+[bold]Witness testimony:[/bold][color=blue]
+ ├  ■
+ └─
+       ■
+[/color]
+
+[bold]Suspects:[/bold][color=blue]
+ ├  ■
+[/color]
+
+[bold]Theories & Notes:[/bold][color=blue]
+       ■
+[/color]
+
+[italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]

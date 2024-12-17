@@ -1,0 +1,11 @@
+# Mail
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Official Letterhead[/head]
+█ ▀█     █            From the Desk of NAME
+                                To: [color=black] RECIPIENT [/color]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[color=black]
+   
+      BODY
+
+
+[/color]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪
+      Sincerely, NAME.

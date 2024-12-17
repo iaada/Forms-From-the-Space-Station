@@ -1,0 +1,25 @@
+# D-02 Bill of Sale
+[color=#b18644]█▄ █ ▀█▀    [head=3]Bill of Sale[/head] [italic][color=#aaaaaa]D-02[/color][/italic]
+█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+   
+[bold]This form represents an exchange of items for currency (referred to as a [color=#b18644]"sale"[/color]). This [color=#b18644]sale[/color] entitles the seller to the stated amount in spesos. If spesos can not be provided, an item or items of equivalent value may be substituted.[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Description of Item(s):[/bold]
+[italic][color=#aaaaaa]Provide a detailed and exhaustive list.[/color][/italic][color=blue]
+ [bullet/] ■
+ [bullet/] ■
+[/color]
+[bold]Value of [color=#b18644]Sale[/color] in Spesos:[/bold]         [color=blue]   ■   [/color]
+                                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] approved.
+
+Quartermaster withholds the right to deny a sale for any reason.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

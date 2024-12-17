@@ -1,0 +1,64 @@
+# A-01 Formal Complaint Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Formal Complaint Form[/head] [italic][color=#aaaaaa]A-01[/color][/italic]
+█ ▀█     █
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]This form represents an [color=#1b67a5]official complaint[/color] against an individual or group of individuals.[/bold]
+
+[color=#1b67a5][head=2]Section A[/head][/color]
+
+[bold]Your Name:[/bold]         [color=blue]   ■   [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Your Position:[/bold]         [color=blue]   ■   [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#1b67a5][head=2]Section B[/head][/color]
+[bold]You are complaining about:[/bold]
+[bold][color=#aaaaaa]O[/color][/bold] A Person  [bold][color=#aaaaaa]O[/color][/bold] A Department  [bold][color=#aaaaaa]O[/color][/bold] A Department Head  [bold][color=#aaaaaa]O[/color][/bold] Other
+                                                                [italic][color=#aaaaaa]If other, skip to Section C.[/color][/italic]
+
+[bold]The person/department works in/is one of the following:[/bold]
+[bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical  [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Cargo
+[bold][color=#aaaaaa]O[/color][/bold] Grey  [bold][color=#aaaaaa]O[/color][/bold] Security  [bold][color=#aaaaaa]O[/color][/bold] Command  [bold][color=#aaaaaa]O[/color][/bold] CentCom
+[bold][color=#aaaaaa]O[/color][/bold] Unknown  [bold][color=#aaaaaa]O[/color][/bold] Visitor  [bold][color=#aaaaaa]O[/color][/bold] Other:     [color=blue]   ■   [/color]
+                                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Person/Persons of complaint (if applicable):[/bold]
+Name(s):         [color=blue]   ■   [/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+                          [color=blue]    [/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+                          [color=blue]    [/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Misconduct:[/bold]
+[italic][color=#aaaaaa]Mark all that apply.[/color][/italic]
+[bold][color=#aaaaaa]O[/color][/bold] Violation of Space Law       [bold][color=#aaaaaa]O[/color][/bold] Acting against NT interests
+[bold][color=#aaaaaa]O[/color][/bold] Destruction of Property    [bold][color=#aaaaaa]O[/color][/bold] Causing a disturbance
+[bold][color=#aaaaaa]O[/color][/bold] "Unspeakable Acts"            [bold][color=#aaaaaa]O[/color][/bold] Sabotage of equipment
+[bold][color=#aaaaaa]O[/color][/bold] Theft of Property                 [bold][color=#aaaaaa]O[/color][/bold] Overly Bureaucratic
+[bold][color=#aaaaaa]O[/color][/bold] Overly Rude/Mean              [bold][color=#aaaaaa]O[/color][/bold] Not Bureaucratic Enough
+[bold][color=#aaaaaa]O[/color][/bold] Just Really Fucking Annoying Like My God Man
+[bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]   ■   [/color]
+                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]How many people are affected by the misconduct?[/bold]
+[bold][color=#aaaaaa]O[/color][/bold] Just Me    [bold][color=#aaaaaa]O[/color][/bold] A Few People    [bold][color=#aaaaaa]O[/color][/bold] A Department Worth
+[bold][color=#aaaaaa]O[/color][/bold] Multiple Departments Worth    [bold][color=#aaaaaa]O[/color][/bold] Entire Station
+
+[color=#1b67a5][head=2]Section C[/head][/color]
+[bold]Provide a detailed explanation of the missconduct below, providing all details relevant to the story.[/bold]
+[color=blue]
+    ■
+[/color]
+
+[color=#1b67a5][head=2]Section D[/head][/color]
+I, the undersigned, hereby declare that my time wasted by filling out and submitting this form, and the time wasted by the receiver reading this form, pales in comparison to the emotional toll inflicted by the misconduct of the subject of this complaint.
+
+[bold]Applicable Signature:[/bold]      [color=blue]   ■   [/color]
+                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+											 
+[color=#1b67a5][bold]Submit this form to the Captain, the HoP, another relevant command head, or to CentComm for review. Refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold][/color]
+
+
+[italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Abuse of this form may result in a fine of up to 5000 spesos pursuant NT Handbook §16-8.7c[/color][/italic]

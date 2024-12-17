@@ -1,0 +1,31 @@
+# H-02 Mutation Request Form
+[color=#2c8902]█▄ █ ▀█▀    [head=3]Mutation Request Form[/head] [italic][color=#aaaaaa]H-02[/color][/italic]
+█ ▀█     █        Green is What We're Known For
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+   
+[bold]This form is for placing [color=#2c8902]orders for mutated plants[/color] through the [color=#2c8902]Hydroponics[/color] department. Be detailed and specific.[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Do you represent the needs or interests of a department?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
+      [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
+                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#2c8902]   ▪  ▪  ▪[/color]
+
+[bold]Your Order:[/bold]
+[italic][color=#aaaaaa]Provide a detailed and exhaustive list.[/color][/italic][color=blue]
+       ■
+[/color]
+
+[bold]Purpose of Request:[/bold]
+[italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
+       ■
+[/color]
+
+
+[italic][color=#aaaaaa]H-02 requests are handled in the order they are received.
+
+Botany withholds the right to change request policies at any time.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]

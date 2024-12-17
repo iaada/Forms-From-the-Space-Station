@@ -1,0 +1,49 @@
+# E-01 Building Permit
+[color=#f39f27]█▄ █ ▀█▀    [head=2]Building Permit[/head] [italic][color=#aaaaaa]E-01[/color][/italic]
+█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]This form represents a [color=#f39f27]permit to build[/color] the specified structure at the specified location.[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Do you represent the needs or interests of a department?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
+      [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
+                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Do you possess an accompanying [color=#f39f27]E-02 (Requisitions)[/color]?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] Yes      [bold][color=#aaaaaa]O[/color][/bold] No
+
+[bold]Do you possess an accompanying [color=#f39f27]E-03 (Work Order)[/color]?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] Yes      [bold][color=#aaaaaa]O[/color][/bold] No
+
+[color=#f39f27]   ▪  ▪  ▪[/color]
+
+[bold]Location of Build:[/bold]         [color=blue]   ■   [/color]
+                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Purpose of Build:[/bold]
+[italic][color=#aaaaaa]Describe how the structure will be used.[/color][/italic][color=blue]
+       ■
+[/color]
+
+
+[bold]Structural Modifications:[/bold]
+[italic][color=#aaaaaa]Describe all changes to existing walls, structures, and facilites.[/color][/italic][color=blue]
+       ■
+[/color]
+
+
+[color=#f39f27][head=3][bold]AS CHIEF ENGINEER I HEREBY CERTIFY:[/bold][/head][/color]
+[bold]1.[/bold] I have been duly informed, and am aware of all matters pertaining to this permit.
+[bold]2.[/bold] I vouch for the safety and utility of the structure as described above.
+[bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the CE.
+
+The CE reserves the right to revoke this permit at any time.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Those who abuse granted permission may be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

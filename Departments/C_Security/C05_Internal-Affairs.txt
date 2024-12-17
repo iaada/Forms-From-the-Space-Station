@@ -1,0 +1,38 @@
+# C-05 Internal Affairs Report C-05
+[color=#cb0000]█▄ █ ▀█▀    [head=3]Internal Affairs Report[/head] [italic][color=#aaaaaa]C-05[/color][/italic]
+█ ▀█     █
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]This report represents an [color=#cb0000]official complaint[/color] against a security officer for breach of conduct.[/bold]
+
+[color=#cb0000][head=2]Section A[/head][/color]
+
+[bold]Your Name:[/bold]         [color=blue]   ■   [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Your Position:[/bold]         [color=blue]   ■   [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Rate your familiarity with Space Law and sector bylaws:[/bold]
+            \[1]     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     \[10]
+
+[color=#cb0000][head=2]Section B[/head][/color]
+
+[bold]Officer's Name:[/bold]         [color=blue]   ■   [/color]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Officer's Position:[/bold]
+[bold][color=#aaaaaa]O[/color][/bold] Cadet         [bold][color=#aaaaaa]O[/color][/bold] Officer         [bold][color=#aaaaaa]O[/color][/bold] Brigmedic         [bold][color=#aaaaaa]O[/color][/bold] Warden
+[bold][color=#aaaaaa]O[/color][/bold] Head of Security       [bold][color=#aaaaaa]O[/color][/bold] Other:     [color=blue]   ■   [/color]
+                                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#cb0000][head=2]Section C[/head][/color]
+[bold]When did the incident occur?[/bold]        [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
+                                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Provide a detailed explanation of the missconduct below, providing all details relevant to the story.[/bold]
+[color=blue]
+    ■
+[/color]
+
+[color=#cb0000][bold]Submit this report to the Head of Security, the Captain, or to CentComm for review. Refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold][/color]
+
+
+[italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Abuse of this form may result in a fine of up to 5000 spesos pursuant NT Handbook §16-8.7c[/color][/italic]

@@ -1,0 +1,67 @@
+[color=#5b97bc]█▄ █ ▀█▀
+█ ▀█     █                    [head=3]Slurry Special Order Menu[/head]
+  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[color=#5b97bc][head=2]Basic Flavors[/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+Aluminium Carbon Chlorine
+Copper Ethanol Fluorine
+Hydrogen Iodine Iron
+Lithium Mercury Nitrogen
+Oxygen Phosphorus Potassium
+Radium Silicon Sodium
+Sugar Sulfur Water
+
+[color=#5b97bc][head=2]Standard Flavors[/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+Ammonia
+Ash
+Bicaridine
+Charcoal
+Cooking Oil
+Copper Saline
+Cryoxadone
+Dermaline
+Dexalin
+Diethylamine
+Doxarubixadone
+Dylovene
+Ethylredoxrazine
+EZ Nutrient
+Fat
+Fersilicite
+Hyronalin
+Inaprovaline
+Ipecac
+Iron Saline
+Kelotane
+Leporazine
+Potassium Iodine
+Robust Harvest
+Sodium Polyacrylate
+Space Cleaner
+Space Lube
+Sulfuric Acid
+Synaptizine
+Tranexamic Acid
+Table Salt
+Tricordrazine
+Unstable Mutagen
+Vinegar
+
+[color=#5b97bc][head=2]Premium Flavors[/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+Arithrazine
+Bleach
+Chloral Hydrate
+Dexalin+
+Epinephrine
+Mustard
+Phalanximine
+Plasma
+Protein
+Razorium
+Space Glue

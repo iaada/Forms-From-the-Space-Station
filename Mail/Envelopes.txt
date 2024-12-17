@@ -1,0 +1,85 @@
+#Envelope Templates
+# Urgency Stamps
+
+[color=#ef1111][head=2]╔═══════════╗
+║CONFIDENTIAL ║
+╚═══════════╝[/head][/color]
+
+[color=#ef1111][head=2]╔═══════════╗
+║ FINAL NOTICE ║
+╚═══════════╝[/head][/color]
+
+[color=#ef1111][head=3]╔═════════════╗
+║  PLEASE RESPOND ║
+║  IMMEDIATELY       ║
+╚═════════════╝[/head][/color]
+
+[color=#ef1111][head=2]╔══════╗
+║URGENT ║
+╚══════╝[/head][/color]
+
+
+# Confidential Templates
+
+[color=#009100]    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+CONFIDENTIAL COMMAND
+DOCUMENTS ENCLOSED
+    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[bold]DELIVER TO:[/bold]  [color=blue]SAMPLE NAME[/color]
+
+[color=#5b97bc]    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+CONFIDENTIAL MEDICAL
+RECORDS ENCLOSED
+    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[bold]DELIVER TO:[/bold]  [color=blue]SAMPLE NAME[/color]
+
+[color=#cb0000]    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+CONFIDENTIAL SECURITY
+RECORDS ENCLOSED
+    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[bold]DELIVER TO:[/bold]  [color=blue]SAMPLE NAME[/color]
+
+[color=#1b67a5]    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+CONFIDENTIAL STATION
+RECORDS ENCLOSED
+    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[bold]DELIVER TO:[/bold]  [color=blue]SAMPLE NAME[/color]
+
+[color=#b18644]    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+TAX RECORDS ENCLOSED
+    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[bold]DELIVER TO:[/bold]  [color=blue]SAMPLE NAME[/color]
+
+
+# General Headers
+
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+[color=#1b67a5][head=2]NT OFFICIAL MAIL[/head][/color]
+[color=#ff0000][head=2]OFFICIAL SYNDICATE MAIL[/head][/color]
+[color=#cb0000][head=2]OFFICIAL SECURITY MAIL[/head][/color]
+[color=#6e6e6e][head=2]Intra-Station Postal[/head][/color]
+[color=#1b67a5][head=2]NT Business Mail[/head][/color]
+
+
+# General Body
+
+[bold]DELIVER TO:[/bold]  [color=blue]SAMPLE NAME[/color]
+
+[bold]FROM:[/bold]  [color=blue]SAMPLE NAME[/color]
+
+[bold]FROM THE DESK OF:[/bold]
+SENDER NAME,
+[italic]SENDER TITLE[/italic]
+
+
+# Specialty Mail
+
+[head=2][color=#ff2fff]OfFiCiAl ClOwN mAiL[/color][/head]
+        [head=1][color=#ff0000]H[color=#00ff00]O[color=#0000ff]N[color=#ff0000]K[color=#00ff00]!
+[color=#00ff00]H[color=#ff0000]O[color=#0000ff]N[color=#00ff00]K[color=#ff0000]![/head]
+                         [head=1][color=#0000ff]H[color=#00ff00]O[color=#ff0000]N[color=#00ff00]K[color=#ff0000]!
+[/head][/color][/color][/color][/color][/color][/color][/color][/color][/color][/color][/color][/color][/color][/color][/color]
+[bold]DeLiVeR tO:[/bold]  [color=blue]SAMPLE NAME[/color]
+
+[color=#ffffff][head=2]Mime Mail[/head]
+[bold]DELIVER TO:[/bold]  SAMPLE NAME[/color]

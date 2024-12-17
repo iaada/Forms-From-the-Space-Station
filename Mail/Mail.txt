@@ -1,0 +1,10 @@
+# Mail
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Priority Mail[/head]
+█ ▀█     █            From: [color=black] NAME [/color]
+                                To: [color=black] RECIPIENT [/color]
+                       Subject: [color=black] SUBJECT [/color]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[color=black]
+   
+      BODY
+
+

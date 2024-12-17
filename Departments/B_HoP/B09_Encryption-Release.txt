@@ -1,0 +1,33 @@
+# B-09 Encryption Release Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Encryption Release Form[/head] [italic][color=#aaaaaa]B-09[/color][/italic]
+█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]This form represents a [color=#1b67a5]permit[/color] to possess an [color=#1b67a5]encryption key[/color] outside of standard encryption procedure.[/bold]
+
+[bold]Receiver of Key:[/bold]         [color=blue]    ■    [/color]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]   ▪  ▪  ▪[/color]
+
+[bold]Issuer of Key:[/bold]         [color=blue]    ■    [/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Delivered Encryption:[/bold]
+[bold][color=#aaaaaa]O[/color] [color=#b18644]Supply[/color][/bold] (1347)          [bold][color=#aaaaaa]O[/color] [color=#2c8902]Service[/color][/bold] (1349)  [bold][color=#aaaaaa]O[/color] [color=#c96dbf]Science[/color][/bold] (1351)
+[bold][color=#aaaaaa]O[/color] [color=#1b67a5]Command[/color][/bold] (1353)  [bold][color=#aaaaaa]O[/color] [color=#5b97bc]Medical[/color][/bold] (1355) [bold][color=#aaaaaa]O[/color] [color=#f39f27]Engineering[/color][/bold] (1357)
+[bold][color=#aaaaaa]O[/color] [color=#cb0000]Security[/color][/bold] (1359)       [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
+                                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Purpose of Release:[/bold]
+[italic][color=#aaaaaa]Provide a detailed explanation for this release.[/color][/italic][color=blue]
+       ■
+[/color]
+
+
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the head of a department (where valid), the Head of Personnel, or the Captain.
+
+This form is for the issuing of encryption. In order to request an encryption, use a B-08 Encryption Request Form.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Those who abuse granted permission may be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

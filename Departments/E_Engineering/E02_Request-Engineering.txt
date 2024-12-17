@@ -1,0 +1,34 @@
+# E-02 Engineering Requisition Form
+[color=#f39f27]█▄ █ ▀█▀    [head=3]Engineering Requisition Form[/head] [italic][color=#aaaaaa]E-02[/color][/italic]
+█ ▀█     █        Problem Solved
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+   
+[bold]This form is for placing [color=#f39f27]requisition orders[/color] through the [color=#f39f27]Engineering[/color] department. Be detailed and specific.[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Do you represent the needs or interests of a department?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
+      [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
+                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Do you possess an accompanying [color=#f39f27]E-01 (Building Permit)[/color]?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] Yes      [bold][color=#aaaaaa]O[/color][/bold] No
+
+[color=#f39f27]   ▪  ▪  ▪[/color]
+
+[bold]Requisition Request:[/bold]
+[italic][color=#aaaaaa]Provide a detailed and exhaustive list.[/color][/italic][color=blue]
+ [bullet/] ■
+ [bullet/] ■
+[/color]
+[bold]Purpose of Request:[/bold]
+[italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
+       ■
+[/color]
+
+
+[italic][color=#aaaaaa]E-02 requests are handled in the order they are received.
+
+The Chief Engineering withholds the right to change request policies at any time.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]

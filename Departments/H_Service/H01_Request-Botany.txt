@@ -1,0 +1,50 @@
+# H-01 Hydroponics Request Form
+[color=#2c8902]█▄ █ ▀█▀    [head=3]Hydroponics Request Form[/head] [italic][color=#aaaaaa]H-01[/color][/italic]
+█ ▀█     █        Green is What We're Known For
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+   
+[bold]This form is for placing [color=#2c8902]physical orders[/color] through the [color=#2c8902]Hydroponics[/color] department. Be detailed and specific.[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Do you represent the needs or interests of a department?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
+      [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
+                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#2c8902]   ▪  ▪  ▪[/color]
+
+[bold]Purpose of Request:[/bold]
+[italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
+       ■
+[/color]
+
+[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2c8902]Enumerated Request:[/color][/head]
+[italic]An exact list of items alongside the number requested. Extra may be included due to harvest sizes.[/italic]
+
+[bold]Your Order:[/bold]
+[italic][color=#aaaaaa]Provide a detailed and exhaustive list.[/color][/italic][color=blue]
+ [bullet/] ■
+ [bullet/] ■
+[/color]
+[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2c8902]Hydroponics Rental:[/color][/head]
+[italic]A hydroponics tray will be continually replanted with the specified crop(s) for the specified length of time.[/italic]
+
+[bold]Number of Hydroponics Trays:[/bold]       [color=blue] ■ [/color]
+                                                               ‾‾‾‾‾‾‾
+[bold]Crop(s):[/bold][color=blue]
+ [bullet/] ■
+ [bullet/] ■
+[/color]
+[bold]Duration of Rental:[/bold]         [color=blue]   ■   [/color]
+                                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2c8902]GMO Free[/color][/head]
+[italic]No chemicals will be used. This will make the botanist very sad.[/italic]
+
+
+
+[italic][color=#aaaaaa]H-01 requests are handled in the order they are received.
+
+Botany withholds the right to change request policies at any time.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]

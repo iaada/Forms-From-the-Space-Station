@@ -1,0 +1,23 @@
+# H-03 Library Rental Form
+[color=#2c8902]█▄ █ ▀█▀    [head=3]Library Rental Form[/head] [italic][color=#aaaaaa]H-03[/color][/italic]
+█ ▀█     █        Please Return in a Timely Manner
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+   
+[bold]This form is for the [color=#2c8902]rental[/color] of books or other library assets.[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Description of Rental:[/bold]
+[italic][color=#aaaaaa]Book titles, book bags, ect.[/color][/italic][color=blue]
+ [bullet/] ■
+ [bullet/] ■
+[/color]
+[bold]Return by:[/bold]     [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
+                       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+[italic][color=#aaaaaa]Late fees are calculated at 50 spesos per minute late.
+
+The Librarian withholds the right to deny requests for any reason.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]

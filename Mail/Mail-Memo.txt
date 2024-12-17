@@ -1,0 +1,6 @@
+# Memo
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Memo[/head]
+█ ▀█     █        [color=black] SUBJECT [/color]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color][color=black]
+
+BODY

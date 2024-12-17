@@ -1,0 +1,22 @@
+# Paitent Medical Chart
+[color=white]░░░[/color][color=#5B97BC]██[/color][color=white]░░░[/color]
+[color=white]░[/color][color=#5B97BC]▐████▌[/color][color=white]░[/color]           [color=#5b97bc][head=2][bold]Paitent Medical Chart[/bold][/head][/color]
+[color=white]░░░[/color][color=#5B97BC]██[/color][color=white]░░░[/color]
+[color=#5b97bc]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪
+
+[bold]Patient Name:[/bold]         [head=3][color=blue]   ■   [/color][/head]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]							   
+[head=3][color=blue]
+
+
+
+
+
+
+
+[/color][/head]
+[color=#5b97bc]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪
+
+[bold]Evaluating Doctor:[/bold]         [head=3][color=blue]   ■   [/color][/head]
+                                       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]

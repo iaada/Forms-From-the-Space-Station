@@ -1,0 +1,49 @@
+# Forensic Death Report
+[color=#cb0000]▄▄▄    ▄
+█▄▄    █      [head=3]Forensic Death Report[/head]
+▄▄█    █       [bold]Station Investigator NAME[/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]Cadaver Name:[/bold]        [color=blue]   ■   [/color]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Cadaver Species:[/bold]        [color=blue]   ■   [/color]
+                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Physical Appearance:[/bold]
+[italic][color=#aaaaaa]Age, Skin Color, Gender[/color][/italic][color=blue]
+	   ■
+[/color]
+
+[color=#cb0000]▪  ▪  ▪[/color]
+
+[bold]Wounds:[/bold]
+[italic][color=#aaaaaa]Burns, Bruises, Cuts[/color][/italic][color=blue]
+ [bullet/] ■
+[/color]
+
+[bold]Cause of Death:[/bold]          [color=blue]   ■   [/color]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]State of Cadaver:[/bold]
+[bold][color=#aaaaaa]O[/color][/bold] Rotted    [bold][color=#aaaaaa]O[/color][/bold] Unknown    [bold][color=#aaaaaa]O[/color][/bold] Departed    [bold][color=#aaaaaa]O[/color][/bold] Revivable
+
+[color=#cb0000]▪  ▪  ▪[/color]
+
+[bold]Location of Discovery:[/bold]    [color=blue]   ■   [/color]
+                                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Scene of the Crime:[/bold]
+[italic][color=#aaaaaa]Blood trails, Open doors[/color][/italic][color=blue]
+	   ■
+[/color]
+
+[bold]Missing Items:[/bold]
+[italic][color=#aaaaaa]PDA, Headset, Backpack[/color][/italic][color=blue]
+[bullet/] ■
+[/color]
+
+[color=#cb0000]▪  ▪  ▪[/color]
+
+[bold]Notes:[/bold][color=blue]
+       ■
+[/color]
+
+[italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]

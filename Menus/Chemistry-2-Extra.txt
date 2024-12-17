@@ -1,0 +1,57 @@
+# Non-Pharmaceuticals Menu
+
+               [color=#5b97bc][head=1]Non-Pharmaceuticals[/head]
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[/color]
+
+[color=#5b97bc][head=2]MedTech[/head]
+░░░░░░░░░░░░░░░░░░░░[/color]
+Bottle [bold]$10[/bold] [color=#5b97bc]   ▪   [/color]Beaker [bold]$20[/bold] [color=#5b97bc]   ▪   [/color]Large Beaker [bold]$40[/bold] [color=#5b97bc]   ▪    [/color]Jug [bold]$100[/bold]
+  [color=#5b97bc]═════════════════════════════════════════[/color]
+ Sterile Swab [bold]$7[/bold] [color=#5b97bc]  ▪    ▪    ▪    [/color]Syringe [bold]$30[/bold] [color=#5b97bc]   ▪    ▪    ▪   [/color]Dropper [bold]$65[/bold]
+  [color=#5b97bc]═════════════════════════════════════════[/color]
+Hand Labeler [bold]$25[/bold][color=#5b97bc]  ▪  [/color]Defibrillator [bold]$60[/bold][color=#5b97bc]  ▪  [/color]Health Analyzer  [bold]$200[/bold]
+  [color=#5b97bc]═════════════════════════════════════════[/color]
+ White Cane [bold]$45[/bold] [color=#5b97bc]   ▪    ▪    [/color]Body Bag [bold]$75[/bold] [color=#5b97bc]    ▪    ▪   [/color]Rollerbed [bold]$200[/bold]
+
+[head=3]Medkit (empty)[/head]  [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$75[/bold]
+  [italic][color=#444444]Comes in eight unique colors![/color][/italic]
+
+[head=3]Complete Surgical Kit[/head]   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$400[/bold]
+  [italic][color=#444444]Contains: 1x Cautery, 1x Drill, 1x Hemostat, 1x Nitrile Gloves,
+                 1x Retractor, 1x Saw, 1x Scalpel, 1x Sterile Mask[/color][/italic]
+
+
+[color=#5b97bc][head=2]MedTech Rarities[/head]
+░░░░░░░░░░░░░░░░░░░░[/color]
+Cryostasis Syringe [bold]$55[/bold][color=#5b97bc]   ▪    ▪    ▪    ▪    ▪    [/color]Cryostasis Beaker [bold]$65[/bold]
+
+[head=3]Chemical Analysis Goggles[/head] [color=#5b97bc]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$215[/bold]
+
+[head=3]Bluespace Syringe[/head]  [color=#5b97bc]▪  ▪  ▪  ▪  ▪  [/color][bold]$110 & 1 Plasma & 1 Silver[/bold]
+
+[head=3]Bluespace Beaker[/head]   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  [/color][bold]$110 & 1 Plasma & 1 Silver[/bold]
+
+
+[color=#5b97bc][head=2]Extras[/head]
+░░░░░░░░░░░░░░░░░░░░[/color]
+Crystal (random) [color=#5b97bc] ▪  ▪ [/color] [bold]$40[/bold]
+
+Space Lube, 100cc [color=#5b97bc] ▪  ▪ [/color] [bold]$70[/bold]
+
+Space Glue, 15cc [color=#5b97bc] ▪  ▪ [/color] [bold]$40[/bold]
+
+Liquid Laughter, 20cc [color=#5b97bc] ▪  ▪ [/color] [bold]$20 & 1 Banana[/bold]
+
+Laughing Gas [color=#5b97bc] ▪  ▪ [/color] [bold]$120 & 2 Bananas[/bold]
+
+Carpetium (Liquid Carpet), 9cc [color=#5b97bc] ▪  ▪ [/color] [bold]$10 & 2 Cloth[/bold]
+
+Soap [color=#5b97bc] ▪  ▪ [/color] [bold]$60[/bold]
+
+Plastic, 1 sheet [color=#5b97bc] ▪  ▪ [/color] [bold]$20[/bold]
+
+Meat, 1 steak [color=#5b97bc] ▪  ▪ [/color] [bold]$100 & 10cc Blood[/bold]
+
+
+[italic][color=#aaaaaa]Materials (glass, plastic, steel, cloth) are valued at 20 spesos each. All sales final. No refunds. We deny all culpability in crimes performed by our customers.[/color][/italic]

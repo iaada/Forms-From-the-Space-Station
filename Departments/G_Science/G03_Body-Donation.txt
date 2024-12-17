@@ -1,0 +1,41 @@
+# G-03 Body Donation Form
+[color=#c96dbf]█▄ █ ▀█▀    [head=2]Body Donation Form[/head] [italic][color=#aaaaaa]G-03[/color][/italic]
+█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]The subject of this form has either requested - or been ordered - to have their [color=#c96dbf]body donated[/color] to a Nanotrasen.[/bold]
+
+[bold]Patient Name:[/bold]         [color=blue]    ■    [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Receiving Sub-Department:[/bold]
+[bold][color=#aaaaaa]O[/color][/bold] Robotics  [bold][color=#aaaaaa]O[/color][/bold] Genetics  [bold][color=#aaaaaa]O[/color][/bold] Xenoarcheology  [bold][color=#aaaaaa]O[/color][/bold] Anomalous
+[bold][color=#aaaaaa]O[/color][/bold] Mechanical  [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue] ■ [/color]
+                                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Expectation:[/bold]
+[italic][color=#aaaaaa]Desired silicon job, genetic mutation, ECT.[/color][/italic][color=blue]
+       ■
+[/color]
+
+
+[color=#c96dbf][head=2][bold]PATIENT STATEMENT[/bold][/head][/color]
+Based upon informed consent, I, the undersigned, hereby direct that [color=#aaaaaa]\[initials][/color] [color=blue]  ■  [/color] be donated to the station.
+[italic][color=#aaaaaa](If not signed by patient, check applicable box)[/color][/italic]
+[bold][color=#aaaaaa]O[/color][/bold] Surrogate    [bold][color=#aaaaaa]O[/color][/bold] Court-Appointed Guardian
+
+[bold]Applicable Signature:[/bold]        [color=blue]  ■  [/color]
+                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#c96dbf][head=3][bold]AS RESEARCH DIRECTOR I HEREBY CERTIFY:[/bold][/head][/color]
+[bold]1.[/bold] I have informed the patient/surrogate/guardian of the implications and consequences of this order.
+[bold]2.[/bold] I have witnessed the signing of the document.
+[bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the RD.
+
+Nanotrasen and by extension the Research Dirctor withhold the right to use or dispose of donated bodies at our own discretion.
+
+Only with the approval of the Captain or an individual with a higher standing than the Captain can this document be nullified and reversed.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]
