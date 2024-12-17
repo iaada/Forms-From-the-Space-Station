@@ -3,7 +3,7 @@
 █ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This form represents a [color=#1b67a5]permit[/color] to possess an [color=#1b67a5]encryption key[/color] outside of standard encryption procedure.[/bold]
+[bold]This form represents a [color=#1b67a5]license[/color] to possess an [color=#1b67a5]encryption key[/color] outside of standard encryption procedure.[/bold]
 
 [bold]Receiver of Key:[/bold]         [color=blue]    ■    [/color]
                                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

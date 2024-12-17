@@ -3,7 +3,7 @@
 █ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
-[bold]This form represents an exchange of items for currency (referred to as a [color=#b18644]"sale"[/color]). This [color=#b18644]sale[/color] entitles the seller to the stated amount in spesos. If spesos can not be provided, an item or items of equivalent value may be substituted.[/bold]
+[bold]This form represents an exchange of items for currency (referred to as a [color=#b18644]"sale"[/color]). This [color=#b18644]sale[/color] entitles the seller to the stated amount in Spesos. If Spesos can not be provided, an item or items of equivalent value may be substituted.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
