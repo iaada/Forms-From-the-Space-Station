@@ -3,7 +3,7 @@
 █ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This form represents a [color=#f39f27]permit to build[/color] the specified structure at the specified location.[/bold]
+[bold]This form represents a [color=#f39f27]permit to build[/color] the specified structure at the specified location. [color=#f39f27]This permit must be approved and stamped.[/color][/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -38,12 +38,12 @@
 [bold]2.[/bold] I vouch for the safety and utility of the structure as described above.
 [bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
-[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the CE.
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the C.E.
 
-The CE reserves the right to revoke this permit at any time.
+The C.E. reserves the right to revoke this permit at any time.
 
 Form distributed by the A.D.A. (Administration Divisive Authority).
 
-Those who abuse granted permission may be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/italic]
+Those who abuse granted permission may be faced with demotion or contract termination pursuant NT Handbook §16-8.2b[/italic]
 
                                   [bold]═══╣ Stamp Below ╠═══[/bold][/color]
