@@ -1,7 +1,7 @@
 # D-03 Payment Voucher
 [color=#b18644]█▄ █ ▀█▀    [head=3]Payment Voucher[/head] [italic][color=#aaaaaa]D-03[/color][/italic]
 █ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
-   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲[/color]
    
 [bold]This voucher is to be exchanged for the [color=#b18644]stated amount[/color] in [color=#b18644]Spesos[/color]. If Spesos can not be provided, an item or items of equivalent value may be substituted.[/bold]
 
@@ -9,6 +9,7 @@
                                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Value in Spesos:[/bold]         [color=blue]   ■   [/color]
                                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#b18644]▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲[/color]
 
 [italic][color=#aaaaaa]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the Head of Personnel, the Quartermaster, or the Captain.
 
