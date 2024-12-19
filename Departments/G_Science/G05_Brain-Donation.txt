@@ -1,0 +1,21 @@
+# G-05 Brain Donation Form
+[color=#c96dbf]█▄ █ ▀█▀    [head=3]Brain Donation Form[/head] [italic][color=#aaaaaa]G-05[/color][/italic]
+█ ▀█     █        You Can't Go Wrong with Science
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]This form is for the [color=#c96dbf]donation[/color] of a [color=#c96dbf]brain[/color] to the Department of Science. Use of this form is optional.[/bold]
+
+[bold]Name of Donator:[/bold]  [italic][color=#aaaaaa]Optional[/color][/italic]         [color=blue]    ■    [/color]
+                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Name of Brain:[/bold]  [italic][color=#aaaaaa]Optional[/color][/italic]           [color=blue]    ■    [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Purpose of Donation:[/bold]
+[italic][color=#aaaaaa]Optionally provide a detailed explanation for your donation.[/color][/italic][color=blue]
+       ■
+[/color]
+
+[italic][color=#aaaaaa]Donators relinquish any and all ownership over donated brains.
+
+Nanotrasen and by extension the Research Dirctor withhold the right to use or dispose of donated brains at our own discretion.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]
