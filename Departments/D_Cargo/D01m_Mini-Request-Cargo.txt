@@ -1,5 +1,5 @@
 # D-01m Cargo Request Form
-[color=#b18644]█▄ █ ▀█▀    [head=3]Cargo Request Form[/head] [italic][color=#aaaaaa]D-01 Mini[/color][/italic]
+[color=#b18644]█▄ █ ▀█▀    [head=3]Cargo Request Form[/head] [italic][color=#aaaaaa]D-01m Mini[/color][/italic]
 █ ▀█     █        Thank You for Choosing Cargo
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
@@ -16,6 +16,8 @@
  [bullet/] ■
  [bullet/] ■
 [/color]
+[bold]No reason is provided.[/bold]
+
 [bold]This order is [color=#b18644]non-urgent[/color].[/bold]
 
 [bold][color=#b18644]Delivery[/color] is not requested.[/bold]
