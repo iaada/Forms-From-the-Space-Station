@@ -1,0 +1,30 @@
+# G-07 Protolathe Release Form
+[color=#c96dbf]█▄ █ ▀█▀    [head=3]Protolathe Release Form[/head] [italic][color=#aaaaaa]G-07[/color][/italic]
+█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]This form is for the release of a [color=#c96dbf]protolathe[/color] to a station department. [color=#c96dbf]This form must be approved and stamped.[/color][/bold]
+
+[color=#c96dbf]   ▪  ▪  ▪[/color]
+
+[bold]Receiver of Protolathe:[/bold]     [color=#aaaaaa]Department of[/color] [color=blue]    ■    [/color]
+                                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Purpose of Release:[/bold]
+[italic][color=#aaaaaa]Provide a detailed explanation for this release.[/color][/italic][color=blue]
+       ■
+[/color]
+
+[color=#c96dbf][head=3][bold]AS RESEARCH DIRECTOR I HEREBY CERTIFY:[/bold][/head][/color]
+[bold]1.[/bold] I have been duly informed, and am aware of all matters pertaining to this release.
+[bold]2.[/bold] I vouch that company secrets will not be compromised as a result of this release.
+[bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the RD.
+
+Nanotrasen and by extension the Reasearch Director withholds the right to revoke this release at any time.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Those who abuse granted permission may be faced with demotion or contract termination pursuant NT Handbook §16-8.2b[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

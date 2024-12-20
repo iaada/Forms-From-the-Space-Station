@@ -10,9 +10,9 @@
 [color=#1b67a5]   ▪  ▪  ▪[/color]
 
 [bold]Requested Encryption:[/bold]
-[bold][color=#aaaaaa]O[/color] [color=#b18644]Supply[/color][/bold] (1347)          [bold][color=#aaaaaa]O[/color] [color=#2c8902]Service[/color][/bold] (1349)  [bold][color=#aaaaaa]O[/color] [color=#c96dbf]Science[/color][/bold] (1351)
-[bold][color=#aaaaaa]O[/color] [color=#1b67a5]Command[/color][/bold] (1353)  [bold][color=#aaaaaa]O[/color] [color=#5b97bc]Medical[/color][/bold] (1355) [bold][color=#aaaaaa]O[/color] [color=#f39f27]Engineering[/color][/bold] (1357)
-[bold][color=#aaaaaa]O[/color] [color=#cb0000]Security[/color][/bold] (1359)       [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
+[bold][color=#aaaaaa]O[/color] Supply[/bold] (1347)          [bold][color=#aaaaaa]O[/color] Service[/bold] (1349)  [bold][color=#aaaaaa]O[/color] Science[/bold] (1351)
+[bold][color=#aaaaaa]O[/color] Command[/bold] (1353)  [bold][color=#aaaaaa]O[/color] Medical[/bold] (1355) [bold][color=#aaaaaa]O[/color] Engineering[/bold] (1357)
+[bold][color=#aaaaaa]O[/color] Security[/bold] (1359)       [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
                                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Purpose of Request:[/bold]
 [italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
