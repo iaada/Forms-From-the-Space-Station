@@ -1,29 +1,29 @@
-# C-12 Prohibition Notice
-[color=#cb0000]█▄ █ ▀█▀    [head=3]Prohibition Notice[/head] [italic][color=#aaaaaa]C-12[/color][/italic]
-█ ▀█     █        We're Here To Protect You. We Promise.
+# A-04 Notice of Prohibition
+[color=#009100]█▄ █ ▀█▀    [head=3]Notice of Prohibition[/head] [italic][color=#aaaaaa]A-04[/color][/italic]
+█ ▀█     █               Don't Worry, We're Watching
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This notice is to inform station personnel of a [color=#cb0000]prohibition[/color] on [color=#cb0000]consumption and possesion[/color] of [color=#cb0000]alcohol[/color], effective immediately. Those found in defiance of prohibition will be [color=#cb0000]prosecuted to the full extent of the law.[/color][/bold]
+[bold]This notice is to inform station personnel of a [color=#009100]prohibition[/color] on [color=#009100]consumption and possesion[/color] of [color=#009100]alcohol[/color], effective immediately. Those found in defiance of prohibition will be [color=#009100]prosecuted to the full extent of the law.[/color][/bold]
 
-[color=#cb0000]   ▪  ▪  ▪[/color]
+[color=#009100]   ▪  ▪  ▪[/color]
 
 [head=1]Space Law Addendum:[/head]
 
-[color=#cb0000][head=3]Consuption of Alcohol[/head][/color]        ▪ [bold]\[1-08\] - Minor[/bold]
+[color=#009100][head=3]Consuption of Alcohol[/head][/color]        ▪ [bold]\[1-08\] - Minor[/bold]
    Those found with alcohol in their system may be charged with a [bold]\[1-08\][/bold], with repeat offenses potentially resulting in up to five (5) minutes in jail.
 
-[color=#cb0000][head=3]Possesion of Alcohol[/head][/color]            ▪ [bold]\[2-08\] - Moderate[/bold]
+[color=#009100][head=3]Possesion of Alcohol[/head][/color]            ▪ [bold]\[2-08\] - Moderate[/bold]
    Those found in possesion of alcohol may be charged with a [bold]\[2-08\][/bold]. Alcohol will be confiscated, with up to five (5) minutes in jail for a first offense.
 
-[color=#cb0000][head=3]Distribution of Alcohol[/head][/color]      ▪ [bold]\[3-08\] - Major[/bold]
+[color=#009100][head=3]Distribution of Alcohol[/head][/color]      ▪ [bold]\[3-08\] - Major[/bold]
    Those found to be distributing alcohol may be charged with a [bold]\[3-08\][/bold]. Alcohol will be confiscated, with up to ten (10) minutes in jail for a first offense.
 
-[color=#cb0000]   ▪  ▪  ▪[/color]
+[color=#009100]   ▪  ▪  ▪[/color]
 
 [head=1]The Dangers of Alcohol:[/head]
 
    Heavy drinking can increase your risk of serious health problems, including: Certain cancers, such as colorectal cancer, breast cancer and cancers of the mouth, throat, esophagus and liver. Liver disease. Cardiovascular disease, such as high blood pressure and stroke.
 
-[italic][color=#aaaaaa]Addendums to Space Law are subject to heavy scrutiny and valid only with approval from the Captain or CentComm.
+[italic][color=#aaaaaa]Addendums to Space Law are subject to heavy scrutiny and valid only with approval from CentComm.
 
 Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]

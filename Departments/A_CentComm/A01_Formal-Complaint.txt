@@ -1,18 +1,18 @@
-# A-01 Formal Complaint Form
-[color=#1b67a5]█▄ █ ▀█▀    [head=2]Formal Complaint Form[/head] [italic][color=#aaaaaa]A-01[/color][/italic]
-█ ▀█     █
+# A-01 Formal Complaint
+[color=#009100]█▄ █ ▀█▀    [head=2]Formal Complaint[/head] [italic][color=#aaaaaa]A-01[/color][/italic]
+█ ▀█     █               Don't Worry, We're Watching
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This form represents an [color=#1b67a5]official complaint[/color] against an individual or group of individuals.[/bold]
+[bold]This document represents an [color=#009100]official complaint[/color] against an individual or group of individuals.[/bold]
 
-[color=#1b67a5][head=2]Section A[/head][/color]
+[color=#009100][head=2]Section A[/head][/color]
 
 [bold]Your Name:[/bold]         [color=blue]   ■   [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Your Position:[/bold]         [color=blue]   ■   [/color]
                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
-[color=#1b67a5][head=2]Section B[/head][/color]
+[color=#009100][head=2]Section B[/head][/color]
 [bold]You are complaining about:[/bold]
 [bold][color=#aaaaaa]O[/color][/bold] A Person  [bold][color=#aaaaaa]O[/color][/bold] A Department  [bold][color=#aaaaaa]O[/color][/bold] A Department Head  [bold][color=#aaaaaa]O[/color][/bold] Other
                                                                 [italic][color=#aaaaaa]If other, skip to Section C.[/color][/italic]
@@ -31,34 +31,45 @@ Name(s):         [color=blue]   ■   [/color]
                           [color=blue]    [/color]
                      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Misconduct:[/bold]
-[italic][color=#aaaaaa]Mark all that apply.[/color][/italic]
-[bold][color=#aaaaaa]O[/color][/bold] Violation of Space Law       [bold][color=#aaaaaa]O[/color][/bold] Acting against NT interests
-[bold][color=#aaaaaa]O[/color][/bold] Destruction of Property    [bold][color=#aaaaaa]O[/color][/bold] Causing a disturbance
-[bold][color=#aaaaaa]O[/color][/bold] "Unspeakable Acts"            [bold][color=#aaaaaa]O[/color][/bold] Sabotage of equipment
-[bold][color=#aaaaaa]O[/color][/bold] Theft of Property                 [bold][color=#aaaaaa]O[/color][/bold] Overly Bureaucratic
-[bold][color=#aaaaaa]O[/color][/bold] Overly Rude/Mean              [bold][color=#aaaaaa]O[/color][/bold] Not Bureaucratic Enough
-[bold][color=#aaaaaa]O[/color][/bold] Just Really Fucking Annoying Like My God Man
-[bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]   ■   [/color]
-                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+   [italic][color=#aaaaaa]Mark all that apply.[/color][/italic][mono]
+ [bold][color=#aaaaaa]O[/color][/bold]  Violation of Space Law
+ [bold][color=#aaaaaa]O[/color][/bold]  Causing a Disturbance
+ [bold][color=#aaaaaa]O[/color][/bold]  Theft of Property
+ [bold][color=#aaaaaa]O[/color][/bold]  Destruction of Property
+ [bold][color=#aaaaaa]O[/color][/bold]  Sabotage of Equipment
+ [bold][color=#aaaaaa]O[/color][/bold]  Acting Against NT Interests
+ [bold][color=#aaaaaa]O[/color][/bold]  Dereliction of Duty
+ [bold][color=#aaaaaa]O[/color][/bold]  Refusal to Obey Orders
+ [bold][color=#aaaaaa]O[/color][/bold]  Breach of Contract
+ [bold][color=#aaaaaa]O[/color][/bold]  "Unspeakable Acts"
+ [bold][color=#aaaaaa]O[/color][/bold]  Overly Rude/Mean 
+ [bold][color=#aaaaaa]O[/color][/bold]  Overly Bureaucratic
+ [bold][color=#aaaaaa]O[/color][/bold]  Not Bureaucratic Enough
+ [bold][color=#aaaaaa]O[/color][/bold]  Just Really Fucking Annoying Like My God
+ [bold][color=#aaaaaa]O[/color][/bold]  Other: [/mono]        [color=blue]   ■   [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]How many people are affected by the misconduct?[/bold]
-[bold][color=#aaaaaa]O[/color][/bold] Just Me    [bold][color=#aaaaaa]O[/color][/bold] A Few People    [bold][color=#aaaaaa]O[/color][/bold] A Department Worth
-[bold][color=#aaaaaa]O[/color][/bold] Multiple Departments Worth    [bold][color=#aaaaaa]O[/color][/bold] Entire Station
-
-[color=#1b67a5][head=2]Section C[/head][/color]
-[bold]Provide a detailed explanation of the missconduct below, providing all details relevant to the story.[/bold]
+   [italic][color=#aaaaaa]Mark one (1).[/color][/italic][mono]
+ [bold][color=#aaaaaa]O[/color][/bold] Just Me   [bold][color=#aaaaaa]O[/color][/bold] A Few People   [bold][color=#aaaaaa]O[/color][/bold] A Department
+  [bold][color=#aaaaaa]O[/color][/bold] Multiple Departments   [bold][color=#aaaaaa]O[/color][/bold] Entire Station
+[/mono]
+[color=#009100][head=2]Section C[/head][/color]
+[bold]Provide a detailed explanation of the missconduct below, providing all details relevant to the events.[/bold]
 [color=blue]
     ■
 [/color]
 
-[color=#1b67a5][head=2]Section D[/head][/color]
+[color=#009100][head=2]Section D[/head][/color]
 I, the undersigned, hereby declare that my time wasted by filling out and submitting this form, and the time wasted by the receiver reading this form, pales in comparison to the emotional toll inflicted by the misconduct of the subject of this complaint.
 
 [bold]Applicable Signature:[/bold]      [color=blue]   ■   [/color]
                                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#009100]   ▪  ▪  ▪[/color]
 											 
-[color=#1b67a5][bold]Submit this form to the Captain, the HoP, another relevant command head, or to CentComm for review. Refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold][/color]
+[color=#009100][bold]Submit this document to the Captain, the HoP, another relevant command head, or to CentComm for review. Refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold][/color]
 
 
 [italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority).
 
-Abuse of this form may result in a fine of up to 4000 spesos pursuant NT Handbook §16-8.7b[/color][/italic]
+Abuse of this document may result in a fine of up to 4000 spesos pursuant NT Handbook §16-8.7b[/color][/italic]
