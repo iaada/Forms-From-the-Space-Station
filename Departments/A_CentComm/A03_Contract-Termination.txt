@@ -7,12 +7,12 @@
 
 [color=#009100][head=2]Section A[/head][/color]
 
-[bold]Name of Employee:[/bold]         [color=blue]   ■   [/color]
-                                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Department of Employment:[/bold]         [color=blue]   ■   [/color]
                                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Position of Employee:[/bold]         [color=blue]   ■   [/color]
                                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Name of Employee:[/bold]         [color=blue]   ■   [/color]
+                                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [color=#009100][head=2]Section B[/head][/color]
 
@@ -28,7 +28,7 @@
  [bold][color=#aaaaaa]O[/color][/bold]  Refusal to Obey Orders
  [bold][color=#aaaaaa]O[/color][/bold]  Breach of Contract
  [bold][color=#aaaaaa]O[/color][/bold]  "Unspeakable Acts"
- [bold][color=#aaaaaa]O[/color][/bold]  Overly Rude/Mean 
+ [bold][color=#aaaaaa]O[/color][/bold]  Overly Rude/Mean
  [bold][color=#aaaaaa]O[/color][/bold]  Overly Bureaucratic
  [bold][color=#aaaaaa]O[/color][/bold]  Not Bureaucratic Enough
  [bold][color=#aaaaaa]O[/color][/bold]  Just Really Fucking Annoying Like My God
@@ -40,6 +40,8 @@
  [bold][color=#aaaaaa]O[/color][/bold] Multiple Departments  [bold][color=#aaaaaa]O[/color][/bold] Entire Station
 [/mono]
 [color=#009100][head=2]Section C[/head][/color]
+[bold]When did the incident occur?[/bold]        [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
+                                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Provide a detailed explanation of the missconduct below, providing all details relevant to the events.[/bold]
 [color=blue]
     ■

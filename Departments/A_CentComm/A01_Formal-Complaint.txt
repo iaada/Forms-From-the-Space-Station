@@ -54,6 +54,8 @@ Name(s):         [color=blue]   ■   [/color]
   [bold][color=#aaaaaa]O[/color][/bold] Multiple Departments   [bold][color=#aaaaaa]O[/color][/bold] Entire Station
 [/mono]
 [color=#009100][head=2]Section C[/head][/color]
+[bold]When did the incident occur?[/bold]        [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
+                                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Provide a detailed explanation of the missconduct below, providing all details relevant to the events.[/bold]
 [color=blue]
     ■
