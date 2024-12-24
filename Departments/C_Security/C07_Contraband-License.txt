@@ -1,6 +1,6 @@
 # C-07 Contraband License
 [color=#cb0000]█▄ █ ▀█▀    [head=2]Contraband License[/head] [italic][color=#aaaaaa]C-07[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
 ══════════════════════════════════════════[/color]
 
 [bold]This [color=#cb0000]license[/color] bestows the holder with [color=#cb0000]immunity[/color] to [color=#cb0000]crimes of possession[/color] for the item(s) listed below.[/bold]

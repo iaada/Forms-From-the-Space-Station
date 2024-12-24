@@ -1,6 +1,6 @@
 # F-05 Coffee Break Form
-[color=#5b97bc]█▄ █ ▀█▀    [head=3]Coffee Break Form[/head] [italic][color=#aaaaaa]F-05[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+[color=#5b97bc]█▄ █ ▀█▀    [head=2]Coffee Break Form[/head] [italic][color=#aaaaaa]F-05[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]The subject of this form requests a [color=#5b97bc]coffee break[/color]. [color=#5b97bc]This form must be approved and stamped.[/color][/bold]

@@ -1,6 +1,6 @@
 # B-05 Title Change Request Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=2]Title Change Request Form[/head] [italic][color=#aaaaaa]B-05[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
 [bold]The subject of this form requests a [color=#1b67a5]cosmetic[/color] change to their job title through the [color=#1b67a5]Head of Personnel[/color].[/bold]

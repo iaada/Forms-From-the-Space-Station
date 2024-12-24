@@ -1,6 +1,6 @@
 # B-01 Access Request Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=2]Access Request Form[/head] [italic][color=#aaaaaa]B-01[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]The subject of this form requests [color=#1b67a5]ID level access[/color].[/bold]

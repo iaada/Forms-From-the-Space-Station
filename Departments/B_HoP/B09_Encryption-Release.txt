@@ -1,6 +1,6 @@
 # B-09 Encryption Release Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=2]Encryption Release Form[/head] [italic][color=#aaaaaa]B-09[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]This form represents a [color=#1b67a5]license[/color] to possess an [color=#1b67a5]encryption key[/color] outside of standard encryption procedure.[/bold]

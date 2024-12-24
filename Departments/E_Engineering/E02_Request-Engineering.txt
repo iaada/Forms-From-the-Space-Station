@@ -1,6 +1,6 @@
 # E-02 Engineering Requisition Form
-[color=#f39f27]█▄ █ ▀█▀    [head=3]Engineering Requisition Form[/head] [italic][color=#aaaaaa]E-02[/color][/italic]
-█ ▀█     █        Problem Solved
+[color=#f39f27]█▄ █ ▀█▀    [head=2]Engineering Requisition Form[/head]
+█ ▀█     █                Problem Solved                                          [italic][color=#aaaaaa]E-02[/color][/italic]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]This form is for placing [color=#f39f27]requisition orders[/color] through the [color=#f39f27]Engineering[/color] department. Be detailed and specific.[/bold]

@@ -1,6 +1,6 @@
 # B-02 Temporary Access Request Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=2]Temporary Access Request Form[/head]
-█ ▀█     █     [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]  [italic][color=#aaaaaa]B-02[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold] [italic][color=#aaaaaa]B-02[/color][/italic]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]The subject of this form requests [color=#1b67a5]below[/color] ID level access.[/bold]

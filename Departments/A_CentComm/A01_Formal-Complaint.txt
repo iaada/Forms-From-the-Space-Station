@@ -1,18 +1,18 @@
 # A-01 Formal Complaint
-[color=#009100]█▄ █ ▀█▀    [head=2]Formal Complaint[/head] [italic][color=#aaaaaa]A-01[/color][/italic]
-█ ▀█     █               Don't Worry, We're Watching
+[color=#007100]█▄ █ ▀█▀    [head=2]Formal Complaint[/head] [italic][color=#aaaaaa]A-01[/color][/italic]
+█ ▀█     █                Don't Worry, We're Watching
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This document represents an [color=#009100]official complaint[/color] against an individual or group of individuals.[/bold]
+[bold]This document represents an [color=#007100]official complaint[/color] against an individual or group of individuals.[/bold]
 
-[color=#009100][head=2]Section A[/head][/color]
+[color=#007100][head=2]Section A[/head][/color]
 
 [bold]Your Name:[/bold]         [color=blue]   ■   [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Your Position:[/bold]         [color=blue]   ■   [/color]
                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
-[color=#009100][head=2]Section B[/head][/color]
+[color=#007100][head=2]Section B[/head][/color]
 [bold]You are complaining about:[/bold]
 [bold][color=#aaaaaa]O[/color][/bold] A Person  [bold][color=#aaaaaa]O[/color][/bold] A Department  [bold][color=#aaaaaa]O[/color][/bold] A Department Head  [bold][color=#aaaaaa]O[/color][/bold] Other
                                                                 [italic][color=#aaaaaa]If other, skip to Section C.[/color][/italic]
@@ -53,7 +53,7 @@ Name(s):         [color=blue]   ■   [/color]
  [bold][color=#aaaaaa]O[/color][/bold] Just Me   [bold][color=#aaaaaa]O[/color][/bold] A Few People   [bold][color=#aaaaaa]O[/color][/bold] A Department
   [bold][color=#aaaaaa]O[/color][/bold] Multiple Departments   [bold][color=#aaaaaa]O[/color][/bold] Entire Station
 [/mono]
-[color=#009100][head=2]Section C[/head][/color]
+[color=#007100][head=2]Section C[/head][/color]
 [bold]When did the incident occur?[/bold]        [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
                                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Provide a detailed explanation of the missconduct below, providing all details relevant to the events.[/bold]
@@ -61,15 +61,15 @@ Name(s):         [color=blue]   ■   [/color]
     ■
 [/color]
 
-[color=#009100][head=2]Section D[/head][/color]
+[color=#007100][head=2]Section D[/head][/color]
 I, the undersigned, hereby declare that my time wasted by filling out and submitting this form, and the time wasted by the receiver reading this form, pales in comparison to the emotional toll inflicted by the misconduct of the subject of this complaint.
 
 [bold]Applicable Signature:[/bold]      [color=blue]   ■   [/color]
                                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
-[color=#009100]   ▪  ▪  ▪[/color]
+[color=#007100]   ▪  ▪  ▪[/color]
 											 
-[color=#009100][bold]Submit this document to the Captain, the HoP, another relevant command head, or to CentComm for review. Refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold][/color]
+[color=#007100][bold]Submit this document to the Captain, the HoP, another relevant command head, or to CentComm for review. Refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold][/color]
 
 
 [italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority).

@@ -1,6 +1,6 @@
 # C-02 Department Search Warrant
-[color=#cb0000]█▄ █ ▀█▀    [head=3]Department Search Warrant[/head] [italic][color=#aaaaaa]C-02[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+[color=#cb0000]█▄ █ ▀█▀    [head=2]Department Search Warrant[/head] [italic][color=#aaaaaa]C-02[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]This warrant grants security permission to [color=#cb0000]search[/color] the specified [color=#cb0000]department[/color] during any alert. [color=#cb0000]This warrant must be approved and stamped by the head of the department to be searched or the Captain.[/bold][/color]

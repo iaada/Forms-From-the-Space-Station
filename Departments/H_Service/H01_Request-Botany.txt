@@ -1,9 +1,9 @@
 # H-01 Hydroponics Request Form
-[color=#2c8902]█▄ █ ▀█▀    [head=3]Hydroponics Request Form[/head] [italic][color=#aaaaaa]H-01[/color][/italic]
-█ ▀█     █        Green is What We're Known For
+[color=#2cb902]█▄ █ ▀█▀    [head=2]Hydroponics Request Form[/head] [italic][color=#aaaaaa]H-01[/color][/italic]
+█ ▀█     █                Green is What We're Known For
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
-[bold]This form is for placing [color=#2c8902]physical orders[/color] through the [color=#2c8902]Hydroponics[/color] department. Be detailed and specific.[/bold]
+[bold]This form is for placing [color=#2cb902]physical orders[/color] through the [color=#2cb902]Hydroponics[/color] department. Be detailed and specific.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -11,14 +11,14 @@
       [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
       [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#2c8902]   ▪  ▪  ▪[/color]
+[color=#2cb902]   ▪  ▪  ▪[/color]
 
 [bold]Purpose of Request:[/bold]
 [italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
        ■
 [/color]
 
-[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2c8902]Enumerated Request:[/color][/head]
+[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2cb902]Enumerated Request:[/color][/head]
 [italic]An exact list of items alongside the number requested. Extra may be included due to harvest sizes.[/italic]
 
 [bold]Your Order:[/bold]
@@ -26,7 +26,7 @@
  [bullet/] ■
  [bullet/] ■
 [/color]
-[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2c8902]Hydroponics Rental:[/color][/head]
+[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2cb902]Hydroponics Rental:[/color][/head]
 [italic]A hydroponics tray will be continually replanted with the specified crop(s) for the specified length of time.[/italic]
 
 [bold]Number of Hydroponics Trays:[/bold]       [color=blue] ■ [/color]
@@ -38,7 +38,7 @@
 [bold]Duration of Rental:[/bold]         [color=blue]   ■   [/color]
                                          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
-[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2c8902]GMO Free[/color][/head]
+[head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2cb902]GMO Free[/color][/head]
 [italic]No chemicals will be used. This will make the botanist very sad.[/italic]
 
 

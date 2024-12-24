@@ -1,6 +1,6 @@
 # D-02 Bill of Sale
-[color=#b18644]█▄ █ ▀█▀    [head=3]Bill of Sale[/head] [italic][color=#aaaaaa]D-02[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+[color=#b18644]█▄ █ ▀█▀    [head=2]Bill of Sale[/head] [italic][color=#aaaaaa]D-02[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
 [bold]This form represents an exchange of items for currency (referred to as a [color=#b18644]"sale"[/color]). This [color=#b18644]sale[/color] entitles the seller to the stated amount in Spesos. If Spesos can not be provided, an item or items of equivalent value may be substituted.[/bold]

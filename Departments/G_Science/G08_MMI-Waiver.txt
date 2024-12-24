@@ -1,6 +1,6 @@
 # G-08 M.M.I. Waiver
-[color=#c96dbf]█▄ █ ▀█▀    [head=3]Man-Machine Interface Waiver[/head] [italic][color=#aaaaaa]G-08[/color][/italic]
-█ ▀█     █        You Can't Go Wrong with Science
+[color=#c96dbf]█▄ █ ▀█▀    [head=2]Man-Machine Interface Waiver[/head]
+█ ▀█     █               Explaining The Inexplicable        [italic][color=#aaaaaa]G-08[/color][/italic]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]This waiver is to be [color=#c96dbf]read aloud[/color] following the connection of a [color=#c96dbf]brain[/color] to a [color=#c96dbf]Man-Machine Interface[/color]. Record responses.[/bold]

@@ -1,6 +1,6 @@
 # G-03 Body Donation Form
 [color=#c96dbf]█▄ █ ▀█▀    [head=2]Body Donation Form[/head] [italic][color=#aaaaaa]G-03[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]The subject of this form has either requested - or been ordered - to have their [color=#c96dbf]body donated[/color] to a Nanotrasen.[/bold]

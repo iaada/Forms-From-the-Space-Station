@@ -1,6 +1,6 @@
 # G-07 Protolathe Release Form
-[color=#c96dbf]█▄ █ ▀█▀    [head=3]Protolathe Release Form[/head] [italic][color=#aaaaaa]G-07[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+[color=#c96dbf]█▄ █ ▀█▀    [head=2]Protolathe Release Form[/head] [italic][color=#aaaaaa]G-07[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]This form is for the release of a [color=#c96dbf]protolathe[/color] to a station department. [color=#c96dbf]This form must be approved and stamped.[/color][/bold]

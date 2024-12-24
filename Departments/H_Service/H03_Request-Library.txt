@@ -1,9 +1,9 @@
 # H-03 Library Rental Form
-[color=#2c8902]█▄ █ ▀█▀    [head=3]Library Rental Form[/head] [italic][color=#aaaaaa]H-03[/color][/italic]
-█ ▀█     █        Please Return in a Timely Manner
+[color=#2cb902]█▄ █ ▀█▀    [head=2]Library Rental Form[/head] [italic][color=#aaaaaa]H-03[/color][/italic]
+█ ▀█     █                Please Return in a Timely Manner
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
-[bold]This form is for the [color=#2c8902]rental[/color] of books or other library assets.[/bold]
+[bold]This form is for the [color=#2cb902]rental[/color] of books or other library assets.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

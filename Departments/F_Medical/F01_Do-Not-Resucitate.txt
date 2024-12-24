@@ -1,6 +1,6 @@
 # F-01 DO NOT RESUSCITATE
 [color=#5b97bc]█▄ █ ▀█▀    [head=2]DO NOT RESUSCITATE[/head] [italic][color=#aaaaaa]F-01[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]The subject of this [color=#5b97bc]DNR (Do Not Resuscitate)[/color] has either requested - or been ordered - not to be resuscitated, cloned, or anything that would bring them back to life.[/bold]

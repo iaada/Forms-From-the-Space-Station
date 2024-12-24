@@ -1,9 +1,9 @@
 # H-02 Mutation Request Form
-[color=#2c8902]█▄ █ ▀█▀    [head=3]Mutation Request Form[/head] [italic][color=#aaaaaa]H-02[/color][/italic]
-█ ▀█     █        Green is What We're Known For
+[color=#2cb902]█▄ █ ▀█▀    [head=2]Mutation Request Form[/head] [italic][color=#aaaaaa]H-02[/color][/italic]
+█ ▀█     █                Green is What We're Known For
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
-[bold]This form is for placing [color=#2c8902]orders for mutated plants[/color] through the [color=#2c8902]Hydroponics[/color] department. Be detailed and specific.[/bold]
+[bold]This form is for placing [color=#2cb902]orders for mutated plants[/color] through the [color=#2cb902]Hydroponics[/color] department. Be detailed and specific.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -11,7 +11,7 @@
       [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
       [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#2c8902]   ▪  ▪  ▪[/color]
+[color=#2cb902]   ▪  ▪  ▪[/color]
 
 [bold]Your Order:[/bold]
 [italic][color=#aaaaaa]Provide a detailed and exhaustive list.[/color][/italic][color=blue]

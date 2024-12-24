@@ -1,6 +1,6 @@
 # E-01 Building Permit
 [color=#f39f27]█▄ █ ▀█▀    [head=2]Building Permit[/head] [italic][color=#aaaaaa]E-01[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]This form represents a [color=#f39f27]permit to build[/color] the specified structure at the specified location. [color=#f39f27]This permit must be approved and stamped.[/color][/bold]

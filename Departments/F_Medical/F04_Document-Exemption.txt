@@ -1,6 +1,6 @@
 # F-04 Document Exemption Form
 [color=#5b97bc]█▄ █ ▀█▀    [head=2]Document Exemption Form[/head] [italic][color=#aaaaaa]F-04[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]The holder of this document is [color=#5b97bc]exempt from[/color] having to fill out forms, respond to letters, or otherwise engage in [color=#5b97bc]bureaucracy[/color] for mental health reasons.[/bold]

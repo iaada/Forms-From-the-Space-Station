@@ -1,6 +1,6 @@
 # F-02 DO NOT BORG
 [color=#5b97bc]█▄ █ ▀█▀    [head=2]DO NOT BORG[/head] [italic][color=#aaaaaa]F-02[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]The subject of the [color=#5b97bc]DNB (Do Not Borg)[/color] has either requested - or been ordered - not to be cyborged, experimented on, or anything that does not constitute an unaltered continuation of life.[/bold]

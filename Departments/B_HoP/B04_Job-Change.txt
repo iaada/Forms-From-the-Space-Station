@@ -1,6 +1,6 @@
 # B-04 Transfer Request Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=2]Transfer Request Form[/head] [italic][color=#aaaaaa]B-04[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]The subject of this form requests a [color=#1b67a5]transfer[/color] between departments, including [color=#1b67a5]ID level access[/color].[/bold]

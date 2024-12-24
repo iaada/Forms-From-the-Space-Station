@@ -1,6 +1,6 @@
 # F-03 Medical Request Form
-[color=#5b97bc]█▄ █ ▀█▀    [head=3]Medical Request Form[/head] [italic][color=#aaaaaa]F-03[/color][/italic]
-█ ▀█     █        If You're Hurting, Choose Medical
+[color=#5b97bc]█▄ █ ▀█▀    [head=2]Medical Request Form[/head] [italic][color=#aaaaaa]F-03[/color][/italic]
+█ ▀█     █                Triage Means We Care
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
 [bold]This form is for placing [color=#5b97bc]physical orders[/color] through the [color=#5b97bc]Medical[/color] department. Be detailed and specific.[/bold]

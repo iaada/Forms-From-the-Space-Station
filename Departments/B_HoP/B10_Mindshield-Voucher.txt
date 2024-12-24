@@ -1,6 +1,6 @@
 # B-10 Mindshield Voucher
 [color=#1b67a5]█▄ █ ▀█▀    [head=2]Mindshield Voucher[/head] [italic][color=#aaaaaa]B-10[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
 ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲[/color]
    
 [bold]This voucher is to be exchanged for [color=#1b67a5]one[/color] (1) [color=#1b67a5]mindshield[/color], [color=#1b67a5]implanted[/color] immediately upon exchange. [color=#1b67a5]This voucher must be approved and stamped.[/color][/bold]

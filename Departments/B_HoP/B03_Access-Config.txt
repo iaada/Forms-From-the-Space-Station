@@ -1,6 +1,6 @@
 # B-03 Access Configuration Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=2]Access Configuration Form[/head] [italic][color=#aaaaaa]B-03[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]The subject of this form requests a change to the access configuration of [color=#1b67a5]an electronic device[/color].[/bold]

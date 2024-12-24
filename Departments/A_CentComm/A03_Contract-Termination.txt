@@ -1,11 +1,11 @@
 # A-03 Contract Termination Report
-[color=#009100]█▄ █ ▀█▀    [head=2]Contract Termination Report[/head] [italic][color=#aaaaaa]A-03[/color][/italic]
-█ ▀█     █           [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+[color=#007100]█▄ █ ▀█▀    [head=2]Contract Termination Report[/head] [italic][color=#aaaaaa]A-03[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This is a report of [color=#009100]contract termination[/color] for a soon to be former Nanotrasen employee. [color=#009100]This report must be approved and stamped.[/color][/bold]
+[bold]This is a report of [color=#007100]contract termination[/color] for a soon to be former Nanotrasen employee. [color=#007100]This report must be approved and stamped.[/color][/bold]
 
-[color=#009100][head=2]Section A[/head][/color]
+[color=#007100][head=2]Section A[/head][/color]
 
 [bold]Department of Employment:[/bold]         [color=blue]   ■   [/color]
                                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -14,7 +14,7 @@
 [bold]Name of Employee:[/bold]         [color=blue]   ■   [/color]
                                          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
-[color=#009100][head=2]Section B[/head][/color]
+[color=#007100][head=2]Section B[/head][/color]
 
 [bold]Misconduct:[/bold]
    [italic][color=#aaaaaa]Mark all that apply.[/color][/italic][mono]
@@ -39,7 +39,7 @@
  [bold][color=#aaaaaa]O[/color][/bold] A Few People          [bold][color=#aaaaaa]O[/color][/bold] A Department Worth
  [bold][color=#aaaaaa]O[/color][/bold] Multiple Departments  [bold][color=#aaaaaa]O[/color][/bold] Entire Station
 [/mono]
-[color=#009100][head=2]Section C[/head][/color]
+[color=#007100][head=2]Section C[/head][/color]
 [bold]When did the incident occur?[/bold]        [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
                                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Provide a detailed explanation of the missconduct below, providing all details relevant to the events.[/bold]
@@ -47,26 +47,26 @@
     ■
 [/color]
 
-[color=#009100][head=2]Section D[/head][/color]
+[color=#007100][head=2]Section D[/head][/color]
 
-[color=#009100][head=3][bold]AS COMMANDING OFFICER OF THE SUBJECT OF THIS REPORT I HEREBY CERTIFY:[/bold][/head][/color]
+[color=#007100][head=3][bold]AS COMMANDING OFFICER OF THE SUBJECT OF THIS REPORT I HEREBY CERTIFY:[/bold][/head][/color]
 [bold]1.[/bold] I have been duly informed, and am aware of all matters pertaining to this report.
 [bold]2.[/bold] I vouch that the individual in question has failed in their duties or otherwise acted against NT interests.
 [bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
-[color=#009100][head=3][bold]AS HEAD OF PERSONNEL I HEREBY CERTIFY:[/bold][/head][/color]
+[color=#007100][head=3][bold]AS HEAD OF PERSONNEL I HEREBY CERTIFY:[/bold][/head][/color]
 [bold]1.[/bold] I have been duly informed, and am aware of all matters pertaining to this report.
 [bold]2.[/bold] I vouch that the individual in question has failed in their duties or otherwise acted against NT interests.
 [bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
-[color=#009100][head=3][bold]AS CAPTAIN I HEREBY CERTIFY:[/bold][/head][/color]
+[color=#007100][head=3][bold]AS CAPTAIN I HEREBY CERTIFY:[/bold][/head][/color]
 [bold]1.[/bold] I have been duly informed, and am aware of all matters pertaining to this report.
 [bold]2.[/bold] I vouch that the individual in question has failed in their duties or otherwise acted against NT interests.
 [bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
-[color=#009100]   ▪  ▪  ▪[/color]
+[color=#007100]   ▪  ▪  ▪[/color]
 											 
-[color=#009100][bold]Submit this document to CentComm for review.[/bold][/color]
+[color=#007100][bold]Submit this document to CentComm for review.[/bold][/color]
 
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the Captain, the Head of Personnel, and the officer in command of the subject.

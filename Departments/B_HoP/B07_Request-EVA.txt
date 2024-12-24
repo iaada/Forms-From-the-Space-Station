@@ -1,6 +1,6 @@
 # B-07 EVA Rental Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=2]EVA Rental Form[/head] [italic][color=#aaaaaa]B-07[/color][/italic]
-█ ▀█     █        Nanotrasen Delivers
+█ ▀█     █                Your Voice Matters
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]This form is for placing requests to [color=#1b67a5]withdraw[/color] items from [color=#1b67a5]EVA storage[/color] for the specified time through the [color=#1b67a5]Head of Personnel[/color]. Be detailed and specific.[/bold]

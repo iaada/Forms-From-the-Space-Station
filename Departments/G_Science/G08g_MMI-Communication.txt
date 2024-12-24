@@ -1,6 +1,6 @@
 # G-08g M.M.I. Communication
 [color=#c96dbf]█▄ █ ▀█▀   [head=3]Man-Machine Interface Communication[/head]
-█ ▀█     █        You Can't Go Wrong with Science   [italic][color=#aaaaaa]G-08g Glossary[/color][/italic]
+█ ▀█     █               Explaining The Inexplicable      [italic][color=#aaaaaa]G-08g Glossary[/color][/italic]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
 [bold]This [color=#c96dbf]glossary[/color] is to aid in communication with a [color=#c96dbf]brain[/color] following its connection to a [color=#c96dbf]Man-Machine Interface[/color]. Procedure for communicating is detailed on the G-08.[/bold]

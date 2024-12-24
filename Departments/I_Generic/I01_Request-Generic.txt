@@ -1,6 +1,6 @@
 # I-01 Generic Request Form
-[color=#1b67a5]█▄ █ ▀█▀    [head=3]Generic Request Form[/head] [italic][color=#aaaaaa]I-01[/color][/italic]
-█ ▀█     █        Nanotrasen Delivers
+[color=#666666]█▄ █ ▀█▀    [head=2]Generic Request Form[/head] [italic][color=#aaaaaa]I-01[/color][/italic]
+█ ▀█     █                Nanotrasen Hears You
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
 [bold]This form is for placing orders. Be detailed and specific.[/bold]
@@ -11,7 +11,7 @@
       [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
       [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#1b67a5]   ▪  ▪  ▪[/color]
+[color=#666666]   ▪  ▪  ▪[/color]
 
 [bold]Your Order:[/bold]
 [italic][color=#aaaaaa]Provide a detailed and exhaustive list.[/color][/italic][color=blue]
