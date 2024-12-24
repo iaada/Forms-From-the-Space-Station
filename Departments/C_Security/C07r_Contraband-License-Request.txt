@@ -13,6 +13,10 @@
                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#cb0000]   ▪  ▪  ▪[/color]
 
+[bold]Requested Duration of License:[/bold]     [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
+                                                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#cb0000]   ▪  ▪  ▪[/color]
+
 [bold]Contraband:[/bold]
 [italic][color=#aaaaaa]Provide a detailed and exhaustive description.[/color][/italic][color=blue]
        ■

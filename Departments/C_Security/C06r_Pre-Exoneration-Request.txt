@@ -13,6 +13,10 @@
                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#cb0000]   ▪  ▪  ▪[/color]
 
+[bold]Requested Duration of License:[/bold]     [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
+                                                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#cb0000]   ▪  ▪  ▪[/color]
+
 [bold]Space crime(s):[/bold]
 [italic][color=#aaaaaa]All crimes, ordered by most to least severe.[/color][/italic][color=blue]
  [bullet/] ■
