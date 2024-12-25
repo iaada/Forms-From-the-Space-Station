@@ -1,0 +1,14 @@
+# B-15 Crew Application
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Crew Application[/head] [italic][color=#aaaaaa]B-15[/color][/italic]
+█ ▀█     █                Your Voice Matters
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]This document represents an [color=#1b67a5]application for crewmanship[/color].[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Your Age:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Your Species:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]   ▪  ▪  ▪[/color]

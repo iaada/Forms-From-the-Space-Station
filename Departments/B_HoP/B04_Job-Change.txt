@@ -7,6 +7,7 @@
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]   ▪  ▪  ▪[/color]
 
 [bold]Previous Employment:[/bold]
 [bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical [bold][color=#aaaaaa]O[/color][/bold] Chemistry [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Atmos

@@ -11,6 +11,8 @@
       [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
       [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#f39f27]   ▪  ▪  ▪[/color]
+
 [bold]Do you possess an accompanying [color=#f39f27]E-02 (Requisitions)[/color]?[/bold]
       [bold][color=#aaaaaa]O[/color][/bold] Yes      [bold][color=#aaaaaa]O[/color][/bold] No
 

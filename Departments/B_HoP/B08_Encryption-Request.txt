@@ -7,6 +7,10 @@
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Do you represent the needs or interests of a department?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
+      [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
+                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]   ▪  ▪  ▪[/color]
 
 [bold]Requested Encryption:[/bold]

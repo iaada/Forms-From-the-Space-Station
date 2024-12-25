@@ -7,6 +7,8 @@
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#2cb902]   ▪  ▪  ▪[/color]
+
 [bold]Description of Rental:[/bold]
 [italic][color=#aaaaaa]Book titles, book bags, ect.[/color][/italic][color=blue]
  [bullet/] ■
