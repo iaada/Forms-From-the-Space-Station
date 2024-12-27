@@ -9,17 +9,19 @@
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#1b67a5]   ▪  ▪  ▪[/color]
 
-[bold]Previous Employment:[/bold]
-[bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical [bold][color=#aaaaaa]O[/color][/bold] Chemistry [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Atmos
-[bold][color=#aaaaaa]O[/color][/bold] Cargo   [bold][color=#aaaaaa]O[/color][/bold] Salvage  [bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Security   [bold][color=#aaaaaa]O[/color][/bold] Command
-[bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
-                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Previous Employment:[/bold][mono]
+[bold][color=#aaaaaa]O[/color][/bold] Cargo    [bold][color=#aaaaaa]O[/color][/bold] Command  [bold][color=#aaaaaa]O[/color][/bold] Engineering
+[bold][color=#aaaaaa]O[/color][/bold] Medical  [bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Security
+[bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Other:[/mono]         [color=blue]    ■    [/color]
+                                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
-[bold]Requested Employment:[/bold]
-[bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical [bold][color=#aaaaaa]O[/color][/bold] Chemistry [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Atmos
-[bold][color=#aaaaaa]O[/color][/bold] Cargo   [bold][color=#aaaaaa]O[/color][/bold] Salvage  [bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Security   [bold][color=#aaaaaa]O[/color][/bold] Command
-[bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
-                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Requested Employment:[/bold][mono]
+[bold][color=#aaaaaa]O[/color][/bold] Cargo    [bold][color=#aaaaaa]O[/color][/bold] Command  [bold][color=#aaaaaa]O[/color][/bold] Engineering
+[bold][color=#aaaaaa]O[/color][/bold] Medical  [bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Security
+[bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Other:[/mono]         [color=blue]    ■    [/color]
+                                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Requested Sub-Department:[/bold]  [italic][color=#aaaaaa]Optional[/color][/italic]         [color=blue]    ■    [/color]
+                                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [bold]Purpose of Request:[/bold]
 [italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
@@ -28,7 +30,7 @@
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the head of a department (where valid), the Head of Personnel, or the Captain.
 
-This document is for a change in department. For a change in job title, submit a B-05 (Title Change Request) to the Head of Personnel.
+This document is for a change in department. For a change in job title, submit a B-05 (Title Change Request).
 
 This document is for use by Nanotrassen employees. Passengers and other un-paid individuals must instead submit a B-16 (Employment Application).
 
