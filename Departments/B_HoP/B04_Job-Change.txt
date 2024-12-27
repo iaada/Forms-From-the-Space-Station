@@ -1,9 +1,9 @@
-# B-04 Transfer Request Form
-[color=#1b67a5]█▄ █ ▀█▀    [head=2]Transfer Request Form[/head] [italic][color=#aaaaaa]B-04[/color][/italic]
+# B-04 Transfer Request
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Transfer Request[/head] [italic][color=#aaaaaa]B-04[/color][/italic]
 █ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]The subject of this form requests a [color=#1b67a5]transfer[/color] between departments, including [color=#1b67a5]ID level access[/color].[/bold]
+[bold]The subject of this document requests a [color=#1b67a5]transfer[/color] between departments, including [color=#1b67a5]ID level access[/color].[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -12,13 +12,13 @@
 [bold]Previous Employment:[/bold]
 [bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical [bold][color=#aaaaaa]O[/color][/bold] Chemistry [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Atmos
 [bold][color=#aaaaaa]O[/color][/bold] Cargo   [bold][color=#aaaaaa]O[/color][/bold] Salvage  [bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Security   [bold][color=#aaaaaa]O[/color][/bold] Command
-[bold][color=#aaaaaa]O[/color][/bold] None  [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
+[bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
                                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [bold]Requested Employment:[/bold]
 [bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical [bold][color=#aaaaaa]O[/color][/bold] Chemistry [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Atmos
 [bold][color=#aaaaaa]O[/color][/bold] Cargo   [bold][color=#aaaaaa]O[/color][/bold] Salvage  [bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Security   [bold][color=#aaaaaa]O[/color][/bold] Command
-[bold][color=#aaaaaa]O[/color][/bold] None  [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
+[bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
                                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [bold]Purpose of Request:[/bold]
@@ -28,7 +28,9 @@
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the head of a department (where valid), the Head of Personnel, or the Captain.
 
-This form is for a change in department. For a change in job title, use a B-05 Title Change Request Form.
+This document is for a change in department. For a change in job title, submit a B-05 (Title Change Request) to the Head of Personnel.
+
+This document is for use by Nanotrassen employees. Passengers and other un-paid individuals must instead submit a B-16 (Employment Application).
 
 Form distributed by the A.D.A. (Administration Divisive Authority).
 

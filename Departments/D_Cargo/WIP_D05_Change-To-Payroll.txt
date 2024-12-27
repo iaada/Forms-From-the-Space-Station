@@ -1,0 +1,11 @@
+Employee:
+
+Current Payroll:
+Hourly  Salary
+
+Amount:
+
+New Payroll:
+Hourly  Salary
+
+Amount:
