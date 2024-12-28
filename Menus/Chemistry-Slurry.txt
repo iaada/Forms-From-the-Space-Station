@@ -1,0 +1,43 @@
+# Slurry Menu
+
+                  [color=#5b97bc][head=1]Slurry Special Menu[/head]
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[/color]
+
+[color=#5b97bc][head=2]Basic Flavors[/head]
+░░░░░░░░░░░░░░░░░░░░[/color][mono]
+Aluminium   Carbon       Chlorine    Copper
+Ethanol     Fluorine     Hydrogen    Iodine
+Iron        Lithium      Mercury     Nitrogen
+Oxygen      Phosphorus   Potassium   Radium
+Silicon     Sodium       Sugar       Sulfur
+[/mono]
+[color=#5b97bc][head=2]Standard Flavors[/head]
+░░░░░░░░░░░░░░░░░░░░[/color][mono]
+  Ammonia                 Ash
+  Bicaridine              Charcoal
+  Cooking Oil             Copper Saline
+  Cryoxadone              Dermaline
+  Dexalin                 Diethylamine
+  Doxarubixadone          Dylovene
+  Ethylredoxrazine        EZ Nutrient
+  Fat                     Fersilicite
+  Hyronalin               Inaprovaline
+  Ipecac                  Iron Saline
+  Kelotane                Leporazine
+  Potassium Iodine        Robust Harvest
+  Sodium Polyacrylate     Space Cleaner
+  Space Lube              Sulfuric Acid
+  Synaptizine             Tranexamic Acid
+  Table Salt              Tricordrazine
+  Unstable Mutagen        Vinegar
+[/mono]
+[color=#5b97bc][head=2]Premium Flavors[/head]
+░░░░░░░░░░░░░░░░░░░░[/color][mono]
+  Arithrazine             Bleach
+  Chloral Hydrate         Dexalin+
+  Epinephrine             Mustard
+  Phalanximine            Plasma
+  Protein                 Razorium
+  Space Glue
+[/mono]
