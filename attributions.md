@@ -1,5 +1,6 @@
 weh.txt [original](https://github.com/Moomoobeef/ss14-forms-txt/blob/master/Fun/Lizard%20Jumpscare.txt)
 furry thing.txt aka boykisser (origin unknown)
+au revoir.txt (original by socpens on twitch)
 loss.txt [original](https://cad-comic.com/comic/loss/) [original2](https://github.com/Moomoobeef/ss14-forms-txt/blob/master/Fun/Loss.txt)
 Petition.txt [original](https://github.com/Moomoobeef/ss14-forms-txt/blob/master/Practical-Forms/Petition.txt), edited by iaada
 A05_Formal-Complaint.txt [original](https://github.com/Moomoobeef/ss14-forms-txt/blob/master/Practical-Forms/Formal%20Complaint%20Form.txt), edited by iaada
