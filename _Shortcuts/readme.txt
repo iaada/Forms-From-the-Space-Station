@@ -1,0 +1,1 @@
+Space station 14 recognizes shortcuts. If there's a form you use often, try adding a shortcut here.
