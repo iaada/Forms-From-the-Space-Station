@@ -1,9 +1,9 @@
-# H-04 Meal Request
-[color=#2cb902]█▄ █ ▀█▀    [head=2]Meal Request[/head] [italic][color=#aaaaaa]H-04[/color][/italic]
-█ ▀█     █                Just Like Mama Used To Make
+# H-06 Song Request
+[color=#2cb902]█▄ █ ▀█▀    [head=2]Song Request[/head] [italic][color=#aaaaaa]H-06[/color][/italic]
+█ ▀█     █                Tips Are Appreciated
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
-[bold]This document represents a request for [color=#2cb902]food[/color] via the [color=#2cb902]kitchen[/color]. Be detailed and specific.[/bold]
+[bold]This document represents a [color=#2cb902]song[/color] request via the [color=#2cb902]musician[/color]. Be detailed and specific.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -13,18 +13,15 @@
                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#2cb902]   ▪  ▪  ▪[/color]
 
-[bold]Your Order:[/bold]
-[italic][color=#aaaaaa]Provide a detailed and exhaustive list.[/color][/italic][color=blue]
- [bullet/] ■
- [bullet/] ■
-[/color]
+[bold]Song Request:[/bold]         [color=blue]    ■    [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Purpose of Request:[/bold]
 [italic][color=#aaaaaa]Optionally provide a detailed explanation for your request.[/color][/italic][color=blue]
 	   ■
 [/color]
 
 
-[italic][color=#aaaaaa]H-04 requests are handled in the order they are received.
+[italic][color=#aaaaaa]H-06 requests are handled in the order they are received.
 
 Service withholds the right to change request policies at any time.
 

@@ -1,9 +1,9 @@
-# H-04 Meal Request
-[color=#2cb902]█▄ █ ▀█▀    [head=2]Meal Request[/head] [italic][color=#aaaaaa]H-04[/color][/italic]
-█ ▀█     █                Just Like Mama Used To Make
+# H-05 Drink Request
+[color=#2cb902]█▄ █ ▀█▀    [head=2]Drink Request[/head] [italic][color=#aaaaaa]H-05[/color][/italic]
+█ ▀█     █                Happy Hour Just Started
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
-[bold]This document represents a request for [color=#2cb902]food[/color] via the [color=#2cb902]kitchen[/color]. Be detailed and specific.[/bold]
+[bold]This document represents a [color=#2cb902]drink[/color] request via the [color=#2cb902]bartender[/color]. Be detailed and specific.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -24,7 +24,7 @@
 [/color]
 
 
-[italic][color=#aaaaaa]H-04 requests are handled in the order they are received.
+[italic][color=#aaaaaa]H-05 requests are handled in the order they are received.
 
 Service withholds the right to change request policies at any time.
 
