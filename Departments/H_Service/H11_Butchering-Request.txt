@@ -1,0 +1,30 @@
+# H-11 Butchering Request
+[color=#2cb902]█▄ █ ▀█▀    [head=2]Butchering Request[/head] [italic][color=#aaaaaa]H-11[/color][/italic]
+█ ▀█     █                Just Like Mama Used To Make
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+   
+[bold]This document represents a request for [color=#2cb902]butchering[/color] via the [color=#2cb902]kitchen[/color], and the contents returned.[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Do you represent the needs or interests of a department?[/bold]
+      [bold][color=#aaaaaa]O[/color][/bold] No, I represent myself.
+      [bold][color=#aaaaaa]O[/color][/bold] Yes, I represent:   [color=blue]          ■          [/color]
+                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#2cb902]   ▪  ▪  ▪[/color]
+
+[bold]Description of Carcass:[/bold]
+[italic][color=#aaaaaa]Provide a detailed and exhaustive description.[/color][/italic][color=blue]
+       ■
+[/color]
+[bold]Purpose of Request:[/bold]
+[italic][color=#aaaaaa]Optionally provide a detailed explanation for your request.[/color][/italic][color=blue]
+	   ■
+[/color]
+
+
+[italic][color=#aaaaaa]H-11 requests are handled in the order they are received.
+
+Service withholds the right to change request policies at any time.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]
