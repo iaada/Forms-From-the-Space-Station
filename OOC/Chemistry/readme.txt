@@ -1,0 +1,1 @@
+These chem guides use the Notepad++ user defined language feature to add color. Information is dense and probably difficult to parse without it. It's probably difficult to parse with it, too.

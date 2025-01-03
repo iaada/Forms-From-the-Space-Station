@@ -1,0 +1,332 @@
+// Recipes for Chemistry-1-Public.txt
+
+*** Table of Contents ***
+*
+Tricordrazine
+Tranexamic-Bica
+Kelo-Derm
+Bica-Derm
+Bylovene
+Dyloline
+*
+Liver Stone
+Better Potassium Iodine
+Oculine
+Poorman's Trumpet
+Poorman's Trumpet
+Cough Syrup
+*
+Psicodine
+Haloperidol
+Narco-Cure
+Cognizine
+*
+Vox Drop
+Robust Harvest
+EZ Nutrient
+
+*** General ***
+
+):Tricordrazine, BRUTE-BURN[18], POISON[9]
+ + 15 oxygen
+ + 15 Carbon
+ + 15 Sugar                  = 45 Inaprovaline
+ + 15 silicon
+ + 15 nitrogen
+ + 15 potassium              = 45 Dylovene
+oo Bottle or Pill           == 90u Tricordrazine
+ > 3 bottles
+ > 10 pills, 9u, long-teal [1~3]
+
+):~Tranexamic-Bica~, BRUTE[48], BLEED (od@2
+ + 15 oxygen
+ + 5 Hydrogen
+ + 5 sulfur                  = 15 sulfuric acid
+ + 5 Carbon
+ + 20 Sugar                  = 45 Tranexamic Acid
+oo Buffer , Discard 15 Trex .= 30u Tranexamic Acid
+ + 80 Carbon
+oo Buffer                   .= 30u Tranexamic Acid, 80 carbon
+ + 20 oxygen
+ + 20 Sugar                  = 120 Bicaridine
+oo Buffer                   .= 30u Tranexamic Acid, 80 carbon, 20 oxygen, 20 sugar
+oo Pill                     == 12u Bicaridine, 3u Tranexamic Acid
+ > 10 pills, 15u, long-red [1~4]
+
+):~Kelo-Derm~, HEAT-SHOCK-COLD[18] (od@3
+ + 5 silicon
+ + 5 Carbon                  = 10 Kelotane
+ + 10 oxygen
+ + 10 Phosphorus             = 30 Dermaline
+ + 30 silicon
+ + 30 Carbon                 = 60 Kelotane
+oo Buffer                   .= 50u Dermaline, 10u Kelotane
+oo Pill                     == 5u Dermaline, 10u Kelotane
+ > 6 pills, 15u, long-teal-yellow [1~6]
+
+):~Bica-Derm~, BRUTE[40], HEAT-SHOCK-COLD[15](od@2
+ + 5 oxygen
+ + 5 Sugar
+ + 25 Carbon                 = 30 Bicaridine
+ + 5 silicon                 = 10 Kelotane
+ + 10 oxygen
+ + 10 Phosphorus             = 30 Dermaline
+oo Buffer                   .= 30u Bicaridine, 10u Dermaline
+oo Pill                     == 10u Bicaridine, 10u Dermaline
+ > 3 pills, 20u, circle-red-yellow [2~5]
+
+):~Bylovene~, BRUTE[40], POISON[20] (od@3
+ + 5 oxygen
+ + 5 Sugar
+ + 20 Carbon                 = 30 Bicaridine
+ + 10 silicon
+ + 10 nitrogen
+ + 10 potassium              = 30 Dylovene
+oo Buffer                   .= 30u Bicaridine, 10u Dermaline
+oo Pill                     == 10u Bicaridine, 10u Dylovene
+ > 3 pills, 20u, circle-green-pink [2~3]
+
+):~Dyloline~, POISON[20], HEAT-SHOCK-COLD[15](od@2
+ + 5 Carbon
+ + 15 silicon                = 10 Kelotane
+ + 10 oxygen
+ + 10 Phosphorus             = 30 Dermaline
+ + 10 nitrogen
+ + 10 potassium              = 30 Dylovene
+oo Buffer                   .= 30u Dylovene, 10u Dermaline
+oo Pill                     == 10u Dylovene, 10u Dermaline
+ > 3 pills, 20u, circle-yellow-pink [2~4]
+
+*** Niche ***
+
+):~Liver Stone~, HANGOVER[90s]
+ + 10 silicon
+ + 10 nitrogen
+ + 10 potassium              = 30 dylovene
+ + 30 Carbon
+ + 30 oxygen                 = 90 Ethylredoxrazine
+oo Buffer                   .= 90u Ethylredoxrazine
+oo Pill                     == 9u Ethylredoxrazine
+ > 10 pills, 9u, pink-round [1~10]
+
+):~Better Potassium Iodine~, RAD Prophylactic[90s]
+ + 30 Iodine
+ + 30 potassium              = 60 Potassium Iodine
+ + 5 silicon
+ + 5 nitrogen
+ + 5 potassium               = 15 Dylovene
+ + 15 radium                 = 30 Hyronalin
+oo Buffer                   .= 60u Potassium Iodine, 30u Hyronalin
+oo Pill                     == 10u Potassium Iodine, 5u Hyronalin
+ > 6 pills, 15u, circle-white [1~9]
+
+// NEVER use your own blood
+):Oculine, EYE-DAMAGE <>8u
+ + 5 chlorine
+ + 5 Sodium
+oo Heat                      = 10 table salt
+ + 10 oxygen
+ + 10 Hydrogen               = 20 Hydroxide
+ + 10 Blood
+oo Heat                      = 40 Oculine
+oo Buffer                   .= 40u Oculine
+oo Pill                     == 8u Oculine
+ > 5 pills, 8u, white-round [1~7]
+
+// Harmony damage. Not perfect.
+):~Poorman's Trumpet~, SPACEWALK (od@2
+ + 50 iron
+ + 50 silicon
+oo Heat                      = 100 Fersilicite
+ + 100 copper
+ + xx plasma                 = 200 Leporazine
+oo Buffer                   .= 200u Leporazine
+ + xx plasma
+ + 10 oxygen                 = 15 Dexalin
+ + 15 Carbon
+ + 15 iron                   = 45 Dexalin+
+oo Siphon 5 Dexalin+
+oo Buffer                   .= 40u Dexalin+, 200u Leporazine
+ + 15 oxygen
+ + 15 Carbon
+ + 15 Sugar                  = 45 Inaprovaline
+ + 40 Carbon                 = 40 Bicaridine
+oo Siphon 5 Inaprovaline
+oo Jug                      .= 40 Bicaridine
+oo Jug                      .= 40 Bicaridine
+ + 80 Sugar
+oo Jug                      .= 40 Bicaridine, 40 Sugar
+oo Jug                      .= 40 Bicaridine, 40 Sugar
+// Lithium must be exact
+ + 36 lithium
+ + 36 lithium                = 160 Bruizine
+oo Buffer                   .= 160u Bruizine, 40u Dexalin+, 200u Leporazine
+oo Pill                     == 8u Bruizine, 10u Leporazine, 2u Dexalin+
+ > 20 pills, 20cc, generic [1~1]
+
+// Wizden damage. Pyrazine is added to extend the duration.
+):~Poorman's Trumpet~, SPACEWALK[24s] (od@2
+ + 50 iron
+ + 50 silicon
+oo Heat                      = 100 Fersilicite
+ + 100 copper
+ + xx plasma                 = 200 Leporazine
+oo Buffer                   .= 200u Leporazine
+ + xx plasma
+ + 10 oxygen                 = 15 Dexalin
+ + 15 Carbon
+ + 15 iron                   = 45 Dexalin+
+oo Siphon 5 Dexalin+
+oo Buffer                   .= 40u Dexalin+, 200u Leporazine
+ + 6 Leporazine
+ + 7 Carbon
+ + 1 silicon                 = 2 Kelotane
+ + 2 oxygen
+ + 2 Phosphorus              = 6 Dermaline
+oo Heat                      = 18 Pyrazine
+oo Buffer                   .= 18u Pyrazine, 40u Dexalin+, 194u Leporazine
+ + 15 oxygen
+ + 15 Carbon
+ + 15 Sugar                  = 45 Inaprovaline
+ + 35 Carbon                 = 70 Bicaridine
+oo Siphon 10 Inaprovaline
+oo Bucket                   .= 70 Bicaridine
+ + 70 Sugar
+oo Bucket                   .= 70 Sugar, 70 Bicaridine
+// Lithium must be exact
+ + 63 lithium                = 140 Bruizine
+ + 8 Water
+oo Buffer                   .= 140u Bruizine, 8u Water, 18u Pyrazine, 40u Dexalin+, 194u Leporazine
+oo Pill                     == 7u Bruizine, .4u Water, .9u Pyrazine, 2u Dexalin+, 9.7u Leporazine
+ > 20 pills, 20cc, generic [1~1]
+
+):~Cough Syrup~, BLUNT, AIRLOSS, CAUSTIC
+ + 5 oxygen
+ + 5 Carbon
+ + 5 Sugar                   = 15 Inaprovaline
+ + 15 Carbon                 = 30 Bicaridine
+ + 30 Sugar
+oo Beaker                   .= 30 Sugar, 30 Bicaridine
+// Lithium must be exact
+ + 27 lithium                = 60 Bruizine
+oo Buffer                   .= 60u Bruizine
+ + 15 Hydrogen
+ + 5 nitrogen              = 20 ammonia
+oo Siphon 15 ammonia
+ + 5 chlorine
+ + 5 Sodium                = 10 table salt
+ + 5 Carbon
+ + 5 oxygen                = 20 Sodium Carbonate
+oo Heat
+oo Siphon 5 table salt
+ + 5 oxygen
+ + 5 Hydrogen              = 10 Hydroxide
+ + 10 Sodium
+oo Heat                    = 20 sodium hydroxide
+// Each heat is needed or you'll get Mannitol
+ + 10 silicon
+ + 10 Carbon               = 20 Kelotane
+ + 20 Water
+ + 20 Sugar
+oo Heat                    = 80 Sigynate
+oo Buffer                 .= 80u Sigynate, 60u Bruizine
+ + xx plasma
+ + 4 oxygen                = 6 Dexalin
+ + 5 Carbon
+ + 5 iron                  = 15 Dexalin+
+oo Siphon 1 Dexalin , 5 Dexalin+
+oo Buffer                 .= 10u Dexalin+, 80u Sigynate, 60u Bruizine
+oo Bottle                 == 2u Dexalin+, 16u Sigynate, 12u Bruizine
+ > 5 bottles
+
+*** Psycoactive ***
+
+// Also removes drunkness and jittering
+):Psicodine, ANXIETY
+ + 15 Water
+ + 15 mercury
+ + 15 oxygen
+oo Heat                      = 15 impedrezene
+ + 10 Hydrogen
+ + 10 Sugar
+ + 40 Water                  = 60 Psicodine <= 30 Mannitol
+oo Buffer                   .= 60u Psicodine
+oo Pill                     == 6u Psicodine
+ > 10 pills, 6u, green-round [2~1]
+
+// causes drowsiness
+):Haloperidol, DETOX, JITTERING, HALLUCINATIONS
+ + 5 Iodine
+ + 5 potassium               = 10 Potassium Iodine
+ + 10 Aluminium
+ + 10 chlorine
+ + 10 fluorine
+ + 10 Oil                    = 50 Haloperidol
+ + 5 welding fuel
+ + 5 Hydrogen
+ + 5 Carbon                  = 50 Haloperidol, 5 Oil <= 15 Oil
+oo Siphon Oil
+oo Buffer                   .= 50u Haloperidol
+oo Pill                     == 5u Haloperidol
+ > 10 pills, 5u, green-white-long [1~2]
+
+// 2 sips of coffee
+):~Narco-Cure~, NARCOLEPSY. Take with coffee.
+(Diphenylmethylamine)
+[Requires Botany - Thistle. Ambrosia Recommended]
+ + 20 desoxyephedrine
+ + 20 Stellibinin            = 40 Ethyloxyephedrine
+oo Buffer                   .= 40u Ethyloxyephedrine
+ + 5 chlorine
+ + 5 Sodium
+oo Heat                      = 10 table salt
+ + 15 Hydrogen
+ + 5 nitrogen                = 20 ammonia
+ + 10 Carbon
+ + 10 oxygen                 = 40 Sodium Carbonate
+oo Siphon 10 ammonia
+oo Buffer                   .= 40u Sodium Carbonate, 40u Ethyloxyephedrine
+oo Pill                     == 10u Sodium Carbonate, 10u Ethyloxyephedrine
+ > 4 pills, 20u, green-purple-round [2~6]
+
+// 60 spesos base, fluctuates based on availability
+):Cognizine, MIND-PALACE <>5cc
+[Requires Botany - Aloe & Thistle & Koibean OR Carp]
+ + 4 welding fuel
+ + 1 Hydrogen
+ + 1 Carbon                  = 3 Oil
+ + 3 oxygen                  = 6 Acetone
+oo Siphon 1 Acetone
+ + 5 carpotoxin             // Derived from 1 carp fillet, or several koibeans
+ + xx stelibinin            // Derived from thistle
+ + xx aloe                  .= 5 Siderlac
+oo                          == 5cc Cognizine
+
+*** Species ***
+
+):~Vox Drop~, POISON[15]
+ + 5 oxygen
+ + 5 Carbon
+ + 5 Sugar                   = 15 Inaprovaline
+ + 15 silicon
+ + 15 nitrogen
+ + 15 potassium              = 30 Tricordrazine, 30 Dylovene <= 45 Dylovene
+oo Buffer                   .= 30u Tricordrazine, 30u Dylovene
+oo Pill                     == 5u Tricordrazine, 5u Dylovene
+ > 6 pills, 10u, circle-teal [1~8]
+
+):Robust Harvest, BRUTE(18), POISON(4) (od30
+ + 2 oxygen
+ + 1 Hydrogen
+ + 1 sulfur                  = 3 sulfuric acid
+ + 10 nitrogen
+ + 10 Phosphorus
+ + 10 potassium              = 30 Robust Harvest
+oo Siphon sulfuric acid
+oo Bottle                   == 30u Robust Harvest
+
+):EZ Nutrient (od0
+ + 10 nitrogen
+ + 10 Phosphorus
+ + 10 potassium              = 30 EZ Nutrient
+oo Bottle                   == 30u EZ Nutrient

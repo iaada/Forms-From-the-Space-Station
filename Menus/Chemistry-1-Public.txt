@@ -40,8 +40,11 @@ Bruise Pack [italic][color=#444444](x1)[/color][/italic] [bold]$15[/bold] [color
 [head=3]Oculine,[/head] 1 pill   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$20 & 10cc blood[/bold]
   [italic][color=#444444]A simple saline compound found in carrots. Heals the eyes.[/color][/italic]
 
-[head=3]☼Poorman's Trumpet☼,[/head] 5 pills [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$165[/bold]
-  [italic][color=#444444]A complex mix of chemicals. Rapid healing allows for extended travel in no pressure environments for 24 seconds. Feels horrible.[/color][/italic]
+[head=3]☼Poorman's Trumpet☼,[/head] 5 pills [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$175[/bold]
+  [italic][color=#444444]A complex mix of chemicals. Rapid healing allows for extended travel in no pressure environments. Feels horrible.[/color][/italic]
+
+[head=3]☼Cough Syrup☼,[/head] 1 bottle    [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$70[/bold]
+  [italic][color=#444444]Cures coughs, bruises, and caustic burns. Tastes almost good![/color][/italic]
 
 
 [color=#5b97bc][head=2]Psychoactive Drugs[/head]
@@ -76,4 +79,6 @@ Bruise Pack [italic][color=#444444](x1)[/color][/italic] [bold]$15[/bold] [color
   [italic][color=#444444]A "disgusting" mix of chemicals suited to a Slime's unique palette. Small-batch, made to order. Ask for the special menu.[/color][/italic]
 
 
-[italic][color=#aaaaaa]Materials (glass, plastic, steel, cloth) are valued at 20 spesos each. All sales final. No refunds. We deny all culpability in crimes performed by our customers.[/color][/italic]
+[italic][color=#aaaaaa]Materials (glass, plastic, steel, cloth) are valued at 20 spesos each. All sales final. No refunds. We deny all culpability in crimes performed by our customers.
+
+Menu distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]
