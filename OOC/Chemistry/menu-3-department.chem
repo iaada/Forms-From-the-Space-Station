@@ -1,0 +1,173 @@
+// Recipes for Chemistry-3-Department.txt
+*** Botanicals ***
+
+):EZ Nutrient, +NUTRIENT(2)
+ + 30 nitrogen
+ + 30 Phosphorus
+ + 30 potassium
+▶                          == 90u EZ Nutrient
+
+):ammonia, +NUTRIENT(1), +HEALTH(.5)
+ + 60 Hydrogen
+ + 20 nitrogen
+▶                          == 80u ammonia
+
+):unstable mutagen, +MUTATION(1)
+ + 30 radium
+ + 30 Phosphorus
+ + 30 chlorine
+▶                          == 90u mutagen
+
+):robust harvest, +POTENTCY(3), +PESTS(2.5%)
+ + 2 oxygen
+ + 1 Hydrogen
+ + 1 sulfur                 = 3 sulfuric acid
+ + 30 nitrogen
+ + 30 Phosphorus
+ + 30 potassium
+▶ Siphon sulfuric acid
+▶                          == 90u robust harvest
+
+):diethylamine, +AGE, +LONGEVITY, +RESILIANCE
+ + 30 Hydrogen
+ + 10 nitrogen              = 40 ammonia
+ + 40 ethanol
+▶                          == 80u diethylamine
+
+):phalanximine, +TOXIN(6), DEATH-GENE<>5cc
+ + 5 silicon
+ + 5 nitrogen
+ + 5 potassium              = 15 Dylovene
+ + 25 radium                = 30 Hyronalin
+ + 10 Phosphorus
+ + 10 chlorine              = 30 mutagen
+ + 30 ethanol
+▶                         == 90u phalanximine
+
+):Cryoxadone, +HEALTH(5), -TOXINS(5), -AGE
+ + xx plasma
+ + 20 oxygen                = 30 Dexalin
+▶ Siphon plasma
+ + 30 oxygen
+ + 30 Water
+▶						   == 90u Cryoxadone
+
+):Dylovene, +HEALTH(1), -TOXINS(10)
+ + 30 silicon
+ + 30 nitrogen
+ + 30 potassium
+▶                         == 90u Dylovene
+
+):Sedin, SEEDLESS<20%>, -HEALTH(2), -POTENTCY(3)
+ + 60 Hydrogen
+ + 20 nitrogen              = 80 ammonia
+▶ Siphon 10 ammonia
+▶ Bucket                  .= 70 ammonia
+ + 70 ethanol               = 140 diethylamine
+▶ Siphon 5 diethylamine
+▶ Bucket                  .= 135 diethylamine
+ + xx plasma
+ + 10 oxygen                = 15 Dexalin
+▶ Siphon plasma
+ + 15 oxygen
+ + 15 Water                 = 45 Cryoxadone
+▶ Bucket                  .= 45 Cryoxadone, 135 diethylamine
+ + 2 oxygen
+ + 1 Hydrogen
+ + 1 sulfur                 = 3 sulfuric acid
+ + 30 nitrogen
+ + 30 Phosphorus
+ + 30 potassium             = 90 robust harvest
+▶ Buffer sulfuric acid
+▶ Bucket                  .= 30u Sedin, 15 Cryoxadone, 45 diethylamine
+ + xx sulfuric
+ + 15 nitrogen
+ + 15 Phosphorus
+ + 15 potassium             = 45 robust harvest
+▶ Siphon sulfuric acid
+▶ Jug                     == 45u Sedin
+
+*** Janitorial ***
+
+):Space Cleaner
+ + 30 Hydrogen
+ + 10 nitrogen              = 40 ammonia
+ + 40 Water
+▶                         == 80u Space Cleaner
+
+):bleach
+ + 5 oxygen
+ + 5 nitrogen 
+ + 20 Hydrogen              = 20 ammonia <= 10 Hydroxide
+ + 20 Water                 = 40 Space Cleaner
+ + 20 chlorine
+ + 30 Sodium                = 40 table salt
+▶ Heat                     = 40 table salt, 20 sodium hydroxide
+▶                         == 100u bleach
+
+):Fluorosurfactant
+ + 10 oxygen
+ + 5 Hydrogen
+ + 5 sulfur                 = 15 sulfuric acid
+ + 30 Carbon
+ + 30 fluorine
+▶                         == 75u Fluorosurfactant
+
+):sodium polyacrylate
+ + 10 oxygen
+ + 5 Sodium
+ + 5 nitrogen
+▶ Buffer                  .= 20u sodium polyacrylate
+▶ Pill                    == 2u sodium polyacrylate
+ > 10 pills, 2u, circle-white [1~9]
+
+*** Entertainment ***
+
+):Space Lube
+ + 10 iron
+ + 10 silicon
+▶ Heat                     = 20 fersilicite
+ + 20 Water
+ + 20 oxygen
+▶                         == 100u Space Lube
+
+):space glue
+ + 15 Space Lube
+ + 15 Slime
+▶ Heat                    == 30u Space Glue
+
+):Lube Smoke
+ + 25 Phosphorus
+ + 25 potassium
+▶ Separate
+ + 25 Sugar                == 25u Smoke
+ + 25 Lube
+▶ Separate
+▶ Payload
+
+):Liquid Laughter
+ + 1 Banana
+▶ Juice                    = 10 Banana Juice
+ + 10 Sugar                == 20u Laughter
+▶ Pill
+ > white-long [2~8]
+
+):Carpetium
+ + 2 Cloth
+▶ Grind                    = 6 Fiber
+ + 1 mercury
+ + 1 Sugar
+ + 1 lithium                = 3 space mirage
+ + 6 Fiber
+▶                         == 9u Carpetium
+
+):buzzochloric bees
+ + bee plushie
+ + saxophone
+ + 4 Cloth
+▶ Grind
+ + 4 radium
+ + 4 Phosphorus
+ + 4 chlorine               = 12 mutagen
+ + 10 chlorine
+▶                         == 30u buzzochloric bees, 2 mutagen, 2u Fiber

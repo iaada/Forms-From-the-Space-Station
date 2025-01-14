@@ -9,73 +9,73 @@
 
 Bruise Pack [italic][color=#444444](x1)[/color][/italic] [bold]$15[/bold] [color=#5b97bc]  ▪  [/color] Ointment [italic][color=#444444](x1)[/color][/italic] [bold]$15[/bold] [color=#5b97bc]  ▪  [/color] Gauze [italic][color=#444444](x1)[/color][/italic] [bold]$20[/bold]
 
-[head=3]Tricordrazine,[/head] 10 pills or 3 bottles   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$160[/bold]
+[head=3]Tricordrazine,[/head] 10 pills or 3 bottles  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪ [/color][/mono][bold]$160[/bold]
   [italic][color=#444444]A wide-spectrum stimulant. Heals most minor wounds.[/color][/italic]
 
-[head=3]+Tranexamic-Bica+,[/head] 5 pills   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$80[/bold]
+[head=3]+Tranexamic-Bica+,[/head] 5 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono] [bold]$80[/bold]
   [italic][color=#444444]A blood-clotting analgesic. Effective at healing brute damage.[/color][/italic]
 
-[head=3]+Kelo-Derm+,[/head] 4 pills [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$110[/bold]
+[head=3]+Kelo-Derm+,[/head] 4 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][/mono][bold]$110[/bold]
   [italic][color=#444444]For common burns. The smell can make it hard to swallow.[/color][/italic]
 
-[head=3]+Bica-Derm+,[/head] 3 pills  [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$110[/bold]
+[head=3]+Bica-Derm+,[/head] 3 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][/mono] [bold]$110[/bold]
   [italic][color=#444444]Bicaridine and Dermaline. Tastes like a laser to the gut.[/color][/italic]
 
-[head=3]-Bylovene-,[/head] 3 pills   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$110[/bold]
+[head=3]-Bylovene-,[/head] 3 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono] [bold]$110[/bold]
   [italic][color=#444444]Dylovene and Bicaridine. Convinent, but limited usefulness.[/color][/italic]
 
-[head=3]-Dyloline-,[/head] 3 pills  [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$100[/bold]
+[head=3]-Dyloline-,[/head] 3 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][/mono] [bold]$100[/bold]
   [italic][color=#444444]Dylovene and Dermaline. Convinent, but limited usefulness.[/color][/italic]
 
 
 [color=#5b97bc][head=2]Niche Chemicals[/head]
 ░░░░░░░░░░░░░░░░░░░░[/color]
 
-[head=3]-Liver Stone-,[/head] 5 pills [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$85[/bold]
+[head=3]-Liver Stone-,[/head] 5 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono] [bold]$85[/bold]
   [italic][color=#444444]Neutralises the effect of alcohol. Though it is commonly needed,   it is rarely requested. Also known as Ethylredoxrazine.[/color][/italic]
 
-[head=3]+Better Potassium Iodine+,[/head] 3 pills    [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$35[/bold]
+[head=3]+Better Potassium Iodine+,[/head] 3 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  [/color][/mono] [bold]$35[/bold]
   [italic][color=#444444]A prophylactic for radiation, with minor restorative qualities.[/color][/italic]
 
-[head=3]Oculine,[/head] 1 pill   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$20 & 10cc blood[/bold]
+[head=3]Oculine,[/head] 1 pill  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono] [bold]$20, 10u blood[/bold]
   [italic][color=#444444]A simple saline compound found in carrots. Heals the eyes.[/color][/italic]
 
-[head=3]☼Poorman's Trumpet☼,[/head] 5 pills [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$175[/bold]
+[head=3]☼Poorman's Trumpet☼,[/head] 5 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪ [/color][/mono][bold]$175[/bold]
   [italic][color=#444444]A complex mix of chemicals. Rapid healing allows for extended travel in no pressure environments. Feels horrible.[/color][/italic]
 
-[head=3]☼Cough Syrup☼,[/head] 1 bottle    [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$70[/bold]
+[head=3]☼Cough Syrup☼,[/head] 1 bottle  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono] [bold]$70[/bold]
   [italic][color=#444444]Cures coughs, bruises, and caustic burns. Tastes almost good![/color][/italic]
 
 
 [color=#5b97bc][head=2]Psychoactive Drugs[/head]
 ░░░░░░░░░░░░░░░░░░░░[/color]
 
-[head=3]Psicodine,[/head] 10 pills, 6cc [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$85[/bold]
+[head=3]Psicodine,[/head] 10 pills, 6u  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono][bold]$85[/bold]
   [italic][color=#444444]Medication prescribed for mental distress, primarily anxiety.[/color][/italic]
 
-[head=3]Haloperidol,[/head] 10 pills, 5cc   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$45[/bold]
+[head=3]Haloperidol,[/head] 10 pills, 5u  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono]  [bold]$45[/bold]
   [italic][color=#444444]A detox chemical. Removes immediate symptoms, and assists in long-term dependencies. Causes drowsiness.[/color][/italic]
   
-[head=3]≡Narco-Cure≡,[/head] 4 pills  [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$290[/bold]
+[head=3]≡Narco-Cure≡,[/head] 4 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono] [bold]$290[/bold]
   [italic][color=#444444]Ethyloxyephedrine and Sodium Carbonate. One pill mixed with two sips of coffee reacts to become Diphenylmethylamine. Staves off narcolepsy for 50 seconds. [color=#cb0000]Limited availability.[/color][/color][/italic]
 
-[head=3]Cognizine,[/head] 5cc  [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]Varies[/bold]
+[head=3]Cognizine,[/head] 5u  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono] [bold]Varies[/bold]
   [italic][color=#444444]Makes things smarter. Very expensive. [color=#cb0000]Limited availability.[/color][/color][/italic]
 
 
 [color=#5b97bc][head=2]Species Specific[/head]
 ░░░░░░░░░░░░░░░░░░░░[/color]
 
-[head=3]+Vox Drop+,[/head] 3 pills    [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$50[/bold]
+[head=3]+Vox Drop+,[/head] 3 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono] [bold]$50[/bold]
   [italic][color=#444444]For Vox struggling with Oxygen poisoning. Take with every meal.[/color][/italic]
 
-[head=3]EZ Nutrient,[/head] 1 bottle    [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$40[/bold]
+[head=3]EZ Nutrient,[/head] 1 bottle  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono][bold]$40[/bold]
   [italic][color=#444444]An absolutely delicious fertilizer.[/color][/italic]
 
-[head=3]Robust Harvest,[/head] 1 bottle  [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$50[/bold]
+[head=3]Robust Harvest,[/head] 1 bottle  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][/mono] [bold]$50[/bold]
   [italic][color=#444444]A potent "stimulant" for Diona. Quickly heals brute and poison.[/color][/italic]
 
-[head=3]☼Slime's Slurry☼,[/head] 1 bottle  [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]Varies[/bold]
+[head=3]☼Slime's Slurry☼,[/head] 1 bottle  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono] [bold]Varies[/bold]
   [italic][color=#444444]A "disgusting" mix of chemicals suited to a Slime's unique palette. Small-batch, made to order. Ask for the special menu.[/color][/italic]
 
 

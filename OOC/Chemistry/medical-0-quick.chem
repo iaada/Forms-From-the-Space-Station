@@ -3,11 +3,11 @@
 *** Table of Contents ***
 *
 Dylovene
-Bicaridine
 Dermaline
-Dexalin+
 Saline
 Hyronalin
+Bicaridine
+Dexalin+
 *
 Ambuzol
 Charcoal
@@ -22,44 +22,23 @@ Plastic
  + 30 silicon
  + 30 nitrogen
  + 30 potassium
-oo                         == 90u Dylovene
+▶                         == 90u Dylovene
 
-// Slightly diluted by Saline to raise overdose volume
-):Diluted Bicaridine, BRUTE{3.8} (od15.01
- + 1 chlorine
- + 1 Sodium
-oo Heat
- + 90 Carbon
- + 8 Water                  = 10 Saline
-oo Jug                     .= 10u Saline, 90 carbon
- + 30 oxygen
- + 30 Carbon
- + 30 Sugar                 = 90 Inaprovaline
-oo Jug                     == 180u Bicaridine, 10u Saline
-
-// Slightly diluted by Kelotane to raise overdose volume
+// Slightly diluted by Kelotane to raise overdose threshold
 ):Diluted Dermaline, HEAT-SHOCK-COLD{1.4} (od10.1
  + 15 silicon
  + 15 Carbon               .= 30u Kelotane
  + 20 oxygen
  + 20 Phosphorus            = 60 Dermaline
-oo                         == 60u Dermaline, 10u Kelotane
-
-):Dexalin+, AIRLOSS{13} (od25
- + xx plasma
- + 20 oxygen                = 30 Dexalin
-oo Siphon plasma
- + 30 Carbon
- + 30 iron
-oo                         == 90u Dexalin+
+▶                         == 60u Dermaline, 10u Kelotane
 
 ):Saline, BLOOD-VOLUME{4%}, THIRST (od0
  + 20 chlorine
  + 20 Sodium
-oo Heat                     = 40 table salt
-oo Jug
+▶ Heat                     = 40 table salt
+▶ Jug
  + 160 Water
-oo Jug                     == 200u Saline
+▶ Jug                     == 200u Saline
 
 // Causes vomiting
 ):Hyronalin, RAD{2} (od30
@@ -67,25 +46,46 @@ oo Jug                     == 200u Saline
  + 15 nitrogen
  + 15 potassium             = 45 Dylovene
  + 45 radium
-oo                         == 90u Hyronalin
+▶                         == 90u Hyronalin
+
+// Slightly diluted by Saline to raise overdose threshold
+):Diluted Bicaridine, BRUTE{3.8} (od15.01
+ + 1 chlorine
+ + 1 Sodium
+▶ Heat
+ + 90 Carbon
+ + 8 Water                  = 10 Saline
+▶ Jug                     .= 10u Saline, 90 Carbon
+ + 30 oxygen
+ + 30 Carbon
+ + 30 Sugar                 = 90 Inaprovaline
+▶ Jug                     == 180u Bicaridine, 10u Saline
+
+):Dexalin+, AIRLOSS{13} (od25
+ + xx plasma
+ + 20 oxygen                = 30 Dexalin
+▶ Siphon plasma
+ + 30 Carbon
+ + 30 iron
+▶                         == 90u Dexalin+
 
 *** EMERGENCY ***
 
 // Without separating the extra Dylo, requires <>15u
-):Ambuzol, ZOMBIE <>10u
+):Ambuzol, ZOMBIE<>10u
  + 10 silicon
  + 10 nitrogen
  + 10 potassium             = 30 Dylovene
  + 15 Hydrogen
  + 5 nitrogen               = 20 ammonia
  + 40 zombie blood
-oo                         == 80u Ambuzol, 10u Dylovene
+▶                         == 80u Ambuzol, 10 Dylovene
 
 ):Charcoal, BLOOD-CLEANSE, POISON{1} (od0
  + 5 welding fuel
  + 5 Hydrogen
  + 20 Carbon                = 15 Oil
-oo Heat                    == 15u Charcoal
+▶ Heat                    == 15u Charcoal
 
 *** Jugs ***
 // Keep your buffer clean! Make jugs without any waste.
@@ -95,13 +95,13 @@ oo Heat                    == 15u Charcoal
  + 200 oxygen
  + 200 Carbon
  + 200 Sugar                = 600 Inaprovaline
-oo Mix
-oo Buffer                  .= 600u Inaprovaline
+▶ Mix
+▶ Buffer                  .= 600u Inaprovaline
  + 200 silicon
  + 200 nitrogen
  + 200 potassium            = 600 Dylovene
-oo Buffer                  .= 600u Inaprovaline, 200 silicon, 200 nitrogen, 200 potassium
-oo Pill                    == ~20u Tricordrazine
+▶ Buffer                  .= 600u Inaprovaline, 200 silicon, 200 nitrogen, 200 potassium
+▶ Pill                    == ~20u Tricordrazine
  > 60 pills, 20u, long-teal [1~3]  // Very slightly less than 20 Trico. Also very loud
 
 // For making jugs in the Med TecFab
@@ -109,21 +109,21 @@ oo Pill                    == ~20u Tricordrazine
  + 30 welding fuel
  + 30 Hydrogen
  + 30 Carbon                = 90 Oil
-oo Heat                     = 90 Ash
-oo Buffer                  .= 90u Ash
+▶ Heat                     = 90 Ash
+▶ Buffer                  .= 90u Ash
 // Be careful of beaker retaining heat. Do not use ash beaker
  + 25 welding fuel
  + 25 Hydrogen
  + 25 Carbon                = 75 Oil
-oo Buffer , Repeat         .= 150u Oil, 90u Ash
+▶ Buffer , Repeat         .= 150u Oil, 90u Ash
  + 40 oxygen
  + 20 Hydrogen
  + 20 sulfur                = 60 sulfuric acid
-oo Buffer                  .= 60u sulfuric acid, 150u Oil, 90u Ash
+▶ Buffer                  .= 60u sulfuric acid, 150u Oil, 90u Ash
  + 30 Ash
  + 20 sulfuric acid
  + 50 Oil                  // Add Oil exactly, or hot Ash might burn it
-oo Heat , Repeat , Repeat  == 30 Plastic
+▶ Heat , Repeat , Repeat  == 30 Plastic
 // Hot Ash might skip needing to heat the solution
 
 *** Plants ***

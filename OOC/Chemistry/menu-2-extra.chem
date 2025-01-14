@@ -1,0 +1,85 @@
+// Recipes for Chemistry-2-Extra.txt
+
+*** Components ***
+
+):Oil
+ + 1 welding fuel
+ + 1 Hydrogen
+ + 1 Cabon
+▶              == 3u Oil
+
+):Fat
+ + 10 Oil
+▶ Centrifuge   == 6u Fat
+// Grinding raw meat also works.
+
+):Nutriment
+// Grind up almost any food.
+
+*** Weird Stuff ***
+
+// Heating takes a long time
+):Crystal
+ + 15 Water
+ + 15 Sugar
+ + 5 ethanol
+▶ Heat         == 1 Crystal
+
+):Soap
+ + 5 Sodium
+ + 5 chlorine
+▶ Heat          = 10 table salt
+ + 15 Fat
+ + 10 Water
+▶              == 1 Soap
+
+):Meat
+ + 25 Fat
+ + 5 Nutriment
+ + 10 blood
+ + 10 Carbon
+▶              == 1 Meat
+
+):Plastic Sheets (10)
+ + 10 welding fuel
+ + 10 Hydrogen
+ + 10 Carbon                = 30 Oil
+▶ Heat                     = 30 Ash
+▶ Buffer                  .= 30u Ash
+// Be careful of beaker retaining heat. Do not use ash beaker
+ + 20 welding fuel
+ + 20 Hydrogen
+ + 20 Carbon                = 60 Oil
+▶ Siphon 10 Oil
+▶ Buffer                  .= 50u Oil, 30u Ash
+ + 20 oxygen
+ + 1 Hydrogen
+ + 1 sulfur                = 30 sulfuric acid
+▶ Siphon 10 sulfuric acid
+▶ Buffer                  .= 20u sulfuric acid, 50u Oil, 30u Ash
+ + 30 Ash
+ + 20 sulfuric acid
+ + 50 Oil                  // Add Oil exactly, or hot Ash might burn it
+▶ Heat                    == 10 Plastic
+// Hot Ash might skip needing to heat the solution
+
+):Plastic Sheets (30)
+ + 30 welding fuel
+ + 30 Hydrogen
+ + 30 Carbon                = 90 Oil
+▶ Heat                     = 90 Ash
+▶ Buffer                  .= 90u Ash
+// Be careful of beaker retaining heat. Do not use ash beaker
+ + 25 welding fuel
+ + 25 Hydrogen
+ + 25 Carbon                = 75 Oil
+▶ Buffer , Repeat         .= 150u Oil, 90u Ash
+ + 40 oxygen
+ + 20 Hydrogen
+ + 20 sulfur                = 60 sulfuric acid
+▶ Buffer                  .= 60u sulfuric acid, 150u Oil, 90u Ash
+ + 30 Ash
+ + 20 sulfuric acid
+ + 50 Oil                  // Add Oil exactly, or hot Ash might burn it
+▶ Heat , Repeat , Repeat  == 30 Plastic
+// Hot Ash might skip needing to heat the solution
