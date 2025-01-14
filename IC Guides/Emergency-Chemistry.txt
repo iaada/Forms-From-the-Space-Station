@@ -1,0 +1,126 @@
+# Skill Booklet: Emergency Chemistry
+[color=#5b97bc]══════════════
+⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦ [mono]  [/mono]⣼⠋⠳⣄[mono] [/mono]
+⣿⣤⣤⣿[mono]  [/mono]⣿⠈⠙⡇[mono] [/mono]⣿⣤⣤⣿[mono] [/mono]
+⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]  [head=3][color=black]Emergency Chemistry Guide[/color][/head]
+⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]    [color=black]by [color=#880088]Violet Torrent[/color][/color]
+══════════════════════════════════════════[/color]
+
+So you need a chemist. But you're not a chemist, and there's no chemist to be found. Well you're in luck, because this is the guide for you.
+
+[color=#1b67a5][bold][head=2]■ INDEX ■[/head][/bold][/color]
+
+ [italic][bullet/] Ambuzol
+ [bullet/] Dylovene
+ [bullet/] Dermaline
+ [bullet/] Saline
+ [bullet/] Hyronalin
+ [bullet/] Bicaridine
+ [bullet/] Dexalin+[/italic]
+
+[color=#1b67a5]■ ■[/color]
+
+[color=#5b97bc][head=2]Ambuzol[/head]
+══════════════[/color]
+It might feel strange to start here, but someone is going to thank me for this. Let's learn the syntax using Ambuzol.
+
+[mono][bold][color=red]):Ambuzol, ZOMBIE<>10u (od0[/color][/bold]
+ + [color=purple]10[/color] silicon
+ + [color=purple]10[/color] nitrogen
+ + [color=purple]10[/color] potassium    [color=#777777]= 30 Dylovene[/color]
+ + [color=purple]15[/color] Hydrogen
+ + [color=purple]5 [/color] nitrogen     [color=#777777]= 20 ammonia[/color]
+ + [color=purple]40[/color] zombie blood
+[color=#f39f27]▶                == 80u Ambuzol, 10 Dylovene[/color][/mono]
+[color=green][italic]// Without separating the extra Dylo, requires <>15u[/italic][/color]
+
+In [color=red]red[/color] we have the chemical name, followed by its use in bold. <> denotes a threshold needed to activate. {} denotes healing per unit. The overdose threshold is also found here, with a 0 denoting no overdose possible.
+
+Listed in [color=#777777]grey[/color] is a light progress guide to help keep track of where you are in the recipe.
+
+The ▶ denotes an additional action to be taken, often heating or separating chemicals.
+
+[color=#f39f27]Orange[/color] and "[color=#f39f27]u[/color]" marks a finished product.
+
+A chemical that is capitalized is safe for consumption.
+
+[color=#5b97bc][head=2]Dylovene[/head]
+══════════════[/color]
+
+[mono][bold][color=red]):Dylovene, POISON{2} (od20[/color][/bold]
+ + [color=purple]30[/color] silicon
+ + [color=purple]30[/color] nitrogen
+ + [color=purple]30[/color] potassium
+[color=#f39f27]▶                == 90u Dylovene[/color][/mono]
+
+[color=#5b97bc][head=2]Dermaline[/head]
+══════════════[/color]
+Diluted by Kelotane to raise overdose threshold.
+
+[mono][bold][color=red]):Diluted Dermaline, HEAT-SHOCK-COLD{1.4} (od10.1[/color][/bold]
+ + [color=purple]15[/color] silicon
+ + [color=purple]15[/color] Carbon       [color=#777777]= 30 Kelotane[/color]
+ + [color=purple]20[/color] oxygen
+ + [color=purple]20[/color] Phosphorus   [color=#777777]= 60 Dermaline[/color]
+[color=#f39f27]▶              == 60u Dermaline, 10u Kelotane[/color][/mono]
+
+[color=#5b97bc][head=2]Saline[/head]
+══════════════[/color]
+
+[mono][bold][color=red]):Saline, BLOOD-VOLUME{4%}, THIRST (od0[/color][/bold]
+ + [color=purple]20[/color] chlorine
+ + [color=purple]20[/color] Sodium
+[color=blue]▶ [bold]Heat[/bold][/color]            [color=#777777]= 40 table salt[/color]
+[color=green]▶ [bold]Jug[/bold][/color]
+ + [color=purple]160[/color] Water
+[color=green]▶ [bold]Jug[/bold][/color]            [color=#f39f27]== 200u Saline[/color][/mono]
+
+[color=#5b97bc][head=2]Hyronalin[/head]
+══════════════[/color]
+Causes vomiting in patients.
+
+[mono][bold][color=red]):Hyronalin, RAD{2} (od30[/color][/bold]
+ + [color=purple]15[/color] silicon
+ + [color=purple]15[/color] nitrogen
+ + [color=purple]15[/color] potassium    [color=#777777]= 45 Dylovene[/color]
+ + [color=purple]45[/color] radium
+[color=#f39f27]▶                == 90u Hyronalin[/color][/mono]
+
+[color=#5b97bc][head=2]Bicaridine[/head]
+══════════════[/color]
+Diluted by Saline to raise overdose threshold.
+
+[mono][bold][color=red]):Diluted Bicaridine, BRUTE{3.8} (od15.01[/color][/bold]
+ + [color=purple]1 [/color] chlorine
+ + [color=purple]1 [/color] Sodium
+[color=blue]▶ [bold]Heat[/bold][/color]
+ + [color=purple]90[/color] Carbon
+ + [color=purple]8 [/color] Water        [color=#777777]= 10 Saline[/color]
+[color=green]▶ [bold]Jug[/bold][/color]          [color=#f39f27].= 10u Saline, 90 Carbon[/color]
+ + [color=purple]30[/color] oxygen
+ + [color=purple]30[/color] Carbon
+ + [color=purple]30[/color] Sugar        [color=#777777]= 90 Inaprovaline[/color]
+[color=green]▶ [bold]Jug[/bold][/color]          [color=#f39f27]== 180u Bicaridine, 10u Saline[/color][/mono]
+
+[color=#5b97bc][head=2]Dexalin+[/head]
+══════════════[/color]
+Plasma is not always available, but is simple enough to source. Ask any scientist, engineer, or cargonian.
+
+Plasma is used as a catalyst, and will be left in the final product if it isn't removed.
+
+[mono][bold][color=red]):Dexalin+, AIRLOSS{13} (od25[/color][/bold]
+ + xx plasma
+ + [color=purple]20[/color] oxygen       [color=#777777]= 30 Dexalin[/color]
+[color=green]▶ [bold]Siphon[/bold][/color] plasma
+ + [color=purple]30[/color] Carbon
+ + [color=purple]30[/color] iron
+[color=#f39f27]▶                == 90u Dexalin+[/color][/mono]
+
+There's more chemicals out there. You don't need 'em.
+
+[color=#5b97bc]══════════════════════════════════════════[/color]
+[bold]About the Author:[/bold] Violet Torrent is a senior researcher aboard an unnamed Nanotrasen research station, and founding member of the A.D.A. She's a self-proclaimed expert in chemistry, despite having never worked the job.
+
+[italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Any views expressed in this article are the sole opinion of the author, and might not reflect the values of the A.D.A.[/color][/italic]
