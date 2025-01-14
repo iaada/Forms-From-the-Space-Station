@@ -2,8 +2,8 @@
 [color=#ff2fff]══════════════
 ⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦ [mono]  [/mono]⣼⠋⠳⣄[mono] [/mono]
 ⣿⣤⣤⣿[mono]  [/mono]⣿⠈⠙⡇[mono] [/mono]⣿⣤⣤⣿[mono] [/mono]
-⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]
-⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]  [color=black]Guide to Clown Chemistry[/color]
+⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]    [head=3][color=black]Guide to Clown Chemistry[/color][/head]
+⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]    [color=black]by [color=#880088]Violet Torrent[/color][/color]
 ══════════════════════════════════════════[/color]
 
 [bold]Greetings, beloved clown![/bold] You're very smart for purchasing this guide. Good job.
@@ -22,18 +22,18 @@ So you're thinking about chemistry, but all those numbers and machines make no s
 ══════════════[/color]
 You can never have enough soap, and good news for you! All you need for soap is an expedition into the kitchen. Make sure chef doesn't catch you stealing his meat!
 
-[mono][color=green][italic]// Tools: beaker.
+[color=green][italic]// Tools: beaker.
 // Machines: Grinder
 // Reagents: raw meat. 1 salt packet.[/italic][/color]
-[bold][color=blue]): Soap[/color][/bold]
+[mono][bold][color=red]): Soap[/color][/bold]
  + [color=purple]2[/color] raw meat
 [bold][color=red]*OR*[/color][/bold]
  + [color=purple]4[/color] rotten meat
-[color=red]oo[/color] [bold][color=blue]Grind[/color][/bold]          [color=#f39f27].= ~15u Fat[/color]
+▶ [bold][color=blue]Grind[/color][/bold]          [color=#f39f27].= ~15u Fat[/color]
  + [color=purple]1[/color] salt packet
  + [color=purple]10[/color] Water
 [color=green]// [italic]Exact Water, or Saline occurs[/italic][/color]
-[color=red]oo[/color]                [color=#f39f27]== Soap, Cooked Protein[/color][/mono]
+▶                [color=#f39f27]== Soap, Cooked Protein[/color][/mono]
 
 Be honest, you didn't even look at that. But that's okay, because I'm going to repeat it in normal words this time.
 
@@ -42,28 +42,28 @@ Be honest, you didn't even look at that. But that's okay, because I'm going to r
  [bullet/] Mix in a packet of salt.
  [bullet/] Add a splash ([bold]not[/bold] a dash) of water into the beaker. You can also use blood but... gross.
  [bullet/] [bold]Kapow![/bold] Your soap is made. But even better?
- [bullet/] Your now boiling hot chemical mixture has cooked the leftover protein. You're left with a delicous soap soup!
+ [bullet/] Your now boiling hot chemical mixture has cooked the leftover protein. You're left with a "delicous" soap soup!
 
 [color=#ff2fff][head=2]Space Lube[/head]
 ══════════════[/color]
 This one is tough. You'll need cooperation from both the chef [bold]and[/bold] the chemist. Three jugs of stuff from the chemist, and chef's microwave. After that, it's easy cooking.
 
-[mono][color=green][italic]// Tools: large beaker.
+[color=green][italic]// Tools: large beaker.
 // Machines: Microwave or Hotplate
 // Reagents: iron, silicon, Oxygen. OR crate D, crate P.[/italic][/color]
-[bold][color=blue]): Space Lube[/color][/bold]
+[mono][bold][color=red]): Space Lube[/color][/bold]
  + [color=purple]1[/color] iron
  + [color=purple]1[/color] silicon
-[color=red]oo[/color] [bold][color=blue]Heat[/color][/bold]              [color=#777777]= 2 Fersilicite[/color]
+▶ [bold][color=blue]Heat[/color][/bold]              [color=#777777]= 2 Fersilicite[/color]
  + [color=purple]2[/color] Oxygen
  + [color=purple]2[/color] Water
-[color=red]oo[/color]                  [color=#f39f27]== 10u Lube[/color][/mono]
+▶                  [color=#f39f27]== 10u Lube[/color][/mono]
 
 This one is real simple. Put a bunch of stuff in a beaker and heat it up. The labels are on the jugs.
 
  [bullet/] From chemist you'll need: iron, silicon, Oxygen.
  [bullet/] Add equal amounts iron and silicon. Add too much and you'll have problems.
- [bullet/] Heat it up. There's lots of ways to do this.
+ [bullet/] Heat up the beaker. There's lots of ways to do this.
  [bullet/] Figure out how much liquid you have. Remember it.
  [bullet/] Remember how much liquid you have? You need exactly that amount in both Oxygen and Water.
  [bullet/] [bold]Kapow![/bold] Your Lube is ready to go! Be careful of spills.
@@ -80,15 +80,15 @@ We're getting into some hard recipes, with high costs. You'll need machines and 
 
 Now that we're ready for real chemistry, sorry. Volume is over. Honk. The A.D.A. has a strict 6,000 character limit so that's the best I can do. Cough up for volume two. But I'll leave you with a sneak peak.
 
-[mono][color=green][italic]// Tools: vial. large beaker.
+[color=green][italic]// Tools: Vial. beaker. payload.
 // Machines: Grinder, Centrifuge
-// Reagents: 3 bananas. 1 sugar packet, 2 plastic.[/italic][/color]
-[color=blue]): Laughing Gas[/color][/mono]
+// Reagents: 3 Bananas. 1 Sugar packet, 2 plastic.[/italic][/color]
+[mono][bold][color=red]): Laughing Gas[/color][/bold][/mono]
 
 Keep it real, clowns.
 
 [color=#ff2fff]══════════════════════════════════════════[/color]
-[bold]About the Author:[/bold] Violet Torrent is a senior researcher aboard a Nanotrasen space research station, and founding member of the A.D.A. Her dream is to get married.
+[bold]About the Author:[/bold] Violet Torrent is a senior researcher aboard an unnamed Nanotrasen research station, and founding member of the A.D.A. Her dream is to get married.
 
 [italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority) in collaboration with Donk Co.
 
