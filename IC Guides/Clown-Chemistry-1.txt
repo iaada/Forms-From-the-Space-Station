@@ -29,11 +29,11 @@ You can never have enough soap, and good news for you! All you need for soap is 
  + [color=purple]2[/color] raw meat
 [bold][color=red]*OR*[/color][/bold]
  + [color=purple]4[/color] rotten meat
-▶ [bold][color=blue]Grind[/color][/bold]          [color=#f39f27].= ~15u Fat[/color]
+[color=blue]▶ [bold]Grind[/bold][/color]          [color=#f39f27].= ~15u Fat[/color]
  + [color=purple]1[/color] salt packet
  + [color=purple]10[/color] Water
 [color=green]// [italic]Exact Water, or Saline occurs[/italic][/color]
-▶                [color=#f39f27]== Soap, Cooked Protein[/color][/mono]
+[color=#f39f27]▶                == Soap, Cooked Protein[/color][/mono]
 
 Be honest, you didn't even look at that. But that's okay, because I'm going to repeat it in normal words this time.
 
@@ -54,10 +54,10 @@ This one is tough. You'll need cooperation from both the chef [bold]and[/bold] t
 [mono][bold][color=red]): Space Lube[/color][/bold]
  + [color=purple]1[/color] iron
  + [color=purple]1[/color] silicon
-▶ [bold][color=blue]Heat[/color][/bold]              [color=#777777]= 2 Fersilicite[/color]
+[color=blue]▶ [bold]Heat[/bold][/color]              [color=#777777]= 2 Fersilicite[/color]
  + [color=purple]2[/color] Oxygen
  + [color=purple]2[/color] Water
-▶                  [color=#f39f27]== 10u Lube[/color][/mono]
+[color=#f39f27]▶                  == 10u Lube[/color][/mono]
 
 This one is real simple. Put a bunch of stuff in a beaker and heat it up. The labels are on the jugs.
 

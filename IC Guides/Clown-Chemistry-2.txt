@@ -27,13 +27,13 @@ This one is a treat. The perfect additive to any food or drink. All you need is 
 // Reagents: 3 bananas.[/italic][/color]
 [mono][bold][color=red]): Laughter[/color][/bold]
  + [color=purple]2[/color] Banana
-▶ [bold][color=blue]Juice[/color][/bold]
-▶ [bold][color=blue]Centrifuge[/color][/bold]     [color=#777777]= 10 Sugar, 10 Potassium[/color]
+[color=blue]▶ [bold]Juice[/bold][/color]
+[color=blue]▶ [bold]Centrifuge[/bold][/color]     [color=#777777]= 10 Sugar, 10 potassium[/color]
  + [color=purple]1[/color] Banana
-▶ [bold][color=blue]Juice[/color][/bold]
-▶              [color=#f39f27]== 20u Laughter, 10 Potassium[/color][/mono]
+[color=blue]▶ [bold]Juice[/bold][/color]
+[color=#f39f27]▶              == 20u Laughter, 10 potassium[/color][/mono]
 
-Be [bold]extremely[/bold] careful! Potassium might sound like liquid Banana, but it [bold]explodes[/bold] in contact with Water.
+Be [bold]extremely[/bold] careful! While potassium might sound like liquid Banana, but it [bold]explodes[/bold] in contact with Water.
 
  [bullet/] 3 Bananas and some machines are all you need.
  [bullet/] Juice 2 Bananas into a delicous Juice using the grinder. Yes, the grinder also juices.
@@ -51,13 +51,13 @@ Nothing says funny like a thick cloud of smoke covering the room. And all you ne
 // Reagents: 1 Banana, 1 plastic.[/italic][/color]
 [mono][bold][color=red]): Smoke[/color][/bold]
  + [color=purple]1[/color] Banana
-▶ [bold][color=blue]Juice[/color][/bold]
-▶ [bold][color=blue]Centrifuge[/color][/bold]
-▶ [bold][color=green]Separate[/color][/bold]       [color=#f39f27].= 5u Sugar, 5u Potassium[/color]
+[color=blue]▶ [bold]Juice[/bold][/color]
+[color=blue]▶ [bold]Centrifuge[/bold][/color]
+[color=green]▶ [bold]Separate[/bold][/color]       [color=#f39f27].= 5u Sugar, 5u Potassium[/color]
  + [color=purple]1[/color] plastic
-▶ [bold][color=blue]Grind[/color][/bold]
-▶ [bold][color=green]Separate[/color][/bold]       [color=#f39f27].= 5u Phosphorus, 5 Oil[/color]
-▶ [bold][color=#c96dbf]Payload[/color][/bold]        [color=#f39f27]== Smoke[/color][/mono]
+[color=blue]▶ [bold]Grind[/bold][/color]
+[color=green]▶ [bold]Separate[/bold][/color]       [color=#f39f27].= 5u Phosphorus, 5 Oil[/color]
+[color=#c96dbf]▶ [bold]Payload[/bold][/color]        [color=#f39f27]== Smoke[/color][/mono]
 
 Don't get too excited. You're gonna need to quintuple this recipe if you want more smoke.
 
@@ -76,17 +76,17 @@ I know why you're really here. You want the big ticket chemical. Well don't worr
 // Reagents: 3 Bananas. 1 Sugar packet, 2 plastic.[/italic][/color]
 [mono][bold][color=red]): Laughing Gas[/color][/bold]
  + [color=purple]2[/color] Banana
-▶ [bold][color=blue]Juice[/color][/bold]
-▶ [bold][color=blue]Centrifuge[/color][/bold]
+[color=blue]▶ [bold]Juice[/bold][/color]
+[color=blue]▶ [bold]Centrifuge[/bold][/color]
  + [color=purple]1[/color] Banana
-▶ [bold][color=blue]Juice[/color][/bold]
+[color=blue]▶ [bold]Juice[/bold][/color]
  + [color=purple]1[/color] Sugar packet
-▶ [bold][color=green]Separate[/color][/bold]    [color=#f39f27].= 20u Laughter, 10u Potassium,
-                10u Sugar[/color]
+[color=green]▶ [bold]Separate[/bold][/color]    [color=#f39f27].= 20u Laughter, 10u Potassium,
+                 10u Sugar[/color]
  + [color=purple]2[/color] plastic
-▶ [bold][color=blue]Grind[/color][/bold]
-▶ [bold][color=green]Separate[/color][/bold]    [color=#f39f27].= 10u Phosphorus, 10 Oil[/color]
-▶ [bold][color=#c96dbf]Payload[/color][/bold]     [color=#f39f27]== Laughing Gas[/color][/mono]
+[color=blue]▶ [bold]Grind[/bold][/color]
+[color=green]▶ [bold]Separate[/bold][/color]    [color=#f39f27].= 10u Phosphorus, 10 Oil[/color]
+[color=#c96dbf]▶ [bold]Payload[/bold][/color]     [color=#f39f27]== Laughing Gas[/color][/mono]
 
 Ready? Here we go.
 
