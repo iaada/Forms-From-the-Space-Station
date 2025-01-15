@@ -15,8 +15,10 @@ Arithrazine
 ~First Response~
 * Jugs Production
 1400u of Trico
+Ash
 Plastic Sheets (15)
 Plastic Sheets (30)
+
 
 *** Jug ***
 Diluted Bicaridine
@@ -55,7 +57,7 @@ Tricordrazine
  + 20 Phosphorus            = 60 Dermaline
 ▶ Jug , Repeat            == 120u Dermaline, 20u Kelotane
 
-// Minimal Phosphorus, for when you want to mass produce meth.
+// Half the Phosphorus, for when you want to mass produce meth.
 // This recipe is way worse. Don't use it.
 ):~Kelo-Derm~, HEAT-SHOCK-COLD{1.4} (od30
  + 10 silicon
@@ -87,7 +89,6 @@ Tricordrazine
  + 160 Water
 ▶ Jug                     == 200u Saline
 
-
 ):Tricordrazine, BRUTE-BURN{2}, POISON{1} (od0
  + 30 oxygen
  + 30 Carbon
@@ -106,7 +107,8 @@ Arithrazine
 ~First Response~
 Plastic Sheets (15)
 
-):Hyronalin, RAD(2) (od30). Watch for vomiting
+// Causes vommiting
+):Hyronalin, RAD(2) (od30
  + 10 silicon
  + 10 nitrogen
  + 10 potassium              = 30 Dylovene
@@ -135,7 +137,7 @@ Plastic Sheets (15)
  + 5 sulfur                  = 15 sulfuric acid
  + 5 Carbon
  + 20 Sugar                  = 45 Tranexamic Acid <= 15 Inaprovaline
- > Syringe 15u Tranex
+▶ Siphon 15 Tranex
 ▶ Jug                      .= 30u Tranexamic Acid
  + 30 oxygen
  + 30 Carbon
@@ -151,21 +153,34 @@ Plastic Sheets (15)
  > 6 syringes
  > 2 bottles
 
-*** Jug Production ***
 
-// 1400u of Trico, primarily to make empty jugs
+*** Jug Production ***
+1400u of Trico
+Ash
+Plastic Sheets (15)
+Plastic Sheets (30)
+
+// 1400u of Trico, primarily to make empty jugs.
 ):Tricordrazine, BRUTE-BURN[10], POISON[5] (od0
- + 200 oxygen
  + 200 Carbon
+ + 200 oxygen
  + 200 Sugar                = 600 Inaprovaline
 ▶ Mix
 ▶ Buffer                  .= 600u Inaprovaline
- + 200 silicon
  + 200 nitrogen
- + 200 potassium            = 600 Dylovene
+ + 200 potassium
+ + 200 silicon              = 600 Dylovene
 ▶ Buffer                  .= 600u Inaprovaline, 200 silicon, 200 nitrogen, 200 potassium
 ▶ Pill                    == ~20u Tricordrazine
- > 60 pills, 20u, long-teal [1~3]  // Very slightly less than 20 Trico. Also very loud
+ > 60 pills, 20u, long-teal [1~3]  // Very slightly less than 20 Trico. Also very loud.
+
+// You can make Ash by burning Paper instead of burning Oil.
+// Not dangeous at all, but it can be fun to use your fume chamber. 
+):Ash
+ + 1 Paper
+▶ Ignite
+▶ Grind
+▶                          == 10u Ash
 
 ):Plastic Sheets (15)
  + 15 welding fuel
@@ -183,7 +198,7 @@ Plastic Sheets (15)
  + 25 Carbon                 = 75 Oil
 ▶ Jug                      .= 75u Oil, 30u sulfuric acid, 45u Ash
 ▶ Heat                     == 15 Plastic
-// Hot Ash might skip needing to heat the solution
+// Hot Ash might skip needing to heat the solution.
 
 ):Plastic Sheets (30)
  + 30 welding fuel
@@ -204,4 +219,4 @@ Plastic Sheets (15)
  + 20 sulfuric acid
  + 50 Oil                  // Add Oil exactly, or hot Ash might burn it
 ▶ Heat , Repeat , Repeat  == 30 Plastic
-// Hot Ash might skip needing to heat the solution
+// Hot Ash might skip needing to heat the solution.
