@@ -57,7 +57,7 @@ A chemical that is capitalized is safe for consumption.
 ══════════════[/color]
 Diluted by Kelotane to raise overdose threshold.
 
-[mono][bold][color=red]):Diluted Dermaline, HEAT-SHOCK-COLD{1.4} (od10.1[/color][/bold]
+[mono][bold][color=red]):Diluted Dermaline, HEAT-SHOCK-COLD{2.7} (od10.1[/color][/bold]
  + [color=purple]15[/color] silicon
  + [color=purple]15[/color] Carbon       [color=#777777]= 30 Kelotane[/color]
  + [color=purple]20[/color] oxygen
