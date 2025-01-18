@@ -22,7 +22,7 @@ So you need a chemist. But you're not a chemist, and there's no chemist to be fo
 
 [color=#5b97bc][head=2]Ambuzol[/head]
 ══════════════[/color]
-It might feel strange to start here, but someone is going to thank me for this. Let's learn the syntax using Ambuzol.
+A strange one to start with, but someone is going to thank me for it. Let's learn the syntax using Ambuzol.
 
 [mono][bold][color=red]):Ambuzol, ZOMBIE<>10u (od0[/color][/bold]
  + [color=purple]10[/color] silicon
@@ -31,7 +31,7 @@ It might feel strange to start here, but someone is going to thank me for this. 
  + [color=purple]15[/color] Hydrogen
  + [color=purple]5 [/color] nitrogen     [color=#777777]= 20 ammonia[/color]
  + [color=purple]40[/color] zombie blood
-[color=#f39f27]▶                == 80u Ambuzol, 10 Dylovene[/color][/mono]
+[color=red]▶ == 80u Ambuzol, 10 Dylovene[/color][/mono]
 [color=green][italic]// Without separating the extra Dylo, requires <>15u[/italic][/color]
 
 In [color=red]red[/color] we have the chemical name, followed by its use in bold. <> denotes a threshold needed to activate. {} denotes healing per unit. The overdose threshold is also found here, with a 0 denoting no overdose possible.
@@ -40,7 +40,7 @@ Listed in [color=#777777]grey[/color] is a light progress guide to help keep tra
 
 The ▶ denotes an additional action to be taken, often heating or separating chemicals.
 
-[color=#f39f27]Orange[/color] and "[color=#f39f27]u[/color]" marks a finished product.
+[color=#f39f27]Orange[/color], [color=red]red[/color], and "u" marks a finished product.
 
 A chemical that is capitalized is safe for consumption.
 
@@ -51,7 +51,7 @@ A chemical that is capitalized is safe for consumption.
  + [color=purple]30[/color] silicon
  + [color=purple]30[/color] nitrogen
  + [color=purple]30[/color] potassium
-[color=#f39f27]▶                == 90u Dylovene[/color][/mono]
+[color=red]▶ == 90u Dylovene[/color][/mono]
 
 [color=#5b97bc][head=2]Dermaline[/head]
 ══════════════[/color]
@@ -62,7 +62,7 @@ Diluted by Kelotane to raise overdose threshold.
  + [color=purple]15[/color] Carbon       [color=#777777]= 30 Kelotane[/color]
  + [color=purple]20[/color] oxygen
  + [color=purple]20[/color] Phosphorus   [color=#777777]= 60 Dermaline[/color]
-[color=#f39f27]▶              == 60u Dermaline, 10u Kelotane[/color][/mono]
+[color=red]▶ == 60u Dermaline, 10u Kelotane[/color][/mono]
 
 [color=#5b97bc][head=2]Saline[/head]
 ══════════════[/color]
@@ -73,7 +73,7 @@ Diluted by Kelotane to raise overdose threshold.
 [color=blue]▶ [bold]Heat[/bold][/color]            [color=#777777]= 40 table salt[/color]
 [color=green]▶ [bold]Jug[/bold][/color]
  + [color=purple]160[/color] Water
-[color=green]▶ [bold]Jug[/bold][/color]            [color=#f39f27]== 200u Saline[/color][/mono]
+[color=green]▶ [bold]Jug[/bold][/color]            [color=red]== 200u Saline[/color][/mono]
 
 [color=#5b97bc][head=2]Hyronalin[/head]
 ══════════════[/color]
@@ -84,7 +84,7 @@ Causes vomiting in patients.
  + [color=purple]15[/color] nitrogen
  + [color=purple]15[/color] potassium    [color=#777777]= 45 Dylovene[/color]
  + [color=purple]45[/color] radium
-[color=#f39f27]▶                == 90u Hyronalin[/color][/mono]
+[color=red]▶ == 90u Hyronalin[/color][/mono]
 
 [color=#5b97bc][head=2]Bicaridine[/head]
 ══════════════[/color]
@@ -100,13 +100,13 @@ Diluted by Saline to raise overdose threshold.
  + [color=purple]30[/color] oxygen
  + [color=purple]30[/color] Carbon
  + [color=purple]30[/color] Sugar        [color=#777777]= 90 Inaprovaline[/color]
-[color=green]▶ [bold]Jug[/bold][/color]          [color=#f39f27]== 180u Bicaridine, 10u Saline[/color][/mono]
+[color=green]▶ [bold]Jug[/bold][/color]          [color=red]== 180u Bicaridine, 10u Saline[/color][/mono]
 
 [color=#5b97bc][head=2]Dexalin+[/head]
 ══════════════[/color]
 Plasma is not always available, but is simple enough to source. Ask any scientist, engineer, or cargonian.
 
-Plasma is used as a catalyst, and will be left in the final product if it isn't removed.
+Plasma is used as a catalyst, and will be left in the final product if it isn't removed. Any amount triggers the reaction. A ChemMaster is the premier choice for removal.
 
 [mono][bold][color=red]):Dexalin+, AIRLOSS{13} (od25[/color][/bold]
  + xx plasma
@@ -114,9 +114,9 @@ Plasma is used as a catalyst, and will be left in the final product if it isn't 
 [color=green]▶ [bold]Siphon[/bold][/color] plasma
  + [color=purple]30[/color] Carbon
  + [color=purple]30[/color] iron
-[color=#f39f27]▶                == 90u Dexalin+[/color][/mono]
+[color=red]▶ == 90u Dexalin+[/color][/mono]
 
-There's more chemicals out there. You don't need 'em.
+There's countless other chemicals out there for you to cook. You don't need 'em.
 
 [color=#5b97bc]══════════════════════════════════════════[/color]
 [bold]About the Author:[/bold] Violet Torrent is a senior researcher aboard an unnamed Nanotrasen research station, and founding member of the A.D.A. She's a self-proclaimed expert in chemistry, despite having never worked the job.

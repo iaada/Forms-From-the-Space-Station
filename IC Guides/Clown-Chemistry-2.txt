@@ -31,7 +31,7 @@ This one is a treat. The perfect additive to any food or drink. All you need is 
 [color=blue]▶ [bold]Centrifuge[/bold][/color]     [color=#777777]= 10 Sugar, 10 potassium[/color]
  + [color=purple]1[/color] Banana
 [color=blue]▶ [bold]Juice[/bold][/color]
-[color=#f39f27]▶              == 20u Laughter, 10 potassium[/color][/mono]
+[color=red]▶ == 20u Laughter, 10 potassium[/color][/mono]
 
 Be [bold]extremely[/bold] careful! While potassium might sound like liquid Banana, but it [bold]explodes[/bold] in contact with Water.
 
@@ -57,9 +57,9 @@ Nothing says funny like a thick cloud of smoke covering the room. And all you ne
  + [color=purple]1[/color] plastic
 [color=blue]▶ [bold]Grind[/bold][/color]
 [color=green]▶ [bold]Separate[/bold][/color]       [color=#f39f27].= 5u Phosphorus, 5 Oil[/color]
-[color=#c96dbf]▶ [bold]Payload[/bold][/color]        [color=#f39f27]== Smoke[/color][/mono]
+[color=#c96dbf]▶ [bold]Payload[/bold][/color]        [color=red]== Smoke[/color][/mono]
 
-Don't get too excited. You're gonna need to quintuple this recipe if you want more smoke.
+Don't get too excited. You're gonna need to quintuple this recipe if you want to cover an entire room.
 
  [bullet/] Juice a Banana. (Maybe you know where this is going.)
  [bullet/] Centrifuge your Banana Juice. (Did you guess correctly?)
@@ -86,7 +86,7 @@ I know why you're really here. You want the big ticket chemical. Well don't worr
  + [color=purple]2[/color] plastic
 [color=blue]▶ [bold]Grind[/bold][/color]
 [color=green]▶ [bold]Separate[/bold][/color]    [color=#f39f27].= 10u Phosphorus, 10 Oil[/color]
-[color=#c96dbf]▶ [bold]Payload[/bold][/color]     [color=#f39f27]== Laughing Gas[/color][/mono]
+[color=#c96dbf]▶ [bold]Payload[/bold][/color]     [color=red]== Laughing Gas[/color][/mono]
 
 Ready? Here we go.
 
