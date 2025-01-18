@@ -1,6 +1,6 @@
 # Skill Booklet: Clowning with Chemicals!! part 1
 [color=#ff2fff]══════════════
-⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦ [mono]  [/mono]⣼⠋⠳⣄[mono] [/mono]
+⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦⡀[mono] [/mono]⣼⠋⠳⣄[mono] [/mono]
 ⣿⣤⣤⣿[mono]  [/mono]⣿⠈⠙⡇[mono] [/mono]⣿⣤⣤⣿[mono] [/mono]
 ⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]    [head=3][color=black]Guide to Clown Chemistry[/color][/head]
 ⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]    [color=black]by [color=#880088]Violet Torrent[/color][/color]
@@ -20,7 +20,7 @@ So you're thinking about chemistry, but all those numbers and machines make no s
 
 [color=#ff2fff][head=2]Soap[/head]
 ══════════════[/color]
-You can never have enough soap, and good news for you! All you need for soap is an expedition into the kitchen. Make sure chef doesn't catch you stealing his meat!
+You can never have enough soap, and good news for you! All you need for soap is an expedition into the kitchen. Make sure chef doesn't catch you stealing their meat!
 
 [color=green][italic]// Tools: beaker.
 // Machines: Grinder
@@ -82,7 +82,7 @@ Now that we're ready for real chemistry, sorry. Volume is over. Honk. The A.D.A.
 
 [color=green][italic]// Tools: Vial. beaker. payload.
 // Machines: Grinder, Centrifuge
-// Reagents: 3 Bananas. 1 Sugar packet, 2 plastic.[/italic][/color]
+// Reagents: 3 Bananas, 1 Sugar packet, 2 plastic.[/italic][/color]
 [mono][bold][color=red]): Laughing Gas[/color][/bold][/mono]
 
 Keep it real, clowns.

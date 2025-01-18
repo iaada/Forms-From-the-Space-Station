@@ -1,6 +1,6 @@
 # Skill Booklet: Emergency Chemistry
 [color=#5b97bc]══════════════
-⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦ [mono]  [/mono]⣼⠋⠳⣄[mono] [/mono]
+⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦⡀[mono] [/mono]⣼⠋⠳⣄[mono] [/mono]
 ⣿⣤⣤⣿[mono]  [/mono]⣿⠈⠙⡇[mono] [/mono]⣿⣤⣤⣿[mono] [/mono]
 ⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]  [head=3][color=black]Emergency Chemistry Guide[/color][/head]
 ⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]    [color=black]by [color=#880088]Violet Torrent[/color][/color]
@@ -106,7 +106,7 @@ Diluted by Saline to raise overdose threshold.
 ══════════════[/color]
 Plasma is not always available, but is simple enough to source. Ask any scientist, engineer, or cargonian.
 
-Plasma is used as a catalyst, and will be left in the final product if it isn't removed. Any amount triggers the reaction. A ChemMaster is the premier choice for removal.
+Plasma is used as a catalyst, and will be left in the final product if it isn't removed. Any amount triggers the reaction. A ChemMaster 4000 is the premier choice for removal.
 
 [mono][bold][color=red]):Dexalin+, AIRLOSS{13} (od25[/color][/bold]
  + xx plasma

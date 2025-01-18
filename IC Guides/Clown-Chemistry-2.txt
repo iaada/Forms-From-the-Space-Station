@@ -1,6 +1,6 @@
 # Skill Booklet: Clowning with Chemicals!! part 2
 [color=#ff2fff]══════════════
-⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦ [mono]  [/mono]⣼⠋⠳⣄[mono] [/mono]
+⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦⡀[mono] [/mono]⣼⠋⠳⣄[mono] [/mono]
 ⣿⣤⣤⣿[mono]  [/mono]⣿⠈⠙⡇[mono] [/mono]⣿⣤⣤⣿[mono] [/mono]
 ⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]    [head=3][color=black]Guide to Clown Chemistry 2[/color][/head]
 ⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]    [color=black]by [color=#880088]Violet Torrent[/color][/color]
@@ -73,7 +73,7 @@ I know why you're really here. You want the big ticket chemical. Well don't worr
 
 [color=green][italic]// Tools: Vial. beaker. payload.
 // Machines: Grinder, Centrifuge
-// Reagents: 3 Bananas. 1 Sugar packet, 2 plastic.[/italic][/color]
+// Reagents: 3 Bananas, 1 Sugar packet, 2 plastic.[/italic][/color]
 [mono][bold][color=red]): Laughing Gas[/color][/bold]
  + [color=purple]2[/color] Banana
 [color=blue]▶ [bold]Juice[/bold][/color]
