@@ -104,9 +104,9 @@ Diluted by Saline to raise overdose threshold.
 
 [color=#5b97bc][head=2]Dexalin+[/head]
 ══════════════[/color]
-Plasma is not always available, but is simple enough to source. Ask any scientist, engineer, or cargonian.
+Plasma is simple enough to source. Ask any scientist, engineer, or cargonian. Or smash open the chemist's locker.
 
-Plasma is used as a catalyst, and will be left in the final product if it isn't removed. Any amount triggers the reaction. A ChemMaster 4000 is the premier choice for removal.
+Plasma is a catalyst, and will be left in the final product if it isn't removed. Any amount triggers the reaction. A ChemMaster 4000 is the premier choice for removal.
 
 [mono][bold][color=red]):Dexalin+, AIRLOSS{13} (od25[/color][/bold]
  + xx plasma
