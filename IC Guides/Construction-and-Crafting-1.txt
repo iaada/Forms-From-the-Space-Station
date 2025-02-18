@@ -1,0 +1,94 @@
+# Skill Booklet: My First Machine - part 1
+[color=#f39f27]══════════════
+⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦⡀[mono] [/mono]⣼⠋⠳⣄[mono] [/mono]
+⣿⣤⣤⣿[mono]  [/mono]⣿⠈⠙⡇[mono] [/mono]⣿⣤⣤⣿[mono] [/mono]
+⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]  [head=3][color=black]Basic Construction Guide[/color][/head]
+⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]    [color=black]by [color=#880088]Violet Torrent[/color][/color]
+══════════════════════════════════════════[/color]
+
+Computers. Machines. Airlocks. It's nearly impossible to exist these days without them. But less common is the knowledge of how to build and maintain these devices. Not to worry! In this [bold]beginner's guide[/bold], I'll teach you everything you need to start building.
+
+[color=#1b67a5][bold][head=2]■ INDEX ■[/head][/bold][/color]
+
+ [italic]▪ Tools of the Trade
+ ▪ Basic Construction
+ ▪ Computer
+ ▪ Firelock[/italic]
+
+[color=#1b67a5]■ ■[/color]
+
+[color=#f39f27][head=2]Tools of the Trade[/head]
+══════════════[/color]
+The first step is assembling your tools. There's countless tools for countless purposes, but here's the 8 most basic ones we'll be using.
+
+ ▪ [bold]Wrench[/bold]               ▫  Anchoring
+ ▪ [bold]Screwdriver[/bold]       ▫  Screwing
+ ▪ [bold]Crowbar[/bold]             ▫  Prying
+ ▪ [bold]Wirecutter[/bold]         ▫  Snipping
+ ▪ [bold]Welding tool[/bold]     ▫  Welding
+ ▪ [bold]Welding mask[/bold]  ▫  Welding
+ ▪ [bold]Network configurator[/bold]
+ ▪ [bold]LV cable[/bold]
+
+With the exception of a welding mask, all of these are dispensed from a standard YouTool vending machine found in most NT facilities. All of these tools -- including a welding mask -- can also be crafted in an autolathe.
+
+We're not done yet! You'll need a utility belt to hold all this, unless you like carrying piles of miscellaneous metal and plastic. Utility belts can also be crafted in an autolathe with a bit of cloth and steel.
+
+[color=#f39f27][head=2]Basic Construction[/head]
+══════════════[/color]
+Within each of ourselves is a vast repository of knowledge; You just need to learn how to get in the right headspace.
+
+Close your eyes. Picture a hammer. Go deeper and you'll be greeted by an overwhelming sea of ideas. Focus your search to one specific idea, and once you've grasped it, try to imagine a "ghost" of that idea in the space in front of you.
+
+After that, start building! Confusing I know, but trust me when I say that everyone uses this "ghost" strategy.
+
+[color=#f39f27][head=2]Computer[/head]
+══════════════[/color]
+Computers are among the simpler electronics. They're all built the same, with the exception of their computer board.
+
+[color=green][italic]// Materials: 5 steel. 1 computer board. 5 lv cable. 2 glass.[/italic][/color]
+[color=red]────[/color][mono]
+ [color=blue]+ 5[/color] steel
+[color=blue]▼ Anchor[/color]          [color=green]▲ Screw[/color]
+ [color=blue]+[/color] computer board [color=green]▲ Pry[/color]
+[color=blue]▼ Screw[/color]           [color=green]▲ Screw[/color]
+ [color=blue]+ 5[/color] lv cable     [color=green]▲ Snip[/color]
+ [color=blue]+ 2[/color] glass        [color=green]▲ Pry[/color]
+[color=blue]▼ Screw[/color]           [color=green]▲ Pry[/color]
+[/mono][color=red]───────[bold]Computer[/bold]────────[/color]
+
+Above in [color=blue]blue[/color] we have the construction steps for assembling a computer, and in [color=green]green[/color] the de-construction steps.
+
+While you may have pictured these steps in your mind during the last section, stay humble! Everyone has this knowledge hidden in their heads, and you're not an expert yet!
+
+[color=#f39f27][head=2]Firelock[/head]
+══════════════[/color]
+If you live or work in space, you'll understand just how important these are. Not for fires of course, but for spacing. You'll need a "firelock electronics," available in an autolathe.
+
+[color=green][italic]// Materials: 3 steel. 1 firelock electronics. 2 lv cable. 2 glass.[/italic][/color]
+[color=red]────[/color][mono]
+ [color=blue]+ 3[/color] steel
+[color=blue]▼ Anchor[/color]          [color=green]▲ Weld[/color]
+ [color=blue]+ 2[/color] lv cable     [color=green]▲ Snip[/color]
+ [color=blue]+[/color] electronics    [color=green]▲ Pry[/color]
+[color=blue]▼ Screw[/color]           [color=green]▲ Screw[/color]
+[color=green]// Optional step[/color]
+ [color=blue]+ 2[/color] glass        [color=green]▲ Pry[/color]
+[color=blue]▼ Anchor[/color]          [color=green]▲ Anchor[/color]
+[/mono][color=red]───────[bold]Firelock[/bold]─────────[/color]
+
+You'll find that many constructions are nearly identical. Above we can see that a firelock and a glass firelock differ simply in that one has glass (shocking!).
+
+It's therefor trivial to swap between the two. Just anchor, pry, and anchor again to net some free glass. But be careful, some constructions are quite picky about where they can be built or re-built. Engineers posses a tool to circumvent some restrictions (the RCD), and some facilities made use of this workaround during construction.
+
+[color=#f39f27]══════════════[/color]
+Now I hope you don't feel lied to, because this article is over. I know I didn't get to machines, but we had to start at fundamentals. No I did not get sidetracked by firelocks, they're critical infrastructure!
+
+Anyway. Cough up for part 2.
+
+[color=#f39f27]══════════════════════════════════════════[/color]
+[bold]About the Author:[/bold] Violet Torrent is a senior researcher aboard an unnamed Nanotrasen research station, and founding member of the A.D.A. She might have been an engineer in a past life.
+
+[italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Any views expressed in this article are the sole opinion of the author, and might not reflect the values of the A.D.A.[/color][/italic]

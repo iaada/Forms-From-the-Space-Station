@@ -1,0 +1,82 @@
+# Skill Booklet: My First Machine - part 2
+[color=#f39f27]══════════════
+⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦⡀[mono] [/mono]⣼⠋⠳⣄[mono] [/mono]
+⣿⣤⣤⣿[mono]  [/mono]⣿⠈⠙⡇[mono] [/mono]⣿⣤⣤⣿[mono] [/mono]
+⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]  [head=3][color=black]Basic Construction Guide 2[/color][/head]
+⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]    [color=black]by [color=#880088]Violet Torrent[/color][/color]
+══════════════════════════════════════════[/color]
+
+In the last article we explored the basics of construction. We assembled our tools, learned how to think hard, and even built a computer! Now that we have the basics down, let's talk about [bold]finding materials for your project[/bold].
+
+[color=#1b67a5][bold][head=2]■ INDEX ■[/head][/bold][/color]
+
+ [italic]▪ Preamble
+ ▪ Material Sheets
+ ▪ Hand-Crafted Materials
+ ▪ Electronics Parts
+ ▪ Rare Materials[/italic]
+
+[color=#1b67a5]■ ■[/color]
+
+[color=#f39f27][head=2]Preamble[/head]
+══════════════[/color]
+Going forward there will be many constructions that have unique and varied components beyond your basic materials. But I got to thinking what I meant by "basic" materials, so why not start from the beginning?
+
+Across its monumental influence, organization of resources has been standardized within Nanotrasen. Materials come in sheets of uniform shape and size, and Nanotrasen machines are designed with these sheets in mind. The ubiquity of sheets has expanded even beyond NT influence; They are the default unit of measurement anywhere you go. This guide, as you might expect, is no different.
+
+[color=#f39f27][head=2]Material Sheets[/head]
+══════════════[/color]
+This ubiquity is enough that I doubt I need bother explaining what a sheet is. [bold]So how do you get them?[/bold] The best way is to get aquainted with your Logistics department.
+
+Logistics comes in many shapes, but aboard space stations the department predominantly deals in cargo. A core element of their job is the stockpiling of materials for distribution, and they'll rarely deny humble requests. Logistics also posses a semi-public autolathe for general use.
+
+But let's say you need more than a humble amount and Logistics won't play ball. [bold]Vandalism is a good start![/bold] There's plenty of steel in the walls and glass in the firelocks. Disposal bins contain plastic, and libraries have plenty of wood.
+
+Unused furniture can be another source. Forgotten hallways and empty waiting areas, chairs and tables and closets. Of course when it comes to vandalism, you run the risk of making someone very mad.
+
+Lastly, disposal systems see a regular flow of resources. Janitors often like collecting valuable waste for re-use, so befriending one can result in some passive income.
+
+[color=#f39f27][head=2]Hand-Crafted Materials[/head]
+══════════════[/color]
+Certain materials you may need can be crafted by hand.
+
+ ▪ [bold]Cloth[/bold], made from raw cotton.
+ ▪ [bold]Durathread[/bold], made by weaving plastic into cloth.
+ ▪ [bold]Metal rods[/bold], made by splitting steel.
+ ▪ [bold]Reinforced glass[/bold], made from glass and metal rods.
+ ▪ [bold]Treated glass[/bold] -- such as plasma glass or uranium glass -- made exactly how you'd expect.
+
+[color=#f39f27][head=2]Electronics Parts[/head]
+══════════════[/color]
+Now that we have our materials, we need our secondary parts. These vary from construction to construction, but here's a few common examples.
+
+[bold]Electronics[/bold] typically require bespoke internal parts. Common internals -- such as for airlocks and power devices -- can be crafted in an autolate. More complex internals -- such as the ones for machines and computers -- require a circuit imprinter to craft.
+
+To build [bold]machines[/bold] you'll most often need manipulators, matter bins, and capacitors. An autolathe can produce these, but they can be found in a Vendomat as well. Vendomats are commonly available near YouTools in NT facilities.
+
+You may require beakers, MV or HV cable, and power cells. Once again an autolate is your best source.
+
+[color=#f39f27][head=2]Rare Materials[/head]
+══════════════[/color]
+To cap out this article, here's some of the rarer materials you may come across.
+
+ ▪ [bold]Plasma[/bold], purchased at a premium by Logistics.
+ ▪ [bold]Brass sheets[/bold], purchased at a premium by Logistics.
+ ▪ [bold]Plasteel sheets[/bold], purchased at a premium by Logistics.
+ ▪ [bold]Cardboard[/bold], purchased by Logistics or found in disposals.
+ ▪ [bold]Meat sheets[/bold], cut by a sheet-meister 2000 using raw meat.
+ ▪ [bold]Paper sheets[/bold], cut by a sheet-meister 2000 using wood.
+ ▪ [bold]Bananium[/bold], found in asteroids and clown spiders.
+ ▪ [bold]Rare metals[/bold] -- such as gold or uranium -- mined from asteroids and distributed by Logistics.
+
+[color=#f39f27]══════════════[/color]
+A final point on acquisition. It's impossible to list everything you might need, let alone all the ways you might aquire them. But somebody out there can help. [bold]Scientists and logistic workers will be most able to answer questions[/bold], but never underestimate the fringe wisdom of a clown.
+
+Really racked up the word count on this one. Managed to drag this thing out to a third article.
+
+[color=#f39f27]══════════════════════════════════════════[/color]
+[bold]About the Author:[/bold] Violet Torrent is a senior researcher aboard an unnamed Nanotrasen research station, and founding member of the A.D.A. If there was any work to do she'd be a roboticist.
+
+[italic][color=#aaaaaa]Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Any views expressed in this article are the sole opinion of the author, and might not reflect the values of the A.D.A.[/color][/italic]
