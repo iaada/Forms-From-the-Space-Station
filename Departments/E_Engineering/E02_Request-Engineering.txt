@@ -1,9 +1,9 @@
-# E-02 Engineering Requisition Form
-[color=#f39f27]█▄ █ ▀█▀    [head=2]Engineering Requisition Form[/head]
-█ ▀█     █                Problem Solved                                          [italic][color=#aaaaaa]E-02[/color][/italic]
+# E-02 Engineering Requisition
+[color=#f39f27]█▄ █ ▀█▀    [head=2]Engineering Requisition[/head] [italic][color=#aaaaaa]E-02[/color][/italic]
+█ ▀█     █                Problem Solved
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This form is for placing [color=#f39f27]requisition orders[/color] through the [color=#f39f27]Engineering[/color] department. Be detailed and specific.[/bold]
+[bold]This document is for placing [color=#f39f27]requisition orders[/color] through the [color=#f39f27]Engineering[/color] department. Be detailed and specific.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -27,7 +27,6 @@
 [italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
        ■
 [/color]
-
 
 [italic][color=#aaaaaa]E-02 requests are handled in the order they are received.
 

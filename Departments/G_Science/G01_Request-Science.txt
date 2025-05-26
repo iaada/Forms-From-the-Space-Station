@@ -1,9 +1,9 @@
-# G-01 Science Request Form
-[color=#c96dbf]█▄ █ ▀█▀    [head=2]Science Request Form[/head] [italic][color=#aaaaaa]G-01[/color][/italic]
+# G-01 Science Request
+[color=#c96dbf]█▄ █ ▀█▀    [head=2]Science Request[/head] [italic][color=#aaaaaa]G-01[/color][/italic]
 █ ▀█     █               Explaining The Inexplicable
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This form is for placing [color=#c96dbf]physical orders[/color] through the [color=#c96dbf]Science[/color] department. Be detailed and specific.[/bold]
+[bold]This document is for placing [color=#c96dbf]physical orders[/color] through the [color=#c96dbf]Science[/color] department. Be detailed and specific.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -22,7 +22,6 @@
 [italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
        ■
 [/color]
-
 
 [italic][color=#aaaaaa]G-01 requests are handled in the order they are received.
 

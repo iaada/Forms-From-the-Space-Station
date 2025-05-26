@@ -1,9 +1,9 @@
-# B-07 EVA Rental Form
-[color=#1b67a5]█▄ █ ▀█▀    [head=2]EVA Rental Form[/head] [italic][color=#aaaaaa]B-07[/color][/italic]
+# B-07r EVA Rental Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]EVA Rental Request[/head] [italic][color=#aaaaaa]B-07r[/color][/italic]
 █ ▀█     █                Your Voice Matters
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This form is for placing requests to [color=#1b67a5]withdraw[/color] items from [color=#1b67a5]EVA storage[/color] for the specified time through the [color=#1b67a5]Head of Personnel[/color]. Be detailed and specific.[/bold]
+[bold]This document is for [color=#1b67a5]requesting[/color] an [color=#1b67a5]EVA rental license[/color]. Submit alongside a B-07 to the Head of Personnel.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -25,9 +25,12 @@
        ■
 [/color]
 
+[italic][color=#aaaaaa]B-07r requests are handled in the order they are received.
 
-[italic][color=#aaaaaa]B-07 requests are handled in the order they are received.
+This document is for requesting an EVA license. For the license itself, use a B-07 (EVA Rental License).
 
 The Head of Personnel withholds the right to change request policies at any time.
 
-Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]
+Form distributed by the A.D.A. (Administration Divisive Authority).[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

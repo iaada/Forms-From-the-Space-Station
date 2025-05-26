@@ -15,7 +15,7 @@
 
 [bold]Access:[/bold]
 [bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical  [bold][color=#aaaaaa]O[/color][/bold] Chemistry  [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Atmos
-[bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Cargo  [bold][color=#aaaaaa]O[/color][/bold] Salvage  [bold][color=#aaaaaa]O[/color][/bold] Security  [bold][color=#aaaaaa]O[/color][/bold] Armory
+[bold][color=#aaaaaa]O[/color][/bold] Service   [bold][color=#aaaaaa]O[/color][/bold] Cargo     [bold][color=#aaaaaa]O[/color][/bold] Salvage       [bold][color=#aaaaaa]O[/color][/bold] Security       [bold][color=#aaaaaa]O[/color][/bold] Armory
 [bold][color=#aaaaaa]O[/color][/bold] Command  [bold][color=#aaaaaa]O[/color][/bold] Maintence  [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]  ■  [/color]
                                                                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Access expires upon:[/bold]     [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
@@ -39,7 +39,6 @@
 [head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#1b67a5]Alternative Means:[/color][/head]
 [italic]Up to and including removal of walls and airlocks.
 [color=#1b67a5]An approved [color=#f39f27]E-01 (Building Permit)[/color] must be provided.[/color][/italic]
-
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the head of a department (where valid), the Head of Personnel, or the Captain. In the case of multiple departments, seek multiple stamps.
 

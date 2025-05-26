@@ -9,7 +9,7 @@
 
 [color=#c96dbf][head=2] Brain [/head][/color]
 
-An organ responsible for memory and thought. Alternative names: sentient slime core.
+An organ responsible for memory and thought. Alternative names: sentient slime core, cortical stacks.
 
 [color=#c96dbf][head=2] M.M.I. [/head][/color]
 
@@ -29,7 +29,7 @@ The connection of a brain to a Man-Machine Interface in nearly all cases results
 
 [color=#c96dbf][head=2] Dreams [/head][/color]
 
-A "dream" is when an event feels unmistakably real, but in truth is a constructed memory as a result of damage to the hippocampus, cortex, or similar region of the brain.
+A "dream" is when an event feels unmistakably real, but in truth is a constructed memory as a result of damage to the hippocampus, cortex, or equivalent region of the brain.
 
 [color=#c96dbf][head=2] Disposal [/head][/color]
 

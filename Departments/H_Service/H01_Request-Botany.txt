@@ -1,9 +1,9 @@
-# H-01 Hydroponics Request Form
-[color=#2cb902]█▄ █ ▀█▀    [head=2]Hydroponics Request Form[/head] [italic][color=#aaaaaa]H-01[/color][/italic]
+# H-01 Hydroponics Request
+[color=#2cb902]█▄ █ ▀█▀    [head=2]Hydroponics Request[/head] [italic][color=#aaaaaa]H-01[/color][/italic]
 █ ▀█     █                Green is What We're Known For
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
-[bold]This form is for placing [color=#2cb902]physical orders[/color] through the [color=#2cb902]Hydroponics[/color] department. Be detailed and specific.[/bold]
+[bold]This document is for placing [color=#2cb902]physical orders[/color] through the [color=#2cb902]Hydroponics[/color] department. Be detailed and specific.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -40,7 +40,6 @@
 
 [head=3][bold][color=#aaaaaa]O[/color][/bold] [color=#2cb902]GMO Free[/color][/head]
 [italic]No chemicals will be used. This will make the botanist very sad.[/italic]
-
 
 
 [italic][color=#aaaaaa]H-01 requests are handled in the order they are received.

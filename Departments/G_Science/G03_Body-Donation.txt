@@ -1,12 +1,12 @@
-# G-03 Body Donation Form
-[color=#c96dbf]█▄ █ ▀█▀    [head=2]Body Donation Form[/head] [italic][color=#aaaaaa]G-03[/color][/italic]
+# G-03 Body Donation
+[color=#c96dbf]█▄ █ ▀█▀    [head=2]Body Donation[/head] [italic][color=#aaaaaa]G-03[/color][/italic]
 █ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]The subject of this form has either requested - or been ordered - to have their [color=#c96dbf]body donated[/color] to a Nanotrasen.[/bold]
+[bold]The subject of this document has either requested - or been ordered - to have their [color=#c96dbf]body donated[/color] to Nanotrasen.[/bold]
 
-[bold]Patient Name:[/bold]         [color=blue]    ■    [/color]
-                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#c96dbf]   ▪  ▪  ▪[/color]
+
 [bold]Receiving Sub-Department:[/bold]
 [bold][color=#aaaaaa]O[/color][/bold] Robotics  [bold][color=#aaaaaa]O[/color][/bold] Genetics  [bold][color=#aaaaaa]O[/color][/bold] Xenoarcheology  [bold][color=#aaaaaa]O[/color][/bold] Anomalous
 [bold][color=#aaaaaa]O[/color][/bold] Mechanical  [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue] ■ [/color]
@@ -16,6 +16,7 @@
        ■
 [/color]
 
+[color=#c96dbf]   ▪  ▪  ▪[/color]
 
 [color=#c96dbf][head=2][bold]PATIENT STATEMENT[/bold][/head][/color]
 Based upon informed consent, I, the undersigned, hereby direct that [color=#aaaaaa]\[initials][/color] [color=blue]  ■  [/color] be donated to the station.
@@ -24,11 +25,15 @@ Based upon informed consent, I, the undersigned, hereby direct that [color=#aaaa
 
 [bold]Applicable Signature:[/bold]        [color=blue]  ■  [/color]
                                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Patient Name:[/bold]         [color=blue]    ■    [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#c96dbf]   ▪  ▪  ▪[/color]
 
 [color=#c96dbf][head=3][bold]AS RESEARCH DIRECTOR I HEREBY CERTIFY:[/bold][/head][/color]
-[bold]1.[/bold] I have informed the patient/surrogate/guardian of the implications and consequences of this order.
-[bold]2.[/bold] I have witnessed the signing of the document.
-[bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+[bold]1.[/bold] Nanotrasen interests have been prioritized.
+[bold]2.[/bold] I have informed the patient/surrogate/guardian of the implications and consequences of this order.
+[bold]3.[/bold] I have witnessed the signing of the document.
+[bold]4.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the RD.
 

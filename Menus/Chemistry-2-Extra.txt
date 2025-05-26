@@ -1,12 +1,12 @@
 # Non-Pharmaceuticals Menu
-
+[TODOaddVials]
                [color=#5b97bc][head=1]Non-Pharmaceuticals[/head]
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[/color]
 
 [color=#5b97bc][head=2]MedTech[/head]
 ░░░░░░░░░░░░░░░░░░░░[/color]
-Bottle [bold]$10[/bold] [color=#5b97bc]   ▪   [/color]Beaker [bold]$20[/bold] [color=#5b97bc]   ▪   [/color]Large Beaker [bold]$40[/bold] [color=#5b97bc]   ▪    [/color]Jug [bold]$100[/bold]
+Bottle [bold]$10[/bold] [color=#5b97bc]   ▪   [/color]Beaker [bold]$40[/bold] [color=#5b97bc]   ▪   [/color]Large Beaker [bold]$80[/bold] [color=#5b97bc]   ▪    [/color]Jug [bold]$100[/bold]
   [color=#5b97bc]═════════════════════════════════════════[/color]
  Sterile Swab [bold]$7[/bold] [color=#5b97bc]  ▪    ▪    ▪    [/color]Syringe [bold]$30[/bold] [color=#5b97bc]   ▪    ▪    ▪   [/color]Dropper [bold]$65[/bold]
   [color=#5b97bc]═════════════════════════════════════════[/color]
@@ -18,7 +18,7 @@ Hand Labeler [bold]$25[/bold][color=#5b97bc]  ▪  [/color]Defibrillator [bold]$
   [italic][color=#444444]Comes in eight unique colors![/color][/italic]
 
 [head=3]Complete Surgical Kit[/head]   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][bold]$400[/bold]
-  [italic][color=#444444]Contains: 1x Cautery, 1x Drill, 1x Hemostat, 1x Nitrile Gloves,
+  [italic][color=#444444]Contains: 1x Cautery, 1x Drill, 2x Hemostat, 1x Nitrile Gloves,
                  1x Retractor, 1x Saw, 1x Scalpel, 1x Sterile Mask[/color][/italic]
 
 

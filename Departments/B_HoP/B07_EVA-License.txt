@@ -1,0 +1,36 @@
+# B-07 EVA Rental License
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]EVA Rental License[/head] [italic][color=#aaaaaa]B-07[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+══════════════════════════════════════════[/color]
+
+[bold]This [color=#1b67a5]license[/color] bestows the holder with [color=#1b67a5]EVA permissions[/color] for the item(s) listed below. [color=#1b67a5]This license must be approved and stamped.[/color][/bold]
+
+[bold]Licensee:[/bold]         [color=blue]   ■   [/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]License expires upon:[/bold]     [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
+                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Rental Items:[/bold]
+[italic][color=#aaaaaa]Provide a detailed and exhaustive list.[/color][/italic][color=blue]
+ [bullet/] ■
+ [bullet/] ■
+[/color]
+[color=#1b67a5]══════════════════════════════════════════[/color]
+
+[color=#1b67a5][head=3][bold]AS HEAD OF PERSONNEL I HEREBY CERTIFY:[/bold][/head][/color]
+[bold]1.[/bold] Nanotrasen interests have been prioritized.
+[bold]2.[/bold] I have been duly informed, and am aware of all matters pertaining to this license.
+[bold]3.[/bold] I vouch that safety and security will not be compromised as a result of this license.
+[bold]4.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+
+
+[italic][color=#aaaaaa]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the Warden, the Head of Security, or the Captain.
+
+To request an EVA rental license, submit a B-07r (EVA Rental Request) to the Head of Personnel.
+
+The Head of Personnel withholds the right to revoke this license at any time.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Those who abuse granted permission may be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

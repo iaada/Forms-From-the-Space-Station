@@ -1,18 +1,20 @@
-# F-05 Coffee Break Form
-[color=#5b97bc]█▄ █ ▀█▀    [head=2]Coffee Break Form[/head] [italic][color=#aaaaaa]F-05[/color][/italic]
+# F-05 Coffee Break Request
+[color=#5b97bc]█▄ █ ▀█▀    [head=2]Coffee Break Request[/head] [italic][color=#aaaaaa]F-05[/color][/italic]
 █ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]The subject of this form requests a [color=#5b97bc]coffee break[/color]. [color=#5b97bc]This form must be approved and stamped.[/color][/bold]
+[bold]The subject of this document requests a [color=#5b97bc]coffee break[/color]. [color=#5b97bc]This form must be approved and stamped.[/color][/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#5b97bc]   ▪  ▪  ▪[/color]
 
 [color=#5b97bc][head=3][bold]AS CHIEF MEDICAL OFFICER I HEREBY CERTIFY:[/bold][/head][/color]
-[bold]1.[/bold] I have informed the other party of the implications and consequences of this coffee break.
-[bold]2.[/bold] I vouch that health and safety will not be compromised as a result of this coffee break.
-[bold]3.[/bold] I have witnessed the signing of the document.
-[bold]4.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+[bold]1.[/bold] Nanotrasen interests have been prioritized.
+[bold]2.[/bold] I have informed the other party of the implications and consequences of this coffee break.
+[bold]3.[/bold] I vouch that health and safety will not be compromised as a result of this coffee break.
+[bold]4.[/bold] I have witnessed the signing of the document.
+[bold]5.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
 [italic][color=#aaaaaa]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the Chief Medical Officer.
 

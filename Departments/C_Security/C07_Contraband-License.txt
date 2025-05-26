@@ -3,7 +3,7 @@
 █ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
 ══════════════════════════════════════════[/color]
 
-[bold]This [color=#cb0000]license[/color] bestows the holder with [color=#cb0000]immunity[/color] to [color=#cb0000]crimes of possession[/color] for the item(s) listed below.[/bold]
+[bold]This [color=#cb0000]license[/color] bestows the holder with [color=#cb0000]immunity[/color] to [color=#cb0000]crimes of possession[/color] for the item(s) listed below. [color=#cb0000]This license must be approved and stamped.[/color][/bold]
 
 [bold]Licensee:[/bold]         [color=blue]   ■   [/color]
                      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -15,6 +15,14 @@
 [/color]
 
 [color=#cb0000]══════════════════════════════════════════[/color]
+
+[bold]License Issuer:[/bold]         [color=blue]    ■    [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#cb0000][head=3][bold]AS SECURITY COMMAND I HEREBY CERTIFY:[/bold][/head][/color]
+[bold]1.[/bold] Nanotrasen interests have been prioritized.
+[bold]2.[/bold] I have been duly informed, and am aware of all matters pertaining to this license.
+[bold]3.[/bold] I vouch that safety and security will not be compromised by as a result of this license.
+[bold]4.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the Warden, the Head of Security, or the Captain.
 

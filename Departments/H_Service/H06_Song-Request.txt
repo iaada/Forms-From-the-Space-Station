@@ -20,7 +20,6 @@
 	   ■
 [/color]
 
-
 [italic][color=#aaaaaa]H-06 requests are handled in the order they are received.
 
 Service withholds the right to change request policies at any time.

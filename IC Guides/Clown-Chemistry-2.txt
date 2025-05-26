@@ -12,9 +12,9 @@ Welcome back to chemistry. If you skipped the first guide, you fucked up. You're
 
 [color=#1b67a5][bold][head=2]■ INDEX ■[/head][/bold][/color]
 
- [italic][bullet/] Liquid Laughter
- [bullet/] Smoke
- [bullet/] Laughing Gas[/italic]
+ [italic]▪ Liquid Laughter
+ ▪ Smoke
+ ▪ Laughing Gas[/italic]
 
 [color=#1b67a5]■ ■[/color]
 
@@ -35,12 +35,12 @@ This one is a treat. The perfect additive to any food or drink. All you need is 
 
 Be [bold]extremely[/bold] careful! While potassium might sound like liquid Banana, but it [bold]explodes[/bold] in contact with Water.
 
- [bullet/] 3 Bananas and some machines are all you need.
- [bullet/] Juice 2 Bananas into a delicous Juice using the grinder. Yes, the grinder also juices.
- [bullet/] Put your Banana Juice into a vial, and then the centrifuge.
- [bullet/] Turn on the centrifuge.
- [bullet/] Put the vial in the grinder/juicer and juice another Banana.
- [bullet/] [bold]Kapow![/bold] Delicous (and dangerous) Liquid Laughter.
+ ▪ 3 Bananas and some machines are all you need.
+ ▪ Juice 2 Bananas into a delicous Juice using the grinder. Yes, the grinder also juices.
+ ▪ Put your Banana Juice into a vial, and then the centrifuge.
+ ▪ Turn on the centrifuge.
+ ▪ Put the vial in the grinder/juicer and juice another Banana.
+ ▪ [bold]Kapow![/bold] Delicous (and dangerous) Liquid Laughter.
 
 [color=#ff2fff][head=2]Smoke[/head]
 ══════════════[/color]
@@ -53,7 +53,7 @@ Nothing says funny like a thick cloud of smoke covering the room. And all you ne
  + [color=purple]1[/color] Banana
 [color=blue]▶ [bold]Juice[/bold][/color]
 [color=blue]▶ [bold]Centrifuge[/bold][/color]
-[color=green]▶ [bold]Separate[/bold][/color]       [color=#f39f27].= 5u Sugar, 5u Potassium[/color]
+[color=green]▶ [bold]Separate[/bold][/color]       [color=#f39f27].= 5u Sugar, 5u potassium[/color]
  + [color=purple]1[/color] plastic
 [color=blue]▶ [bold]Grind[/bold][/color]
 [color=green]▶ [bold]Separate[/bold][/color]       [color=#f39f27].= 5u Phosphorus, 5 Oil[/color]
@@ -61,11 +61,11 @@ Nothing says funny like a thick cloud of smoke covering the room. And all you ne
 
 Don't get too excited. You're gonna need to quintuple this recipe if you want to cover an entire room.
 
- [bullet/] Juice a Banana. (Maybe you know where this is going.)
- [bullet/] Centrifuge your Banana Juice. (Did you guess correctly?)
- [bullet/] This is [bold]very[/bold] important. You're going to need a whole [bold]second[/bold] container.
- [bullet/] Put your second container into the juicer, and grind up a sheet of plastic.
- [bullet/] [bold]Kapow![/bold] Mix your vial into the plastic liquid and smoke billows out! It'll taste a bit like Oil but don't worry about that.
+ ▪ Juice a Banana. (Maybe you know where this is going.)
+ ▪ Centrifuge your Banana Juice. (Did you guess correctly?)
+ ▪ This is [bold]very[/bold] important. You're going to need a whole [bold]second[/bold] container.
+ ▪ Put your second container into the juicer, and grind up a sheet of plastic.
+ ▪ [bold]Kapow![/bold] Mix your vial into the plastic liquid and smoke billows out! It'll taste a bit like Oil but don't worry about that.
 
 [color=#ff2fff][head=2]Laughing Gas[/head]
 ══════════════[/color]
@@ -81,7 +81,7 @@ I know why you're really here. You want the big ticket chemical. Well don't worr
  + [color=purple]1[/color] Banana
 [color=blue]▶ [bold]Juice[/bold][/color]
  + [color=purple]1[/color] Sugar packet
-[color=green]▶ [bold]Separate[/bold][/color]    [color=#f39f27].= 20u Laughter, 10u Potassium,
+[color=green]▶ [bold]Separate[/bold][/color]    [color=#f39f27].= 20u Laughter, 10u potassium,
                  10u Sugar[/color]
  + [color=purple]2[/color] plastic
 [color=blue]▶ [bold]Grind[/bold][/color]
@@ -90,15 +90,16 @@ I know why you're really here. You want the big ticket chemical. Well don't worr
 
 Ready? Here we go.
 
- [bullet/] Juice and centrifuge 2 Bananas.
- [bullet/] Juice another Banana.
- [bullet/] Move your liquid to a larger container.
- [bullet/] Add a packet of Sugar.
- [bullet/] In a new (empty!) container, grind up 2 sheets of plastic.
- [bullet/] [bold]Kapow![/bold] Mix your liquids and you've got the whole room laughing, whether they want to or not. Honk.
+ ▪ Juice and centrifuge 2 Bananas.
+ ▪ Juice another Banana.
+ ▪ Move your liquid to a larger container.
+ ▪ Add a packet of Sugar.
+ ▪ In a new (empty!) container, grind up 2 sheets of plastic.
+ ▪ [bold]Kapow![/bold] Mix your liquids and you've got the whole room laughing, whether they want to or not. Honk.
 
 You might be disapointed in the amount of smoke. Lucky for you, I already showed how to make more of it! It might require some thinking, but you're very smart. You can do it.
 
+[color=#ff2fff]══════════════[/color]
 Will there be a volume 3? Hell if I know. Donk Co. are the ones paying for this. Go bother them if you want volume 3.
 
 [color=#ff2fff]══════════════════════════════════════════[/color]

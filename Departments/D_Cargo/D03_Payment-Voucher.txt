@@ -7,7 +7,7 @@
 
 [bold]Voucher Recipient:[/bold]         [color=blue]    ■    [/color]
                                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Value in Spesos:[/bold]         [color=blue]   ■   [/color]
+[bold]Value in [color=#b18644]Spesos[/color]:[/bold]         [color=blue]   ■   [/color]
                                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#b18644]▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲[/color]
 

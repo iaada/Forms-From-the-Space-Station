@@ -1,20 +1,17 @@
-# C-06r Request for Pre-Exoneration
-[color=#cb0000]█▄ █ ▀█▀    [head=3]Request for Pre-Exoneration[/head] [italic][color=#aaaaaa]C-06r[/color][/italic]
+# C-03 Witness Statement
+[color=#cb0000]█▄ █ ▀█▀    [head=2]Witness statement[/head] [italic][color=#aaaaaa]C-03[/color][/italic]
 █ ▀█     █            We're Here to Protect You. We Promise
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
-   
-[bold]This document is for [color=#cb0000]requesting[/color] a [color=#cb0000]license for pre-exoneration[/color]. Submit this document alongside a C-06 to the Head of Security.[/bold]
 
-[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
+[bold]This document represents an [color=#cb0000]official witness statement[/color] to [color=#cb0000]space crime[/color] by a concerned crewmember.[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]   ■   [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Your Department:[/bold]         [color=blue]   ■   [/color]
-                                       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Your Position:[/bold]         [color=blue]   ■   [/color]
                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#cb0000]   ▪  ▪  ▪[/color]
+[bold]Rate your familiarity with [color=#cb0000]Space Law[/color] and [color=#cb0000]Sector Bylaws[/color]:[/bold]
+            \[1]     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     \[10]
 
-[bold]Requested Duration of License:[/bold]         [color=blue]   ■   [/color]
-                                                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#cb0000]   ▪  ▪  ▪[/color]
 
 [bold]Space crime(s):[/bold]
@@ -37,11 +34,15 @@
        ■
 [/color]
 
-[color=#aaaaaa][italic]C-06r requests are handled in the order they are received.
+[color=#cb0000]   ▪  ▪  ▪[/color]
 
-This document is for requesting a license for pre-exoneration. For the license itself, use a C-06 (License for Pre-Exoneration).
+[color=#cb0000][head=3][bold]AS WARDEN I HEREBY CERTIFY:[/bold][/head][/color]
+[bold]1.[/bold] I have been duly informed, and am aware of all matters pertaining to this witness statement.
+[bold]2.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
-HoS withholds the right to change request policies at any time.
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the Warden.
+
+C-03 statements are handled in the order they are received.
 
 Form distributed by the A.D.A. (Administration Divisive Authority).[/italic]
 

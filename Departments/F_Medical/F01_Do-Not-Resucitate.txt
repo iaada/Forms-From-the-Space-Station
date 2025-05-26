@@ -5,22 +5,24 @@
 
 [bold]The subject of this [color=#5b97bc]DNR (Do Not Resuscitate)[/color] has either requested - or been ordered - not to be resuscitated, cloned, or anything that would bring them back to life.[/bold]
 
-[bold]Patient Name:[/bold]         [color=blue]    ■    [/color]
-                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-
+[color=#5b97bc]   ▪  ▪  ▪[/color]
 
 [color=#5b97bc][head=2][bold]PATIENT STATEMENT[/bold][/head][/color]
 Based upon informed consent, I, the undersigned, hereby direct that resuscitation be withheld or withdrawn.
 [italic][color=#aaaaaa](If not signed by patient, check applicable box)[/color][/italic]
 [bold][color=#aaaaaa]O[/color][/bold] Surrogate    [bold][color=#aaaaaa]O[/color][/bold] Court-Appointed Guardian
 
+[bold]Patient Name:[/bold]         [color=blue]    ■    [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Applicable Signature:[/bold]      [color=blue]   ■   [/color]
                                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#5b97bc]   ▪  ▪  ▪[/color]
 
 [color=#5b97bc][head=3][bold]AS CHIEF MEDICAL OFFICER I HEREBY CERTIFY:[/bold][/head][/color]
-[bold]1.[/bold] I have informed the patient/surrogate/guardian of the implications and consequences of this order.
-[bold]2.[/bold] I have witnessed the signing of the document.
-[bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+[bold]1.[/bold] Nanotrasen interests have been prioritized.
+[bold]2.[/bold] I have informed the patient/surrogate/guardian of the implications and consequences of this order.
+[bold]3.[/bold] I have witnessed the signing of the document.
+[bold]4.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by an evaluating Psychologist or by the Chief Medical Officer.
 

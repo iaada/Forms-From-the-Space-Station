@@ -1,9 +1,9 @@
-# B-08 Encryption Request Form
-[color=#1b67a5]█▄ █ ▀█▀    [head=2]Encryption Request Form[/head] [italic][color=#aaaaaa]B-08[/color][/italic]
-█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+# B-08r Encryption Request Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Encryption License Request[/head] [italic][color=#aaaaaa]B-08r[/color][/italic]
+█ ▀█     █                Your Voice Matters
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This form represents a [color=#1b67a5]license[/color] to possess an [color=#1b67a5]encryption key[/color] outside of standard encryption procedure.[/bold]
+[bold]This document is for [color=#1b67a5]requesting[/color] an [color=#1b67a5]encryption key license[/color] outside of standard encryption procedure. Submit alongside a B-08 to the relevant command head.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -23,17 +23,12 @@
        ■
 [/color]
 
+[color=#aaaaaa][italic]B-08r requests are handled in the order they are received.
 
-[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the head of a department (where valid), the Head of Personnel, or the Captain.
+This document is for requesting an encryption key license. For the license itself, use a B-08 (Encryption Key License).
 
-This form is for an individual requesting encryption. In order to issue an encryption, use a B-09 Encryption Release Form.
+Command withholds the right to change request policies at any time.
 
-B-08 requests are handled in the order they are received.
-
-Issuers of encryption withhold the right to change request policies at any time.
-
-Form distributed by the A.D.A. (Administration Divisive Authority).
-
-Those who abuse granted permission may be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/italic]
+Form distributed by the A.D.A. (Administration Divisive Authority).[/italic]
 
                                   [bold]═══╣ Stamp Below ╠═══[/bold][/color]

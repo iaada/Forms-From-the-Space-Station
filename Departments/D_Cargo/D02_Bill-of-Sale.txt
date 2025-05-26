@@ -3,10 +3,10 @@
 █ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
-[bold]This form represents an exchange of items for currency (referred to as a [color=#b18644]"sale"[/color]). This [color=#b18644]sale[/color] entitles the seller to the stated amount in Spesos. If Spesos can not be provided, an item or items of equivalent value may be substituted.[/bold]
+[bold]This document represents an [color=#b18644]exchange of items for currency[/color] (hereafter referred to as a [color=#b18644]"sale"[/color]) between a [color=#b18644]seller[/color] and [color=#b18644]cargo[/color]. This [color=#b18644]sale[/color] entitles the [color=#b18644]seller[/color] to the stated amount in [color=#b18644]Spesos[/color]. If [color=#b18644]Spesos[/color] can not be provided, an item or items of equivalent value may be substituted.[/bold]
 
-[bold]Your Name:[/bold]         [color=blue]    ■    [/color]
-                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Seller Name:[/bold]         [color=blue]    ■    [/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#b18644]   ▪  ▪  ▪[/color]
 
 [bold]Description of Item(s):[/bold]
@@ -14,7 +14,7 @@
  [bullet/] ■
  [bullet/] ■
 [/color]
-[bold]Value of [color=#b18644]Sale[/color] in Spesos:[/bold]         [color=blue]   ■   [/color]
+[bold]Value of [color=#b18644]Sale[/color] in [color=#b18644]Spesos[/color]:[/bold]         [color=blue]   ■   [/color]
                                                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] approved.

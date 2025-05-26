@@ -1,0 +1,405 @@
+// Nukie Chems
+
+*** Table of Contents ***
+
+ - Prep
+ - Purchases
+ - Orginization
+ - Pills
+ - Healing
+ - Lethal
+ - Non-Lethal
+ - Stealth
+
+*** Prep ***
+
+// Deathrattle implants
+// Grab free guns (keep C-20)
+// Grab 5 plasteel and 2 power cells from engineering
+// Grab Water and backpack tank from bathroom
+// Buy vestine
+// Start Hyperzine (ephedrine, vestine, oxygen)
+// Grab orange juice and coffee and shakers
+// Collect auto-injectors (rad, poison, emc)
+// Collect pills (Dexalin, Hyronalin, Kelotane, Dermaline)
+// Collect syringes (5 + 1 Inaprovaline)
+// Enable shoes
+
+*** Purchases ***
+
+// Standard
+deathrattle   = 4tc
+vestine x1    = 4tc
+energy shield = 8tc
+jaws Of life  = 2tc
+SMG mag x2    = 4tc
+              = 22 total, 18 remain
+
+// Hypostrat
+vestine x1  = 4tc
+hypodart x2 = 4tc
+
+// Flank 
+chameleon projector = 7tc
+singularitty grenade = 2tc
+
+// Nonsense
+
+*** Orginization ***
+
+): belt
+ + adv med kit
+ > > 2 Suture
+ > > 2 Mesh
+
+ + 200u ~Pyra-Derm~
+ + 200u ~Bullet Fill~
+
+ + 25u vial Hyperzine
+ + 30u bottle Epinephrine
+
+ + Hypospray
+
+): back
+ + adv med kit
+ > > combat hypo
+ > > EMC hypo
+ > > 3 brute hypo
+ > > 3 butn hypo
+
+ + med kit
+ > > orange juice
+ > > 15u Saline small beaker
+ > > poison hypo
+ > > rad hypo
+ > > pill bottle
+     10 10u Saline
+ > > pill bottle
+     6 10u arithrazine
+     4 10u Dexalin
+
+ + 2 SMG mag
+ + jaws of life
+ + circular saw
+ + pinpointer
+ + 2 EMP grenade
+ + 2 chemical grenade
+ + coffee jug
+
+): pockets
+ + energy shield
+ + air tank
+
+): suit storage
+ + C-20r submachine gun
+
+// Given to commander
+): adv med kit
+ + 1 Suture
+ + 1 Mesh
+ + 2 15u Saline syringes
+ + 30u bottle Epinephrine
+ + 1 15u Inaprovaline
+
+// Make any pills you want first to avoid buffer nonsense
+*** Pills ***
+Saline
+arithrazine
+
+):Saline, BLOOD
+ + 10 chlorine
+ + 10 Sodium
+▶ Heat              = 20 salt
+ + 80 Water          = 100 Saline
+▶ Buffer           .= 100u Saline
+▶ Pill             == 10u Saline
+ > 10 pills, 10u, round-blue [1~8]
+
+):arithrazine, RAD[60]
+ + 3 Hyronalin pills
+▶ Grind             = 30 Hyronalin
+ + 30 Hydrogen       = 60 arithrazine
+▶ Buffer           .= 60u arithrazine
+▶ Pill             == 10u arithrazine
+ > 6 pills, 10u, long-orange [1~5]
+// Add 4 dex pills to the canister
+
+*** Healing ***
+Hyperzine
+~Pyra-Derm~
+~Bullet Fill~
+
+):Hyperzine, 60u
+[Requires vestine]
+ + 30 Ephedrine
+ + 30 vestine
+ + 30 oxygen
+▶ Heat              = 30 Hyperzine
+ + 30 oxygen
+▶ Heat (Auto)       = 30 Hyperzine
+▶ Buffer Hyperzine == 60u Hyperzine
+ > 4 syringes
+
+):Hyperzine, 120u
+[Requires 60u vestine]
+ + 30 Ephedrine
+ + 30 vestine
+ + 30 oxygen
+▶ Heat              = 30 Hyperzine
+ + 30 oxygen
+▶ Heat (Auto)       = 30 Hyperzine
+ + 30 Ephedrine
+▶ Buffer Hyperzine .= 60u Hyperzine
+ + 30 vestine
+ + 30 oxygen
+▶ Heat (Auto)       = 30 Hyperzine
+ + 30 oxygen
+▶ Heat (Auto)       = 30 Hyperzine
+▶ Buffer Hyperzine == 120u Hyperzine
+ > 5 syringes
+ > 1 vial
+
+// Burn option
+):~Pyra-Derm~, HEAT[10+16] (od15.01
+.. Begin heating 10 copper ..
+ + 4 Kelotane pills
+▶ Grind             = 40 Kelotane
+▶ Jug              .= 40u Kelotane
+ + 35 oxygen
+ + 35 Phosphorus
+▶ Jug              .= 105u Dermaline, 5u Kelotane
+ + 4 Dermaline pills
+▶ Grind             = 40 Dermaline
+ + 5 iron
+ + 5 silicon
+▶ Heat              = 10 Fersilicite
+ + 20 Carbon
+ + 10 copper (hot)
+ + xx plasma         = 20 Leporazine
+▶ Siphon plasma
+▶ Heat              = 60 Pyrazine
+ + 20 Omnizine
+▶ Jug              == 115u Dermaline, 60u Pyrazine, 20u Omnizine, 5u Kelotane
+
+// General option
+):~Bullet Fill~, PIERCE[21], BLEED (od20.01
+.. Begin heating 25 Carbon ..
+ + 20 oxygen
+ + 20 Carbon
+ + 20 Sugar          = 60 Inaprovaline
+ + 10 silicon
+ + 10 nitrogen
+ + 10 potassium      = 60 Tricordrazine
+▶ Jug              .= 60u Tricordrazine, 30u Inaprovaline
+ + 25 oxygen
+ + 25 Hydrogen
+▶ Heat              = 50 Hydroxide
+ + 10 oxygen
+ + 10 Carbon
+ + 10 Sugar          = 30 Inaprovaline
+▶ Siphon 5 Inaprovaline
+ + 25 Carbon (hot)   = 50 Bicaridine
+▶ Heat              = 100 Puncturase
+▶ Jug              .= 100u Puncturase, 60u Tricordrazine, 30u Inaprovaline
+ + 10 Omnizine
+▶ Jug              == 100u Puncturase, 60u Tricordrazine, 30u Inaprovaline, 10u Omnizine
+
+*** Lethal ***
+big ass grenade
+flamethrower
+hybrid lexorin dart
+tazinide
+impedrezene
+~warcrimes~
+razorium
+~warcrimes 2~
+
+// Chemical Payload. 1 large beaker, 1 small beaker
+):big ass grenade
+ + 35 chlorine
+▶ Heat (super heat)
+▶ Separate         .= 35u chlorine
+ + 100 fluorine
+▶ Payload          .= 100u fluorine
+
+// 129 shots
+// Atmos req
+):flamethrower
+ + 10 oxygen
+ + 5 Hydrogen
+ + 5 sulfur          = 15 sulfuric acid
+ + 15 Phosphorus
+▶ Grind (Slot)
+ + 2 plasteel
+▶ Grind             = 45 phlogiston, 5 plasma, 2 Carbon, 18 iron <= 20 plasma
+▶ Siphon impurities
+▶ Tank             .= 45u phlogiston
+ + 30 plastic
+▶ Grind             = 150 Oil, 150 Phosphorus
+▶ Siphon Phosphorus
+// Directly into tank
+ + 150 Oil
+ + 200 welding fuel
+ + 10 Hydrogen
+ + 10 Carbon         = 30 Oil
+ + 180 ethanol       = 590 napalm
+▶ Tank             == 590u napalm, 45u phlogiston, 10u welding fuel
+
+):hybrid lexorin dart' BLOODLOSS[117]. 8s
+[Requires 15u vestine , hypodart]
+.. Begin heating 15 vestine ..
+ + 2 plasteel
+ + 1 Dexalin pill
+ + 1 Dylovene pill
+▶ Grind             = 20 plasma, 16 iron, 10 Dylovene, 8 Dexalin, 6 Dexalin+
+ + 3 Carbon          = 9 Dexalin+
+ + 5 silicon
+ + 5 Hydrogen
+▶ Siphon iron, Dexalin, 5 Dylovene, 5 plasma
+ + 15 vestine (hot)
+▶ Heat              = 30 lexorin <= 30 heartbreaker toxin <= 15 mindbreaker toxin
+▶                  == 30u lexorin, 15u heartbreaker toxin
+ > 2 hypodart
+ > vial
+
+):tazinide' STUN
+[Requires 10u vestine , EMAG]
+ + 2 power cells
+▶ Juice
+ + 10 lead           = 10 licoxide
+ + 10 vestine        = 10 tazinide
+▶                  == 10u tazinide
+
+):impedrezene' SLOW, POISON(4)
+ + 10 mercury
+ + 10 oxygen
+ + 10 Water
+▶ Heat             == 30u impedrezene
+
+// Chemical Payload. 2 large beakers
+// Atmos req
+):~warcrimes~
+[Requires EMAG]
+ + 10 oxygen
+ + 5 Hydrogen
+ + 5 sulfur          = 15 sulfuric acid
+ + 30 Carbon
+ + 30 fluorine       = 75 Fluorosurfactant
+▶ Siphon 5 Fluorosurfactant
+ + 20 toxin
+ + 10 tazinide
+▶ Separate         .= 70u Fluorosurfactant, 20u toxin, 10u tazinide
+ + 70 Water          = foam cloud
+ + 20 lead
+ + 10 impedrezene
+▶ Payload          .= 70u Water, 20u lead, 10u impedrezene
+
+):razorium' SLASH(3)
++ 20 Hydrogen
++ 20 Carbon
+▶ Heat              = 20 benzene
++ 10 oxygen
++ 10 Sugar
++ 10 Carbon          = 30 Inaprovaline
++ 30 Carbon          = 40 razorium <= 60 Bicaridine
+▶                  == 40u razorium
+
+// Chemical Payload. 2 large beakers
+// Atmos req
+):~warcrimes 2~
+[Requires EMAG]
+ + 10 oxygen
+ + 5 Hydrogen
+ + 5 sulfur          = 15 sulfuric acid
+ + 30 Carbon
+ + 30 fluorine       = 75 Fluorosurfactant
+▶ Siphon 5 Fluorosurfactant
+ + 10 toxin
+ + 20 razorium
+▶ Separate         .= 70u Fluorosurfactant, 20u razorium, 10u toxin
+ + 70 Water          = foam cloud
+ + 10 pax
+ + 20 razorium
+▶ Payload          .= 70u Water, 20u razorium, 10u pax
+
+*** Non-Lethal ***
+Slip Chems
+Space Lube
+Small Lube Smoke
+
+// Free slip
+soda jugs
+juice jugs
+ethanol jug
+welding fuel jug
+
+// Jug Recipe
+):Space Lube
+ + 10 iron
+ + 10 silicon
+▶ Heat              = 20 Fersilicite
+ + 20 oxygen
+ + 20 Water          = 100 Space Lube
+▶                  == 100u Space Lube
+
+):Space Glue
+▶ Call the boss
+
+// Jug Recipe, Grenade
+):Small Lube Smoke
+ + 25 Phosphorus
+ + 25 Potassium
+▶ Seprate          .= 25u Phosphorus, 25u Potassium
+ + 25 Sugar          = Smoke
+ + 25 Lube
+▶ Payload          .= 25u Sugar, 25u Lube
+
+*** Stealth ***
+pax
+mute toxin
+tazinide
+lexorin
+nocturine
+
+):pax' PACIFIST(8s)
+[Requires EMAG]
+▶                  == 90u pax
+
+):mute toxin' MUTE(20s)
+[Requires EMAG]
+▶                  == 90u mute toxin
+
+):tazinide' STUN
+[Requires 30u vestine , EMAG]
+ + 6 power cells
+▶ Juice
+ + 30 lead           = 30 licoxide
+ + 30 vestine
+▶                  == 30u tazinide
+
+):Pure lexorin Dart' BLOODLOSS[140]. 12s
+[Requires 30u vestine , hypodart , EMAG]
+.. Begin heating 30 vestine ..
+ + 3 plasteel
+ + 1 Dexalin pill
+ + 1 Dylovene pill
+▶ Grind             = 30 plasma, 24 iron, 10 Dylovene, 9 Dexalin+, 7 Dexalin
+ + 2 Carbon          = 6 Dexalin+
+ + 5 silicon
+ + 5 Hydrogen
+▶ Siphon iron, Dexalin, 5 Dylovene
+ + 30 vestine (hot)
+▶ Heat              = 60 lexorin <= 30 heartbreaker toxin <= 15 mindbreaker toxin
+ + 3 mute toxin
+▶                  == 60u lexorin, 3u mute toxin
+ > 2 hypodart
+ > small beaker
+
+):Nocturine' SLEEP@8
+[Requires 30u vestine , EMAG]
+ + 30 mercury
+ + 30 oxygen
+ + 30 Water
+▶ Heat              = 30 impedrezene
+ + 30 vestine
+▶                  == 30u Nocturine

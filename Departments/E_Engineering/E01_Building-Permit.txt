@@ -3,7 +3,7 @@
 █ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This form represents a [color=#f39f27]permit to build[/color] the specified structure at the specified location. [color=#f39f27]This permit must be approved and stamped.[/color][/bold]
+[bold]This document represents a [color=#f39f27]permit to build[/color] the specified structure at the specified location. [color=#f39f27]This permit must be approved and stamped.[/color][/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -28,17 +28,18 @@
        ■
 [/color]
 
-
 [bold]Structural Modifications:[/bold]
 [italic][color=#aaaaaa]Describe all changes to existing walls, structures, and facilites.[/color][/italic][color=blue]
        ■
 [/color]
 
+[color=#f39f27]   ▪  ▪  ▪[/color]
 
 [color=#f39f27][head=3][bold]AS CHIEF ENGINEER I HEREBY CERTIFY:[/bold][/head][/color]
-[bold]1.[/bold] I have been duly informed, and am aware of all matters pertaining to this permit.
-[bold]2.[/bold] I vouch for the safety and utility of the structure as described above.
-[bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+[bold]1.[/bold] Nanotrasen interests have been prioritized.
+[bold]2.[/bold] I have been duly informed, and am aware of all matters pertaining to this permit.
+[bold]3.[/bold] I vouch for the safety and utility of the structure as described above.
+[bold]4.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the C.E.
 

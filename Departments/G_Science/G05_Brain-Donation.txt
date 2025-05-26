@@ -1,9 +1,9 @@
-# G-05 Brain Donation Form
-[color=#c96dbf]█▄ █ ▀█▀    [head=2]Brain Donation Form[/head] [italic][color=#aaaaaa]G-05[/color][/italic]
+# G-05 Brain Donation
+[color=#c96dbf]█▄ █ ▀█▀    [head=2]Brain Donation[/head] [italic][color=#aaaaaa]G-05[/color][/italic]
 █ ▀█     █               Explaining The Inexplicable
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]This form is for the [color=#c96dbf]donation[/color] of a [color=#c96dbf]brain[/color] to the Department of Science. Use of this form is optional.[/bold]
+[bold]This document is for the [color=#c96dbf]donation[/color] of a [color=#c96dbf]brain[/color] to the science department. Use of this document is optional.[/bold]
 
 [bold]Name of Donator:[/bold]  [italic][color=#aaaaaa]Optional[/color][/italic]         [color=blue]    ■    [/color]
                                      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

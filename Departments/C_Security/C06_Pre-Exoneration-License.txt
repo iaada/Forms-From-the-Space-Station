@@ -22,13 +22,15 @@
 [color=#cb0000]══════════════════════════════════════════[/color]
 
 [color=#cb0000][head=3][bold]AS HEAD OF SECURITY I HEREBY CERTIFY:[/bold][/head][/color]
-[bold]1.[/bold] I have been duly informed, and am aware of all matters pertaining to this license.
-[bold]2.[/bold] I vouch that safety and security will not be compromised by the crime(s) as described above.
-[bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+[bold]1.[/bold] Nanotrasen interests have been prioritized.
+[bold]2.[/bold] I have been duly informed, and am aware of all matters pertaining to this license.
+[bold]3.[/bold] I vouch that safety and security will not be compromised by the crime(s) as described above.
+[bold]4.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the HoS.
 
-To request a license for pre-exoneration, submit a C-06r (License for Pre-Exoneration Request) to the Head of Security.
+To request a license for pre-exoneration, submit a C-06r (Request for Pre-Exoneration) to the Head of Security.
 
 The HoS reserves the right to revoke this license at any time.
 

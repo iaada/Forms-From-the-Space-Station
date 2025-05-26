@@ -12,9 +12,9 @@ So you're thinking about chemistry, but all those numbers and machines make no s
 
 [color=#1b67a5][bold][head=2]■ INDEX ■[/head][/bold][/color]
 
- [italic][bullet/] Soap
- [bullet/] Space Lube
- [bullet/] Getting Prepared[/italic]
+ [italic]▪ Soap
+ ▪ Space Lube
+ ▪ Getting Prepared[/italic]
 
 [color=#1b67a5]■ ■[/color]
 
@@ -37,12 +37,12 @@ You can never have enough soap, and good news for you! All you need for soap is 
 
 Be honest, you didn't even look at that. But that's okay, because I'm going to repeat it in normal words this time.
 
- [bullet/] You'll need 2 slabs of meat, any meat will do. If you can't find the fresh stuff, 4 slabs of rotten meat works, too.
- [bullet/] Ask or force the chef to grind it up! Make sure they don't forget the beaker. The beaker is critical.
- [bullet/] Mix in a packet of salt.
- [bullet/] Add a splash ([bold]not[/bold] a dash) of water to the beaker. You can also use blood but... gross.
- [bullet/] [bold]Kapow![/bold] Your soap is made. But even better?
- [bullet/] Your now boiling hot chemical mixture has cooked the leftover protein. You're left with a "delicous" soap soup!
+ ▪ You'll need 2 slabs of meat, any meat will do. If you can't find the fresh stuff, 4 slabs of rotten meat works, too.
+ ▪ Ask or force the chef to grind it up! Make sure they don't forget the beaker. The beaker is critical.
+ ▪ Mix in a packet of salt.
+ ▪ Add a splash ([bold]not[/bold] a dash) of water to the beaker. You can also use blood but... gross.
+ ▪ [bold]Kapow![/bold] Your soap is made. But even better?
+ ▪ Your now boiling hot chemical mixture has cooked the leftover protein. You're left with a "delicous" soap soup!
 
 [color=#ff2fff][head=2]Space Lube[/head]
 ══════════════[/color]
@@ -55,28 +55,28 @@ This one is tough. You'll need cooperation from both the chef [bold]and[/bold] t
  + [color=purple]1[/color] iron
  + [color=purple]1[/color] silicon
 [color=blue]▶ [bold]Heat[/bold][/color]              [color=#777777]= 2 Fersilicite[/color]
- + [color=purple]2[/color] Oxygen
+ + [color=purple]2[/color] oxygen
  + [color=purple]2[/color] Water
 [color=red]▶ == 10u Lube[/color][/mono]
 
 This one is real simple. Put a bunch of stuff in a beaker and heat it up. The labels are on the jugs.
 
- [bullet/] From chemist you'll need: iron, silicon, and Oxygen.
- [bullet/] Add equal amounts iron and silicon. Add too much and you'll have problems later.
- [bullet/] Heat up the beaker. There's lots of ways to do this.
- [bullet/] Figure out how much liquid you have. Remember it.
- [bullet/] Remember how much liquid you have? You need exactly that amount in both Oxygen and Water.
- [bullet/] [bold]Kapow![/bold] Your Lube is ready to go! Be careful of spills.
+ ▪ From chemist you'll need: iron, silicon, and oxygen.
+ ▪ Add equal amounts iron and silicon. Add too much and you'll have problems later.
+ ▪ Heat up the beaker. There's lots of ways to do this.
+ ▪ Figure out how much liquid you have. Remember it.
+ ▪ Remember how much liquid you have? You need exactly that amount in both oxygen and Water.
+ ▪ [bold]Kapow![/bold] Your Lube is ready to go! Be careful of spills.
                                                              [color=green]// [italic]Science Fact:[/italic][/color]
 [color=#ff2fff][head=2]Getting Prepared[/head]           [color=green]// [italic]You've just experienced[/italic][/color]
 ══════════════[/color]                      [color=green]// [italic]the creation of matter![/italic][/color]
 We're getting into some hard recipes, with high costs. You'll need machines and bananas from here on out. Be prepared to prepare a workspace.
 
- [bullet/] Get yourself as many bananas as you can manage.
- [bullet/] You'll need a grinder. Better remembered as the machine chef has that grinds things.
- [bullet/] You'll also need a centrifuge. It's a spinny machine chemist owns. Chemist might even give you theirs if they're nice.
- [bullet/] If you're having trouble with the machines, call for backup! Scientists and engineers love helping.
- [bullet/] A vial is a pivotal item; You need it for the centrifuge. If chemist is nice they can give you this, too. If they're not nice, cargo can buy them.
+ ▪ Get yourself as many bananas as you can manage.
+ ▪ You'll need a grinder. Better remembered as the machine chef has that grinds things.
+ ▪ You'll also need a centrifuge. It's a spinny machine chemist owns. Chemist might even give you theirs if they're nice.
+ ▪ If you're having trouble with the machines, call for backup! Scientists and engineers love helping.
+ ▪ A vial is a pivotal item; You need it for the centrifuge. If chemist is nice they can give you this, too. If they're not nice, cargo can buy them.
 
 Now that we're ready for real chemistry, sorry. Volume is over. Honk. The A.D.A. has a strict 6,000 character limit so that's the best I can do. Cough up for volume two. But I'll leave you with a sneak peak.
 
@@ -85,7 +85,8 @@ Now that we're ready for real chemistry, sorry. Volume is over. Honk. The A.D.A.
 // Reagents: 3 Bananas, 1 Sugar packet, 2 plastic.[/italic][/color]
 [mono][bold][color=red]): Laughing Gas[/color][/bold][/mono]
 
-Keep it real, clowns.
+[color=#ff2fff]══════════════[/color]
+Keep it real, clown.
 
 [color=#ff2fff]══════════════════════════════════════════[/color]
 [bold]About the Author:[/bold] Violet Torrent is a senior researcher aboard an unnamed Nanotrasen research station, and founding member of the A.D.A. Her dream is to get married.

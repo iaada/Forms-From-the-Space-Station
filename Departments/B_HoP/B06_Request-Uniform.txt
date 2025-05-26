@@ -23,7 +23,6 @@
        ■
 [/color]
 
-
 [italic][color=#aaaaaa]B-06 requests are handled in the order they are received.
 
 The Head of Personnel withholds the right to change request policies at any time.

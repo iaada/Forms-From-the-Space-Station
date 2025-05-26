@@ -1,0 +1,39 @@
+# B-08 Encryption Release Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Encryption License[/head] [italic][color=#aaaaaa]B-08[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+══════════════════════════════════════════[/color]
+
+[bold]This [color=#1b67a5]license[/color] bestows the holder with an [color=#1b67a5]encryption key[/color] outside of standard encryption procedure. [color=#1b67a5]This license must be approved and stamped.[/color][/bold]
+
+[bold]Licensee:[/bold]         [color=blue]   ■   [/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]License expires upon:[/bold]     [color=#aaaaaa]Shift Time:[/color] [color=blue]   ■   [/color]
+                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Encryption:[/bold]
+[bold][color=#aaaaaa]O[/color] Supply[/bold] (1347)          [bold][color=#aaaaaa]O[/color] Service[/bold] (1349)  [bold][color=#aaaaaa]O[/color] Science[/bold] (1351)
+[bold][color=#aaaaaa]O[/color] Command[/bold] (1353)  [bold][color=#aaaaaa]O[/color] Medical[/bold] (1355) [bold][color=#aaaaaa]O[/color] Engineering[/bold] (1357)
+[bold][color=#aaaaaa]O[/color] Security[/bold] (1359)       [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]    ■    [/color]
+                                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#1b67a5]══════════════════════════════════════════[/color]
+
+[bold]License Issuer:[/bold]         [color=blue]    ■    [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5][head=3][bold]AS A MEMBER OF COMMAND I HEREBY CERTIFY:[/bold][/head][/color]
+[bold]1.[/bold] Nanotrasen interests have been prioritized.
+[bold]2.[/bold] I have been duly informed, and am aware of all matters pertaining to this license.
+[bold]3.[/bold] I vouch that safety and security will not be compromised as a result of this license.
+[bold]4.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+
+
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the relevant command head.
+
+To request an ecryption license, submit a B-08r (Encryption License Request) to the relevant command head.
+
+Command reserves the right to revoke this license at any time.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).
+
+Those who abuse granted permission may be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

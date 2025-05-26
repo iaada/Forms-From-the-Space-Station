@@ -6,44 +6,48 @@
 
 [color=#2c8902][head=2]Botanicals[/head]
 ░░░░░░░░░░░░░░░░░░░░[/color]
+
 [head=3]EZ Nutrient,[/head] 90u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][/mono] [bold]$120[/bold]
-  [italic][color=#444444]EZ fertilizer. [/italic][color=green]+2 Nutrients[/color][/color]
+  [italic][color=#444444]EZ fertilizer[/italic]. [color=green]+2 Nutrients[/color][/color]
 
 [head=3]Ammonia,[/head] 80u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono][bold]$160[/bold]
-  [italic][color=#444444]Healing fertilizer. [/italic][color=green]+1 Nutrients[/color][italic], [/italic][color=green]+0.5 Health[/color][/color]
-  
+  [italic][color=#444444]Healing fertilizer[/italic]. [color=green]+1 Nutrients[/color], [color=green]+0.5 Health[/color][/color]
+
+[head=3]Left-4-Zed,[/head] 30u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono]  [bold]$30[/bold]
+  [italic][color=#444444]Mutation supplement. 30% chance to [/italic][color=green]increase Mutation Multiplier by 0.4[/color][italic] per unit[/italic]. [color=green]+1 Nutrients[/color], [color=red]-0.5 Health[/color][/color]
+
 [head=3]Unstable Mutagen,[/head] 90u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][/mono]  [bold]$90[/bold]
-  [italic][color=#444444]Random mutator. [/italic][color=green]+1 Mutation Factor[/color][italic] per unit of mutagen.[/color][/italic]
+  [italic][color=#444444]Random mutator. [/italic][color=green]+1 Mutation Factor[/color][italic] per unit[/italic].[/color]
 
 [head=3]Robust Harvest,[/head] 90u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono] [bold]$120[/bold]
-  [italic][color=#444444]Controlled mutator. [/italic][color=green]+3 Potency[/color][italic], up to 50. Using past 30 Potency causes [/italic][color=red]infertility[/color][italic]. Small chance to attract [/italic][color=red]pests[/color][italic].[/color][/italic]
+  [italic][color=#444444]Controlled mutator. [/italic][color=green]+3 Potency[/color][italic] per unit, up to 50. Above 30 Potency causes [/italic][color=red]infertility[/color][italic]. Small chance to attract [/italic][color=red]pests[/color].[/color]
 
 [head=3]Diethylamine,[/head] 80u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono][bold]$160[/bold]
-  [italic][color=#444444]Controlled mutator. 20% chance to rapidly age the plant, 10% chance to [/italic][color=green]increase lifespan[/color][italic] and [/italic][color=green]base health[/color][italic] (rolled seprately), 10% chance to [/italic][color=green]kill pests[/color][italic]. Minor benefit to nutrition and health.[/color][/italic]
+  [italic][color=#444444]Controlled mutator. 20% chance to rapidly age the plant, 10% chance to [/italic][color=green]increase lifespan[/color][italic] and/or [/italic][color=green]base health[/color][italic], 10% chance to [/italic][color=green]kill pests[/color][italic]. Minor benefit to nutrition and health[/italic].[/color]
 
 [head=3]Phalanximine,[/head] 90u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono][bold]$130[/bold]
-  [italic][color=#444444]Anti-cancer medicine. 5 units [/italic][color=green]removes the death gene[/color][italic] from mutated plants, but adds [/italic][color=red]+30 toxins[/color][italic] to the soil.[/color][/italic]
+  [italic][color=#444444]Anti-cancer medicine. 5 units [/italic][color=green]removes the death gene[/color][italic] from mutated plants[/italic]. [color=red]+6 Toxins[/color][/color]
 
 [head=3]Cryoxadone,[/head] 90u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono] [bold]$100[/bold]
-  [italic][color=#444444]Typically used in cryogenics. Careful application reverses aging, reverting as far back as a seed. [/italic][color=green]+5 Health[/color][italic], [/italic][color=green]-5 Toxins[/color][/color]
+  [italic][color=#444444]Cryogenics medicine. Reverses aging in plants. Capable of reverting as young as a seed[/italic]. [color=green]+5 Health[/color], [color=green]-5 Toxins[/color][/color]
 
 [head=3]Dylovene,[/head] 90u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono][bold]$150[/bold]
-  [italic][color=#444444]Broad-spectrum anti-toxin. [/italic][color=green]+1 Health[/color][italic], [/italic][color=green]-10 Toxins[/color][/color]
- 
+  [italic][color=#444444]Broad-spectrum anti-toxin[/italic]. [color=green]+1 Health[/color], [color=green]-10 Toxins[/color][/color]
+
 [head=3]Sedin,[/head] 45u  [mono][color=#2c8902]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono]  [bold]$530[/bold]
-  [italic][color=#444444]A complex and expensive chemical. 20% chance per unit to [/italic][color=green]restore fertility[/color][italic] to a plant, but [/italic][color=red]-2 Health[/color][italic], [/italic][color=red]-3 Potency[/color].[/color]
+  [italic][color=#444444]A complex and expensive mutator. 20% chance per unit to [/italic][color=green]restore fertility[/color][italic] to a plant[/italic]. [color=red]-2 Health[/color], [color=red]-3 Potency[/color][/color]
 
 [color=#c96dbf][head=2]Janitorial[/head]
 ░░░░░░░░░░░░░░░░░░░░[/color]
 
 [head=3]Space Cleaner,[/head] 80u  [mono][color=#c96dbf]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono][bold]$60[/bold]
-  [italic][color=#444444]The poster boy for Lemony Fresh![/color][/italic]
+  [italic][color=#444444]The original in Lemony Fresh![/color][/italic]
 
 [head=3]Bleach,[/head] 100u  [mono][color=#c96dbf]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono][bold]$130[/bold]
-  [italic][color=#444444]Some say this is just needlessly dangerous Space Cleaner. Those people have never tried getting blood out of durathread.[/color][/italic]
+  [italic][color=#444444]Some say this is needlessly dangerous Space Cleaner. Those people have never tried getting blood out of durathread.[/color][/italic]
 
 [head=3]Fluorosurfactant,[/head] 75u  [mono][color=#c96dbf]▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono] [bold]$125[/bold]
-  [italic][color=#444444]A foaming agent commonly found in Cleanades. Add 10 units of Space Cleaner, and equal parts Fluorosurfactant and Water.[/color][/italic]
+  [italic][color=#444444]A foaming agent commonly found in Cleanades. For foam, add 10 units Space Cleaner and equal parts Fluorosurfactant and Water.[/color][/italic]
 
 [head=3]Sodium Polyacrylate,[/head] 40u  [mono][color=#c96dbf]▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono] [bold]$35[/bold]
   [italic][color=#444444]A super-absorbant polymer for large spills. At least, that's what's advertised. Doesn't seem to do anything at the moment.[/color][/italic]

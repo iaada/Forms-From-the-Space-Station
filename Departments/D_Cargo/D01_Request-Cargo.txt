@@ -1,9 +1,9 @@
-# D-01 Cargo Request Form
-[color=#b18644]█▄ █ ▀█▀    [head=2]Cargo Request Form[/head] [italic][color=#aaaaaa]D-01[/color][/italic]
+# D-01 Cargo Request
+[color=#b18644]█▄ █ ▀█▀    [head=2]Cargo Request[/head] [italic][color=#aaaaaa]D-01[/color][/italic]
 █ ▀█     █     Not Space Nor Plasma Nor Cold Nor Clown  
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
    
-[bold]This form is for placing [color=#b18644]physical orders[/color] through the [color=#b18644]Cargo[/color] department. Be detailed and specific.[/bold]
+[bold]This document is for placing [color=#b18644]physical orders[/color] through the [color=#b18644]Cargo[/color] department. Be detailed and specific.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -37,7 +37,6 @@
 
 [bold]Destination (if applicable):[/bold]         [color=blue]   ■   [/color]
                                                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-
 
 [italic][color=#aaaaaa]D-01 requests are handled in the order they are received.
 

@@ -1,9 +1,9 @@
-# G-02 Research Request
-[color=#c96dbf]█▄ █ ▀█▀    [head=2]Research Request[/head] [italic][color=#aaaaaa]G-02[/color][/italic]
+# G-07r Protolathe Request
+[color=#c96dbf]█▄ █ ▀█▀    [head=2]Protolathe Request[/head] [italic][color=#aaaaaa]G-07r[/color][/italic]
 █ ▀█     █               Explaining The Inexplicable
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
-   
-[bold]This document is for placing theoretical [color=#c96dbf]requests for research[/color] through the [color=#c96dbf]Science[/color] department. Research is not guranteed. Be detailed and specific.[/bold]
+
+[bold]This document is for [color=#c96dbf]requesting[/color] an [color=#c96dbf]EVA rental license[/color]. Submit alongside a B-07 to the Head of Personnel.[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -13,18 +13,19 @@
                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#c96dbf]   ▪  ▪  ▪[/color]
 
-[bold]Requested Reasearch:[/bold]
-[italic][color=#aaaaaa]Provide a detailed and exhaustive list.[/color][/italic][color=blue]
- [bullet/] ■
- [bullet/] ■
-[/color]
+[bold]Requested Duration of License:[/bold]         [color=blue]   ■   [/color]
+                                                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Purpose of Request:[/bold]
 [italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
        ■
 [/color]
 
-[italic][color=#aaaaaa]G-02 requests are handled in the order they are received.
+[italic][color=#aaaaaa]G-07r requests are handled in the order they are received.
 
-The Reasearch Director withholds the right to change Science request policies at any time.
+This document is for requesting a protolathe license. For the license itself, use a G-07 (Protolathe License).
 
-Form distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]
+Nanotrasen and by extension the Reasearch Director withholds the right to change request policies at any time.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

@@ -1,0 +1,55 @@
+# B-11 Demotion Report
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Demotion Report[/head] [italic][color=#aaaaaa]B-11[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+
+[bold]This report represents a [color=#1b67a5]demotion[/color] given to a subordinate by their commanding officer. [color=#1b67a5]This document must be approved and stamped.[/color][/bold]
+
+[color=#1b67a5]   ▪  ▪  ▪[/color]
+
+[bold]Subordinate's Name:[/bold]         [color=blue]   ■   [/color]
+                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Current Employment:[/bold][mono]
+ [bold][color=#aaaaaa]O[/color][/bold] Cargo    [bold][color=#aaaaaa]O[/color][/bold] Command  [bold][color=#aaaaaa]O[/color][/bold] Engineering
+ [bold][color=#aaaaaa]O[/color][/bold] Medical  [bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Security
+ [bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Other:[/mono]         [color=blue]    ■    [/color]
+                                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]   ▪  ▪  ▪[/color]
+
+[bold]Superior's Name:[/bold]         [color=blue]   ■   [/color]
+                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Head of (Department):[/bold][mono]
+ [bold][color=#aaaaaa]O[/color][/bold] Cargo    [bold][color=#aaaaaa]O[/color][/bold] Command  [bold][color=#aaaaaa]O[/color][/bold] Engineering
+ [bold][color=#aaaaaa]O[/color][/bold] Medical  [bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Security
+ [bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Other:[/mono]         [color=blue]    ■    [/color]
+                                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5]   ▪  ▪  ▪[/color]
+
+[bold]Details of Demotion:[/bold]
+[italic][color=#aaaaaa]Provide a detailed explanation of stripped duties.[/color][/italic][color=blue]
+       ■
+[/color]
+
+[bold]Purpose of Demotion:[/bold]
+[italic][color=#aaaaaa]Provide a detailed explanation for why the demotion was given.[/color][/italic][color=blue]
+       ■
+[/color]
+
+[color=#1b67a5]   ▪  ▪  ▪[/color]
+
+[bold]Issuer:[/bold]         [color=blue]    ■    [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#1b67a5][head=3][bold]AS A MEMBER OF COMMAND I HEREBY CERTIFY:[/bold][/head][/color]
+[bold]1.[/bold] Nanotrasen interests have been prioritized.
+[bold]2.[/bold] I am of sound mind and body.
+[bold]3.[/bold] I vouch for the authenticity of my signature and the authenticity of this document.
+
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the department head in command of the subject, the Head of Personnel, or the Captain.
+
+B-11 reports are handled in the order they are received.
+
+Demotions do not guarantee a pay cut. To request a change in payroll submit a D-05 (Change to Payroll) to your Head of Finances.
+
+Form distributed by the A.D.A. (Administration Divisive Authority).[/italic]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

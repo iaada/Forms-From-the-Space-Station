@@ -23,7 +23,6 @@
 	   ■
 [/color]
 
-
 [italic][color=#aaaaaa]I-01 requests are handled in the order they are received.
 
 The requested party withholds the right to change request policies at any time.

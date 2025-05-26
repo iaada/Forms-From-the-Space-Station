@@ -3,7 +3,7 @@
 █ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
    ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
 
-[bold]The subject of this form requests a change to the access configuration of [color=#1b67a5]an electronic device[/color].[/bold]
+[bold]The subject of this form requests a change to the [color=#1b67a5]access configuration[/color] of an [color=#1b67a5]electronic device[/color].[/bold]
 
 [bold]Your Name:[/bold]         [color=blue]    ■    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -16,15 +16,14 @@
 [bold]Device:[/bold]         [color=blue]    ■    [/color]
                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Access:[/bold]
-[bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical [bold][color=#aaaaaa]O[/color][/bold] Chemistry [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Atmos
-[bold][color=#aaaaaa]O[/color][/bold] Service  [bold][color=#aaaaaa]O[/color][/bold] Cargo  [bold][color=#aaaaaa]O[/color][/bold] Salvage [bold][color=#aaaaaa]O[/color][/bold] Security  [bold][color=#aaaaaa]O[/color][/bold] Armory
+[bold][color=#aaaaaa]O[/color][/bold] Science  [bold][color=#aaaaaa]O[/color][/bold] Medical  [bold][color=#aaaaaa]O[/color][/bold] Chemistry  [bold][color=#aaaaaa]O[/color][/bold] Engineering  [bold][color=#aaaaaa]O[/color][/bold] Atmos
+[bold][color=#aaaaaa]O[/color][/bold] Service   [bold][color=#aaaaaa]O[/color][/bold] Cargo     [bold][color=#aaaaaa]O[/color][/bold] Salvage       [bold][color=#aaaaaa]O[/color][/bold] Security       [bold][color=#aaaaaa]O[/color][/bold] Armory
 [bold][color=#aaaaaa]O[/color][/bold] Command  [bold][color=#aaaaaa]O[/color][/bold] Maintence  [bold][color=#aaaaaa]O[/color][/bold] Other:         [color=blue]  ■  [/color]
                                                                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Purpose of Request:[/bold]
 [italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
        ■
 [/color]
-
 
 [color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the head of a department (where valid), the Head of Personnel, or the Captain. In the case of multiple departments, seek multiple stamps.
 

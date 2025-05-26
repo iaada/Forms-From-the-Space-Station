@@ -10,13 +10,13 @@ So you need a chemist. But you're not a chemist, and there's no chemist to be fo
 
 [color=#1b67a5][bold][head=2]■ INDEX ■[/head][/bold][/color]
 
- [italic][bullet/] Ambuzol
- [bullet/] Dylovene
- [bullet/] Dermaline
- [bullet/] Saline
- [bullet/] Hyronalin
- [bullet/] Bicaridine
- [bullet/] Dexalin+[/italic]
+ [italic]▪ Ambuzol
+ ▪ Dylovene
+ ▪ Dermaline
+ ▪ Saline
+ ▪ Hyronalin
+ ▪ Bicaridine
+ ▪ Dexalin+[/italic]
 
 [color=#1b67a5]■ ■[/color]
 
@@ -116,7 +116,8 @@ Plasma is a catalyst, and will be left in the final product if it isn't removed.
  + [color=purple]30[/color] iron
 [color=red]▶ == 90u Dexalin+[/color][/mono]
 
-There's countless other chemicals out there for you to cook. You don't need 'em.
+[color=#5b97bc]══════════════[/color]
+There's countless other chemicals out there for you to cook. [bold]You don't need 'em.[/bold]
 
 [color=#5b97bc]══════════════════════════════════════════[/color]
 [bold]About the Author:[/bold] Violet Torrent is a senior researcher aboard an unnamed Nanotrasen research station, and founding member of the A.D.A. She's a self-proclaimed expert in chemistry, despite having never worked the job.

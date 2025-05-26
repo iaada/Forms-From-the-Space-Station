@@ -11,7 +11,7 @@
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Your Position:[/bold]         [color=blue]   ■   [/color]
                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Rate your familiarity with Space Law and sector bylaws:[/bold]
+[bold]Rate your familiarity with [color=#cb0000]Space Law[/color] and [color=#cb0000]Sector Bylaws[/color]:[/bold]
             \[1]     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     \[10]
 
 [color=#cb0000][head=2]Section B[/head][/color]
