@@ -50,10 +50,10 @@ Bruise Pack [italic][color=#444444](x1)[/color][/italic] [bold]$15[/bold] [color
 [color=#5b97bc][head=2]Psychoactive Drugs[/head]
 ░░░░░░░░░░░░░░░░░░░░[/color]
 
-[head=3]Psicodine,[/head] 10 pills, 6u  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono][bold]$85[/bold]
+[head=3]Psicodine,[/head] 10 pills, 6u  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color] [/mono][bold]$85[/bold]
   [italic][color=#444444]Medication prescribed for mental distress, primarily anxiety.[/color][/italic]
 
-[head=3]Haloperidol,[/head] 10 pills, 5u  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [/mono]  [bold]$45[/bold]
+[head=3]Haloperidol,[/head] 10 pills, 5u  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color][/mono]  [bold]$45[/bold]
   [italic][color=#444444]A detox chemical. Removes immediate symptoms, and assists in long-term dependencies. Causes drowsiness.[/color][/italic]
   
 [head=3]≡Narco-Cure≡,[/head] 4 pills  [mono][color=#5b97bc]▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪ [/color][/mono] [bold]$290[/bold]

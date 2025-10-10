@@ -10,7 +10,7 @@ Bottle [bold]$10[/bold] [color=#5b97bc]   ▪   [/color]Beaker [bold]$40[/bold] 
   [color=#5b97bc]═════════════════════════════════════════[/color]
  Sterile Swab [bold]$7[/bold] [color=#5b97bc]  ▪    ▪    ▪    [/color]Syringe [bold]$30[/bold] [color=#5b97bc]   ▪    ▪    ▪   [/color]Dropper [bold]$65[/bold]
   [color=#5b97bc]═════════════════════════════════════════[/color]
-Hand Labeler [bold]$25[/bold][color=#5b97bc]  ▪  [/color]Defibrillator [bold]$60[/bold][color=#5b97bc]  ▪  [/color]Health Analyzer  [bold]$200[/bold]
+Hand Labeler [bold]$25[/bold][color=#5b97bc]  ▪  [/color]Defibrillator [bold]$60[/bold][color=#5b97bc]  ▪  [/color]Health Analyzer   [bold]$200[/bold]
   [color=#5b97bc]═════════════════════════════════════════[/color]
  White Cane [bold]$45[/bold] [color=#5b97bc]   ▪    ▪    [/color]Body Bag [bold]$75[/bold] [color=#5b97bc]    ▪    ▪   [/color]Rollerbed [bold]$200[/bold]
 
@@ -33,14 +33,30 @@ Cryostasis Syringe [bold]$55[/bold][color=#5b97bc]   ▪    ▪    ▪    ▪   
 [head=3]Bluespace Beaker[/head]   [color=#5b97bc]▪  ▪  ▪  ▪  ▪  [/color][bold]$110 & 1 Plasma & 1 Silver[/bold]
 
 
+[color=#5b97bc][head=2]Soap[/head]
+░░░░░░░░░░░░░░░░░░░░[/color]
+
+[head=3]Regular Soap[/head][color=#5b97bc]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [bold]$55[/bold]
+  [italic][color=#444444]An everyday soap. Nothing special here.[/color][/italic]
+
+[head=3]Deluxe Soap[/head]  [color=#5b97bc]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [bold]$80 & 1 Berry[/bold]
+  [italic][color=#444444]A fresh smelling soap with a delicious aftertaste.[/color][/italic]
+
+[head=3]Nanotrasen Soap[/head]  [color=#5b97bc]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [bold]$80 & 1 Plasma[/bold]
+  [italic][color=#444444]If Nanotrasen is to be believed this is the best soap around![/color][/italic]
+
+[head=3]Blood Soap[/head][color=#5b97bc]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [bold]$85 & 10u Blood[/bold]
+  [italic][color=#444444]Digusting and expensive. Don't make me make this.[/color][/italic]
+
+[head=3]Omega Soap[/head][color=#5b97bc]   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  [/color] [bold]$95 & 2 Bananium[/bold]
+  [italic][color=#444444]Guranteed to make the nearest security officer arrest you![/color][/italic]
+
 [color=#5b97bc][head=2]Extras[/head]
 ░░░░░░░░░░░░░░░░░░░░[/color]
 
 Crystal (random) [color=#5b97bc] ▪  ▪ [/color] [bold]$40[/bold]
 
-Soap [color=#5b97bc] ▪  ▪ [/color] [bold]$60[/bold]
-
-Meat, 1 slab [color=#5b97bc] ▪  ▪ [/color] [bold]$100 & 10cc Blood[/bold]
+Meat, 1 slab [color=#5b97bc] ▪  ▪ [/color] [bold]$100 & 10u Blood[/bold]
 
 Plastic, 1 sheet [color=#5b97bc] ▪  ▪ [/color] [bold]$20[/bold]
 
