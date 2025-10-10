@@ -5,7 +5,6 @@
 ⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]  [head=3][color=black]Basic Construction Guide[/color][/head]
 ⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]    [color=black]by [color=#880088]Violet Torrent[/color][/color]
 ══════════════════════════════════════════[/color]
-
 Computers. Machines. Airlocks. It's nearly impossible to exist these days without them. But less common is the knowledge of how to build and maintain these devices. Not to worry! In this [bold]beginner's guide[/bold], I'll teach you everything you need to start building your very own space station.
 
 [color=#1b67a5][bold][head=2]■ INDEX ■[/head][/bold][/color]

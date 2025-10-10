@@ -5,7 +5,6 @@
 ⣿⠋⠉⣿[mono]  [/mono]⣿⢀⣠⡇[mono] [/mono]⣿⠋⠉⣿[mono] [/mono]  [head=3][color=black]Basic Construction Guide 2[/color][/head]
 ⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color][mono] [/mono]⣿⣾⠋[color=black]⣤[/color][mono] [/mono]⣿[color=white]⡀⡀[/color]⣿[color=black]⣤[/color]    [color=black]by [color=#880088]Violet Torrent[/color][/color]
 ══════════════════════════════════════════[/color]
-
 In the last article we explored the basics of construction. We assembled our tools, learned how to think hard, and even built a computer! Now that we have the basics down, let's talk about [bold]finding materials for your project[/bold].
 
 [color=#1b67a5][bold][head=2]■ INDEX ■[/head][/bold][/color]
