@@ -1,4 +1,4 @@
-# Skill Booklet: Clowning with Chemicals!! part 1
+# Skill Booklet: Clowning with Chemicals!! Vol. 1
 [color=#ff2fff]══════════════
 ⣼⠋⠳⣄[mono]  [/mono]⣿⢿⣦⡀[mono] [/mono]⣼⠋⠳⣄[mono] [/mono]
 ⣿⣤⣤⣿[mono]  [/mono]⣿⠈⠙⡇[mono] [/mono]⣿⣤⣤⣿[mono] [/mono]
@@ -8,41 +8,81 @@
 
 [bold]Greetings, beloved clown![/bold] You're very smart for purchasing this guide. Good job.
 
-So you're thinking about chemistry, but all those numbers and machines make no sense at all. Not to worry, chemistry is more art than science, and you're a great artist. This guide will teach you everything you need to know, in order to know just enough.
+So you're thinking about chemistry, but all those numbers and machines make no sense at all. Not to worry, chemistry is more art than science, and you're a great artist. This guide will teach you everything a clown would want to know!
 
 [color=#1b67a5][bold][head=2]■ INDEX ■[/head][/bold][/color]
 
  [italic]▪ Soap
+ ▪ Meat Soap
  ▪ Space Lube
+ ▪ Space Glue
  ▪ Getting Prepared[/italic]
 
 [color=#1b67a5]■ ■[/color]
 
 [color=#ff2fff][head=2]Soap[/head]
 ══════════════[/color]
-You can never have enough soap, and good news for you! All you need for soap is an expedition into the kitchen. Make sure chef doesn't catch you stealing their meat!
+Here's a simple soap recipe to start you out in the wonderful world of chemistry, made from simple station materials you can find just about everywhere.
 
 [color=green][italic]// Tools: beaker.
-// Machines: Grinder
-// Reagents: raw meat. 1 salt packet.[/italic][/color]
+// Machines: Grinder, Microwave or Hotplate
+// Reagents: Paper. 2 plastic. 1 salt packet.[/italic][/color]
 [mono][bold][color=red]): Soap[/color][/bold]
+ + [color=purple]1[/color] ash
+ + [color=purple]2[/color] plastic
+[color=blue]▶ [bold]Grind[/bold][/color]          [color=#f39f27].= ~10u Oil[/color]
+ + [color=purple]10[/color] Water
+ + [color=purple]1 [/color] salt packet
+[color=blue]▶ [bold]Heat[/bold][/color]
+ [color=red]∴ [bold]Soap[/bold][/color][/mono]
+
+Did your eyes glaze over looking at that? No worries, I'm one step ahead with an easier guide.
+
+ ▪ Ash is the first step. Luckily this is very easy. Grab some
+   paper and light it on fire! It burns pretty, too.
+ ▪ Grab two pieces of plastic. Stuff it and the ash in a grinder
+   (better known as chef's spiny machine).
+ ▪ Grind it up! Make sure you don't forget the beaker.
+   The machine won't work without the beaker.
+ ▪ Alternatively, ask the chef to do it for you! They have
+   nothing important to do, anyway.
+ ▪ Add a splash ([bold]not[/bold] a dash) of water to the beaker.
+ ▪ Mix in a packet of salt.
+ ▪ Lastly, pop it in the microwave for just over a minute.
+ ▪ [bold]Kapow![/bold] A brand new soap is made!
+
+[color=#ff2fff][head=2]Meat Soap[/head]
+══════════════[/color]
+You can never have enough soap, and good news for you! All you need for this soap is an expedition into the kitchen. Make sure chef doesn't catch you stealing their meat!
+
+[color=green][italic]// Tools: beaker.
+// Machines: Grinder, Microwave or Hotplate
+// Reagents: Paper. raw meat. 1 salt packet.[/italic][/color]
+[mono][bold][color=red]): Soap[/color][/bold]
+ + [color=purple]1[/color] ash
  + [color=purple]2[/color] raw meat
 [bold][color=red]*OR*[/color][/bold]
- + [color=purple]4[/color] rotten meat
-[color=blue]▶ [bold]Grind[/bold][/color]          [color=#f39f27].= ~15u Fat[/color]
- + [color=purple]1 [/color] salt packet
+ + [color=purple]3[/color] rotten meat
+[color=blue]▶ [bold]Grind[/bold][/color]          [color=#f39f27].= ~10u Fat[/color]
  + [color=purple]10[/color] Water
-[color=green]// [italic]Exact Water, or Saline occurs[/italic][/color]
-[color=red]▶ == Soap, Cooked Protein[/color][/mono]
+ + [color=purple]10[/color] Blood
+ + [color=purple]1 [/color] salt packet
+[color=blue]▶ [bold]Heat[/bold][/color]
+ [color=red]∴ [bold]Soap, Cooked Protein[/bold][/color][/mono]
 
-Be honest, you didn't even look at that. But that's okay, because I'm going to repeat it in normal words this time.
+Be honest, you didn't even look at that this time. But that's okay, because I'm going to repeat it in normal words again.
 
- ▪ You'll need 2 slabs of meat, any meat will do. If you can't find the fresh stuff, 4 slabs of rotten meat works, too.
- ▪ Ask or force the chef to grind it up! Make sure they don't forget the beaker. The beaker is critical.
- ▪ Mix in a packet of salt.
- ▪ Add a splash ([bold]not[/bold] a dash) of water to the beaker. You can also use blood but... gross.
+ ▪ Burn some paper! Or find ash somewhere else.
+ ▪ Next you'll need 2 slabs of meat, any meat will do. If you
+   can't find the fresh stuff, 3 slabs of rotten meat works, too.
+ ▪ Grinding time!
+ ▪ Add a splash ([bold]NOT[/bold] a dash) of water to the beaker.
+ ▪ Now, a splash of blood. Make sure it's the red kind of blood.
+ ▪ A dash of salt.
+ ▪ A minute in the microwave to top it off.
  ▪ [bold]Kapow![/bold] Your soap is made. But even better?
- ▪ Your now boiling hot chemical mixture has cooked the leftover protein. You're left with a "delicous" soap soup!
+ ▪ Your now boiling hot chemical mixture has cooked the
+   leftover protein. You're left with a "delicious" soap soup!
 
 [color=#ff2fff][head=2]Space Lube[/head]
 ══════════════[/color]
@@ -50,35 +90,65 @@ This one is tough. You'll need cooperation from both the chef [bold]and[/bold] t
 
 [color=green][italic]// Tools: large beaker.
 // Machines: Microwave or Hotplate
-// Reagents: iron, silicon, Oxygen. OR crate D, crate P.[/italic][/color]
+// Reagents: iron, silicon, oxygen. OR crate D, crate P.[/italic][/color]
 [mono][bold][color=red]): Space Lube[/color][/bold]
  + [color=purple]1[/color] iron
  + [color=purple]1[/color] silicon
 [color=blue]▶ [bold]Heat[/bold][/color]              [color=#777777]= 2 Fersilicite[/color]
  + [color=purple]2[/color] oxygen
  + [color=purple]2[/color] Water
-[color=red]▶ == 10u Lube[/color][/mono]
+ [color=red]∴ [bold]10u Lube[/bold][/color][/mono]
 
 This one is real simple. Put a bunch of stuff in a beaker and heat it up. The labels are on the jugs.
 
  ▪ From chemist you'll need: iron, silicon, and oxygen.
- ▪ Add equal amounts iron and silicon. Add too much and you'll have problems later.
+ ▪ Add equal amounts iron and silicon. Add too much and
+   you'll have problems later.
  ▪ Heat up the beaker. There's lots of ways to do this.
  ▪ Figure out how much liquid you have. Remember it.
- ▪ Remember how much liquid you have? You need exactly that amount in both oxygen and Water.
+ ▪ Remember how much liquid you have? You need exactly
+   that amount in both oxygen and Water.
  ▪ [bold]Kapow![/bold] Your Lube is ready to go! Be careful of spills.
-                                                             [color=green]// [italic]Science Fact:[/italic][/color]
-[color=#ff2fff][head=2]Getting Prepared[/head]           [color=green]// [italic]You've just experienced[/italic][/color]
-══════════════[/color]                      [color=green]// [italic]the creation of matter![/italic][/color]
+                                                      [color=green]// [italic]Science Fact:[/italic][/color]
+[color=#ff2fff][head=2]Space Glue[/head]                          [color=green]// [italic]You've just disproved[/italic][/color]
+══════════════[/color]                 [color=green]// [italic]conservation of matter theory![/italic][/color]
+Space glue isn't difficult to produce. All you need is Lube and Slime. Please source your Slime ethically.
+
+[color=green][italic]// Tools: beaker.
+// Machines: Microwave or Hotplate
+// Reagents: Space Lube, Slime.[/italic][/color]
+[mono][bold][color=red]): space glue[/color][/bold]
+ + [color=purple]1[/color] Space Lube
+ + [color=purple]1[/color] Slime
+[color=blue]▶ [bold]Heat[/bold][/color]
+ [color=red]∴ [bold]2u space glue[/bold][/color][/mono]
+
+If you've been following along there isn't much that needs explaining here. Just mix and heat!
+
+ ▪ Get yourself some Space Lube. Luckily I've already shown
+   you how right up there! ↑↑↑
+ ▪ Get yourself some Slime. You can grind up roaches,
+   slimeballs, or borrow the "blood" of your gelatinous
+   coworkers. Just ask for their permission first.
+ ▪ Combine equal parts Lube and Slime.
+ ▪ [bold]Kapow![/bold] Heat it up and you're good to slow!
+
+[color=#ff2fff][head=2]Getting Prepared[/head]
+══════════════[/color]
 We're getting into some hard recipes, with high costs. You'll need machines and bananas from here on out. Be prepared to prepare a workspace.
 
  ▪ Get yourself as many bananas as you can manage.
- ▪ You'll need a grinder. Better remembered as the machine chef has that grinds things.
- ▪ You'll also need a centrifuge. It's a spinny machine chemist owns. Chemist might even give you theirs if they're nice.
- ▪ If you're having trouble with the machines, call for backup! Scientists and engineers love helping.
- ▪ A vial is a pivotal item; You need it for the centrifuge. If chemist is nice they can give you this, too. If they're not nice, cargo can buy them.
+ ▪ You'll need a grinder. Better remembered as the machine
+   chef has that grinds things.
+ ▪ You also need a centrifuge. It's a spining machine chemist
+   owns. Chemist might even give you theirs if they're nice.
+ ▪ If you're having trouble with the machines, call for backup!
+   Scientists and engineers love helping.
+ ▪ A vial is a pivotal item: You need it for the centrifuge. If
+   chemist is nice they can give you this, too. If they're not
+   nice, you can print it in an autolathe or buy it from cargo.
 
-Now that we're ready for real chemistry, sorry. Volume is over. Honk. The A.D.A. has a strict 6,000 character limit so that's the best I can do. Cough up for volume two. But I'll leave you with a sneak peak.
+Now that we're ready for real chemistry, sorry. Volume is over. Honk. The A.D.A. has a strict character limit so that's the best I can do. Cough up for volume two. But I'll leave you with a sneak peak.
 
 [color=green][italic]// Tools: Vial. beaker. payload.
 // Machines: Grinder, Centrifuge
@@ -86,7 +156,7 @@ Now that we're ready for real chemistry, sorry. Volume is over. Honk. The A.D.A.
 [mono][bold][color=red]): Laughing Gas[/color][/bold][/mono]
 
 [color=#ff2fff]══════════════[/color]
-Keep it real, clown.
+Keep it real, clowns.
 
 [color=#ff2fff]══════════════════════════════════════════[/color]
 [bold]About the Author:[/bold] Violet Torrent is a senior researcher aboard an unnamed Nanotrasen research station, and founding member of the A.D.A. Her dream is to get married.
