@@ -1,4 +1,4 @@
-These chem guides use the Notepad++ user defined language feature to add color. Information is dense and probably difficult to parse without it. It's probably difficult to parse with it, too.
+These chem guides use the Notepad++ user defined language feature to add color. Information is dense and probably difficult to parse without it. It's probably difficult to parse with it, too. It's also probably out of date.
 
 The first line is the chemical name. In caps is what it heals. {} denotes healing per unit. \[\] denotes healing per pill. <> denotes a threshold needed to activate, such as Ambuzol. Overdose threshold is also found on the first line, with a 0 denoting no overdose.
 

@@ -1,0 +1,62 @@
+# Service Menu - Kitchen
+
+           [color=#2cb902][head=1]Today's Menu[/head]
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[/color]
+
+    [color=#2cb902][head=2]Special[/head]
+░░░░░░░░░░░░░░░░░░░░[/color]
+
+[head=3]Today's special is winner of the 167th Annual Food Fight competition hosted by Nanotrasen, the inovative [color=#2cb902][head=2]Banana Burger[/head][/color].[/head]
+
+
+    [color=#2cb902]☕ [head=2]Appetizer[/head]
+░░░░░░░░░░░░░░░░░░░░[/color]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Banana[/head] [color=#2cb902]✪[/color]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]The famous yellow fruit.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Tomato[/head]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]The famous red fruit.[/color][/italic]
+
+
+    [color=#2cb902]⚞ [head=2]Entree[/head] ⚟
+░░░░░░░░░░░░░░░░░░░░[/color]
+  [italic][color=#444444]All entrees include a side of cheese at request.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Rat Burger[/head]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]Comes in raw and well done.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Banana Burger[/head] [color=#2cb902]✪[/color]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]The best of both worlds.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Possibly Used Shirt[/head]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]A shirt I found.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Tomato Soup[/head] [color=red]♨[/color]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]Red water.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Organ Medley[/head]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]A bunch of leftover organs. Limited availability.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]2 Bananas[/head] [color=#2cb902]✪[/color]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]Double the potassium![/color][/italic]
+
+
+    [color=#2cb902]❦ [head=2]Desert[/head]
+░░░░░░░░░░░░░░░░░░░░[/color]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Spicy Banana[/head] [color=#2cb902]✪[/color] [color=red]♨[/color]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]The famous yellow fruit with extra flavor.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Banana Bread[/head]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]Dry banana.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Banana Muffin[/head]
+[mono][color=#2cb902]▪[/color][/mono]  [mono][color=#2cb902]▪[/color][/mono]  [italic][color=#444444]Worse banana bread.[/color][/italic]
+
+[mono][color=#2cb902]▪[/color][/mono]  [head=3]Slice of Cheese[/head]
+
+[italic][color=#aaaaaa]No refunds.
+
+Menu distributed by the A.D.A. (Administration Divisive Authority).[/color][/italic]
